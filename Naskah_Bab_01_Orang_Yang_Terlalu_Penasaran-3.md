@@ -100,29 +100,29 @@ Ia berjanji pada dirinya sendiri untuk memeriksa catatan itu nanti, setelah lapo
 
 Di kantor, Dito sudah menunggunya dengan dua bungkus nasi.
 
-"Yang satu untuk kamu," kata Dito. "Yang satu lagi juga untuk kamu, kalau kamu mengaku belum makan."
+"Yang satu buat lo," kata Dito. "Yang satu lagi juga buat lo, kalau lo ngaku belum makan."
 
-Raka menerima bungkus nasi itu. "Terima kasih. Saya bayar setelah reimbursement masuk."
+Raka menerima bungkus nasi itu. "Makasih. Gue bayar kalau reimbursement udah cair."
 
-"Saya sudah menduga jawabannya begitu."
+"Gue udah bisa nebak jawabannya."
 
 Mereka makan di meja masing-masing. Dito bercerita tentang pelanggan yang salah memasukkan kertas ke printer, sementara Raka membuka laptop untuk mengirim laporan toko percetakan. Ia menyalin hasil pengujian, melampirkan foto, dan menandai catatan sinkronisasi waktu sebagai **observasi tambahan—belum terverifikasi**.
 
 Dito melirik layar laptopnya.
 
-"Kamu masih sempat memasukkan hal kecil begitu?"
+"Lo masih sempat masukin hal kecil begitu?"
 
 "Kalau tidak ditulis, nanti orang berikutnya mengira tidak pernah terjadi."
 
 "Padahal mungkin cuma jamnya yang terlambat."
 
-"Mungkin. Itu sebabnya saya tulis sebagai observasi, bukan kesimpulan."
+"Mungkin. Makanya gue tulis sebagai observasi, bukan kesimpulan."
 
-Dito menatapnya sebentar, lalu mengangguk. "Kamu kalau urusan kerja memang beda."
+Dito menatapnya sebentar, lalu mengangguk. "Lo kalau urusan kerja emang beda."
 
-Raka membuka bungkus nasi. "Memangnya biasanya saya seperti apa?"
+Raka membuka bungkus nasi. "Emang biasanya gue kayak gimana?"
 
-"Biasanya kamu juga begini. Cuma mulutmu lebih banyak komentar kalau tidak sedang menulis laporan."
+"Biasanya lo juga begini. Cuma bacot lo lebih banyak kalau lagi enggak nulis laporan."
 
 Raka menerima penilaian itu tanpa membantah.
 
@@ -144,23 +144,23 @@ Dito memperhatikan layar ponselnya.
 
 "Bayarannya?"
 
-Raka tersenyum. "Itu pertanyaan yang lebih penting."
+Raka tersenyum. "Nah, ini baru pertanyaan penting."
 
-"Akhirnya kamu mengakui prioritas hidup."
+"Akhirnya lo ngaku juga soal prioritas hidup."
 
-"Kalau kontraknya tetap, saya bisa memperbaiki atap rumah."
+"Kalau kontraknya tetap, gue bisa benerin atap rumah."
 
-Dito berhenti bercanda. "Yang bocor itu?"
+Dito berhenti bercanda. "Atap yang bocor itu?"
 
-"Yang itu."
+"Iya, yang itu."
 
-"Kamu teknisi."
+"Lo teknisi."
 
-"Saya tahu."
+"Gue tahu."
 
-"Kenapa belum selesai?"
+"Terus kenapa belum beres?"
 
-Raka memasukkan ponsel ke saku. "Karena selama ini pelanggan lebih dulu."
+Raka memasukkan ponsel ke saku. "Selama ini pelanggan duluan terus."
 
 Tidak ada lelucon dalam jawabannya. Dito hanya mengangguk, lalu membuka bungkus nasinya sendiri.
 
@@ -174,15 +174,15 @@ Ia tidak menghubungkan perbedaan itu dengan angka di toko percetakan. Belum. Jam
 
 Keesokan paginya ia berangkat lebih awal. Dito mengirim pesan ketika lampu lalu lintas masih merah.
 
-> Jangan rusakkan gunung.
+> Jangan ngerusakin gunung.
 
 Raka membalas:
 
-> Saya datang untuk memeriksa perangkat, bukan mengubah geografi.
+> Gue datang buat ngecek perangkat, bukan ngubah geografi.
 
 Balasan Dito masuk beberapa detik kemudian.
 
-> Jawabanmu terlalu resmi. Saya jadi khawatir.
+> Jawaban lo terlalu resmi. Gue jadi takut.
 
 Raka tersenyum, lalu menyimpan ponsel sebelum lampu berubah hijau.
 
