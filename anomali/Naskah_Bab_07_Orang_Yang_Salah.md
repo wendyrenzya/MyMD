@@ -1,123 +1,327 @@
 # Bab 7 — Orang yang Salah
 
-Raka menatap foto itu sampai matanya terasa cekung. Ia tahu betul kapan ia berhenti benar‑benar melihat—detik itu datang ketika pikirannya memilih jalan pintas dan menolak bekerja. Di meja, citra yang baru saja diperbesar tetap menampilkan angka yang sama: 23:17:01. Di belakang sosok Raka, di satu frame tunggal, ada bayangan pria yang wajahnya sama persis dengan pria di foto arsip 1988. Di layar kecil itu kemiripan tampak terlalu rapi untuk kebetulan; tidak kabur, tidak samar — hanya muncul dan hilang seperti kata yang tidak ingin diselesaikan.
+Raka menatap foto itu sampai matanya mulai terasa kering.
 
-Hendra berdiri di samping Maya dengan tangan terlipat. Raka merasakan udara dingin dari AC dan panas aneh di tenggorokan—perpaduan gugup dan rasa ingin tahu.
+Di layar, timestamp tetap terbaca jelas: **23:17:01**. Pada satu frame hasil pemrosesan, ia berdiri di depan panel koridor. Di belakangnya, dalam pantulan kaca, terlihat sosok laki-laki yang wajahnya sama dengan pria pada foto arsip 1988.
 
-"Ada pertanyaan," Raka akhirnya berkata, karena lebih baik bertanya daripada berdiri seperti patung.
+Raka tahu kapan dirinya berhenti benar-benar melihat dan mulai mencari jalan keluar yang paling mudah. Momen itu datang ketika otaknya ingin menyebut semuanya sebagai kesalahan kamera, lalu menutup laptop dan pulang.
 
-Maya mengangguk. "Kami sedang mencoba memahaminya."
+Ia tidak melakukan itu.
 
-"Pertanyaan kedua," Raka menambahkan, "kenapa aku ada di situ?"
+Hendra berdiri di samping Maya dengan tangan terlipat. Maya membuka dua versi file: rekaman mentah dan hasil pemrosesan. File asli berada di satu folder, salinan kerja berada di folder lain, dan metadata keduanya sudah dicatat.
 
-Tidak segera ada jawaban. Hendra mengangkat bahu pelan—ekspresi teknisi yang ingin terlihat tak peduli, tapi tidak bisa menutup matanya dari layar itu.
+"Ada pertanyaan?" tanya Maya.
 
-"Karena kamu ada di foto," kata Hendra akhirnya, dan suaranya terdengar lebih small talk daripada penjelasan.
+Raka menunjuk layar. "Kenapa sosok itu muncul di hasil pemrosesan, tapi tidak terlihat di rekaman mentah?"
 
-"Itu tidak menenangkan," Raka bilang. Ia menarik kursi mendekat sampai lututnya bersentuhan dengan meja. Ada sesuatu tentang momen itu—menaruh tubuhnya di depan layar—seolah dengan cukup dekat ia bisa menarik keterangan yang tersembunyi.
+"Kami belum tahu."
 
-"Foto ini dari kamera koridor," Maya mulai menjelaskan, dan Raka memperhatikan cara ia memilih kata; ia sedang berhati‑hati memberi jawaban yang cukup tanpa membuka kotak.
+"Pertanyaan berikutnya: kalau hasilnya bergantung pada pemrosesan, bagaimana kita membedakan detail asli dari artefak algoritma?"
 
-"Jadi kamera yang memotret," Raka menyimpulkan.
+Maya mengangguk. "Itu yang sedang kami uji. Kami membandingkan beberapa metode pemrosesan dan menyimpan hasilnya sebagai salinan terpisah. Tidak ada yang kami perlakukan sebagai bukti tunggal."
 
-"Iya."
+Raka merasa sedikit lebih tenang. Bukan karena jawabannya menyenangkan, tetapi karena mereka menggunakan aturan yang masih ia kenali.
 
-"Kalau kamera bisa salah?"
+"Dan kenapa saya ada di situ?" tanyanya.
 
-"Bisa," kata Maya. "Tapi bukan jenis salah yang biasa."
+Hendra menjawab lebih dulu. "Karena kamu memang ada di kamera pada waktu itu."
 
-Raka menunggu. Dia tidak mau buru‑buru menuduh perangkat, paling tidak bukan sebelum menyadari sesuatu yang lebih aneh: file aslinya ada, metadata ada, timestamp tercatat 23:17:01, sinkronisasi terlihat normal. Itu seharusnya menguntungkan hipotesis "kamera error", bukan menghabisi semua hipotesis.
+"Itu fakta yang tidak membantu, tapi setidaknya faktual."
 
-"Foto yang kalian lihat adalah hasil ekstraksi dari rekaman," Maya berkata. Ia membuka laptop dan memperlihatkan timeline. "Rekaman mentah tidak menunjukkan orang itu. Orangnya baru muncul setelah reprocessing—penajaman reflektif dan interpolasi piksel. Satu frame saja."
+Maya menggeser timeline. Rekaman mentah menunjukkan Raka keluar dari kamar, berhenti di depan panel, lalu kembali masuk. Tidak ada bayangan yang terlihat pada pemutaran biasa. Setelah kontras dinaikkan dan pantulan diperjelas, satu frame menampilkan sosok lain.
 
-Raka mencondongkan kepala. Frame‑frame itu diputar perlahan di layar: dirinya berjalan keluar kamar, berhenti, frame di mana bayangan muncul, kemudian hilang, lalu dia berjalan lagi. Tidak ada gangguan cahaya, tidak ada pixelation khas glitch. Satu frame yang rapi, seperti titik kecil merah pada peta yang menunjuk sesuatu yang penting.
+"Tidak ada gangguan cahaya yang konsisten," kata Maya. "Tidak ada pola kompresi yang muncul di frame sebelum dan sesudahnya. Tapi pemrosesan juga bisa menciptakan bentuk yang tidak ada. Karena itu kami tidak akan menyebutnya identitas orang sebelum pemeriksaan lain selesai."
 
-"Kalau itu glitch, seharusnya pola gangguannya konsisten," Maya menambahkan. "Ini tidak."
+Raka mengangguk. "Berarti untuk laporan: sosok tambahan terlihat pada satu frame hasil pemrosesan; validitasnya belum dikonfirmasi."
 
-Raka mengulang pelan. "Satu frame." Ia berhasil menahan nada bersarkastiknya, setengah bangga karena masih bisa menjaga etika kerja teknisi—mengumpulkan fakta, menunda teori.
+"Betul."
 
-Maya menutup laptop dan membuka dokumen lain. Tampak daftar tahun di layar—1988, 1994, 2003, 2012, 2026—dengan kode lokasi dan catatan singkat di samping tiap baris. Raka membaca deret itu berkali‑kali sampai angka‑angkanya terasa seperti interval napas yang tidak beraturan.
+Ia menuliskan kalimat itu di buku kerjanya. Tidak ada kata-kata yang lebih dramatis. Dramatisasi tidak membuat file menjadi lebih benar.
 
-"Fenomena berulang," Maya bilang. "Polanya mirip, meski jarak antarkejadian tak tetap."
+Maya membuka folder lain. Daftar tahun muncul di layar:
 
-Raka menunjuk 2026. "Dan sekarang aku ada di daftar ini?"
+**1988 — 1994 — 2003 — 2012 — 2026**
 
-Maya tidak berkata apa‑apa. Ada jeda yang panjang, dan Raka merasakan ketegangan turun sedikit—surganya lelucon kecil, lalu kembali sunyi.
+Di samping setiap tahun terdapat kode lokasi, nomor perangkat, dan catatan singkat. Beberapa baris memiliki tanda yang sama dengan data OM-7E.
 
-Mereka menghabiskan hampir dua jam di sana. Maya memilih data yang menurutnya aman bagi seseorang yang bukan peneliti penuh; Raka menyimak tanpa protes. Ia hanya ingin satu jawaban yang bisa menuntun percakapan ke tempat yang bisa ia ketuk: apa sebenarnya yang terjadi malam itu?
+"Fenomena ini muncul berulang," kata Maya. "Pola antar-kejadian mirip, tetapi jedanya tidak tetap."
 
-Tidak ada jawaban memuaskan. Berkas‑berkas menumpuk bukti anomali, bukan sebabnya. Raka mengangkat bahu; itu kebiasaan lama yang menempel sejak ia jadi teknisi lapangan—ketika semuanya rumit, kerjakan yang bisa dikerjakan.
+Raka menunjuk 2026. "Dan tahun ini masuk daftar karena kejadian yang melibatkan saya?"
 
-Siang itu, telepon dari atasan memaksa Raka keluar dari gedung agar bisa bicara tenang. Sore gunung menyelinap di celah jendela. Pembicaraan singkat, prosedural, sampai atasan mengerem kata.
+Maya tidak langsung menjawab.
 
-"Kalau ada perubahan pekerjaan, kabari saya. Jangan ambil keputusan sendiri."
+Raka menunggu. Ia ingin membuat komentar, tetapi menahannya. Dalam rapat dengan data sensitif, candaan yang terlalu cepat bisa terdengar seperti ia tidak memahami bobot persoalan.
 
-"Siap," Raka menjawab, hampir otomatis.
+"Kami belum bisa mengatakan bahwa kamu penyebabnya," kata Maya akhirnya. "Kamu adalah titik yang tercatat dalam rangkaian kejadian ini. Itu saja yang bisa kami pertanggungjawabkan sekarang."
+
+"Titik yang tercatat," ulang Raka. "Kalimat itu terdengar seperti cara sopan untuk mengatakan saya masalah."
+
+Hendra meliriknya. "Jangan menyimpulkan sebelum ada data."
+
+"Saya belajar dari kalian."
+
+Mereka menghabiskan hampir dua jam meninjau berkas. Maya memilih data yang relevan dan tidak membuka dokumen yang aksesnya tidak dimiliki Raka. Setiap kali sebuah file terbatas muncul, ia menutupnya atau menjelaskan bahwa bagian tersebut belum dapat dibagikan.
+
+Raka tidak memaksa. Ia meminta daftar nomor dokumen yang boleh dicantumkan dalam laporan, lalu menulisnya satu per satu.
+
+Yang tersedia adalah bukti anomali, bukan penyebabnya. Raka mengembalikan laptop ke meja.
+
+"Kalau begitu pekerjaan saya sekarang apa?" tanyanya.
+
+"Selesaikan pemeriksaan perangkat yang masih menjadi tanggung jawabmu. Jangan menyentuh unit lain."
+
+"Dan kalau saya melihat sesuatu yang tidak terdaftar?"
+
+"Foto dari jarak aman, catat lokasi, lalu laporkan."
+
+"Jangan ambil?"
+
+"Jangan ambil."
+
+"Baik."
+
+Siang itu, telepon dari atasannya masuk ketika Raka berada di luar gedung utama. Ia berdiri di bawah atap, menghadap lereng, agar suara angin tidak menutupi percakapan.
+
+"Kalau ada perubahan pekerjaan, kabari saya," kata atasannya. "Jangan ambil keputusan sendiri."
+
+"Siap."
 
 "Ada satu lagi. Jangan sentuh perangkat yang tidak ada di daftar."
 
-Kalimat itu terasa aneh dari mulut atasan yang biasanya hemat kata. Raka tahu kata‑kata itu bukan hanya prosedur — ada nada kewaspadaan yang tidak ia kenal. Ia mengangguk meski tak ada yang melihat.
+Raka memandang ke arah bangunan timur. "Saya mengerti. Kalau menemukan benda atau data di luar daftar, saya amankan sesuai prosedur dan laporkan?"
 
-Malamnya, pekerjaan kecil: printer label di gedung utama mogok, selalu mencetak miring. Raka membuka tutupnya; Hendra nongol di belakang, menunggu tindakan teknisi yang tampak heroik namun sebetulnya kebanyakan masalahnya sederhana. Kertas dimasukkan terbalik. Raka membaliknya; printer kembali normal. Sebuah lelucon teknis, Raka bilang pada Hendra, dan Hendra ketawa—semburan lega sebelum malam kembali dingin.
+"Jangan amankan sendiri kalau tidak perlu. Hubungi penanggung fasilitas."
 
-Di kamarnya nanti, Raka berbaring menonton video ringan sampai kantuk menyeret. Ketukan di pintu membangunkannya — tok, tok; dua kali, lalu lagi setengah volume. Ia membuka pintu: koridor kosong. Ia menoleh kanan kiri; tubuhnya sudah siap untuk tidak percaya pada apa pun yang tak logis. Hampir menutup pintu ketika matanya menangkap sesuatu di lantai: sebuah lingkaran logam kecil, mengkilap redup.
+"Baik. Saya catat."
 
-Raka membungkuk. Benda itu dingin, lebih dingin dari udara. Titik kecil di tengahnya terlihat seperti LED yang tertekan, tapi permukaan logamnya polos, tanpa tulisan—kecuali goresan halus yang ia kenali dari foto lama: bentuk lingkaran itu persis seperti yang dipakai pria di foto 1988. Raka merasa sedikit seperti orang yang menemukan barang hilang di kamar kos — tapi barang itu membawa tag besar bertuliskan pertanyaan.
+Atasannya mengakhiri panggilan. Raka menulis instruksi tersebut di buku kerja, lengkap dengan waktu penerimaan. Ia tidak tahu mengapa atasan menekankan larangan itu lebih keras dari biasanya, tetapi ia tidak perlu tahu alasannya untuk mematuhinya.
 
-Beberapa detik kemudian ponselnya bergetar, pesan dari nomor asing muncul:
+Sore hari, printer label di gedung utama bermasalah. Hendra meminta Raka memeriksanya karena pekerjaan itu masuk daftar perawatan biasa.
+
+Raka membuka panel luar setelah mematikan printer dan mencabut daya. Kertas masuk terbalik. Ia membalik susunannya, membersihkan jalur, lalu menyalakan kembali perangkat setelah memastikan penutup terpasang.
+
+Printer kembali bekerja.
+
+"Kasus besar," kata Hendra.
+
+"Jangan meremehkan kertas. Dia punya sejarah panjang mengacaukan sistem."
+
+Hendra tertawa. Humor itu aman karena perangkat sudah tidak berisiko dan pekerjaannya selesai.
+
+Malamnya, Raka berada di kamar vendor sambil memeriksa laporan. Ia tidak membuka lagi foto bayangan. Tidak karena tidak penasaran, tetapi karena ia sudah menyimpan salinan resmi dan tidak ingin membuat interpretasi tambahan hanya karena menatap gambar terlalu lama.
+
+Ketukan terdengar dari koridor.
+
+Tok. Tok.
+
+Dua kali, lalu sekali lagi dengan suara yang lebih kecil.
+
+Raka berhenti membaca. Ia tidak mengambil alat atau membuka pintu dengan tergesa-gesa. Ia memeriksa kamera koridor dari monitor kecil di meja, tetapi feed hanya menunjukkan lantai kosong.
+
+Ia mengirim pesan kepada Hendra.
+
+> Pak, ada ketukan di luar kamar vendor. Kamera koridor tidak menunjukkan orang. Saya cek dari dalam dulu.
+
+Hendra membalas:
+
+> Jangan buka kalau tidak perlu. Saya kirim petugas.
+
+Ketukan terdengar lagi.
+
+Raka berdiri di samping pintu, bukan tepat di depannya. Ia menunggu petugas fasilitas datang. Beberapa detik kemudian, suara langkah terdengar dari ujung lorong. Seorang petugas keamanan memeriksa koridor dan melaporkan tidak ada orang di sana.
+
+Namun setelah petugas pergi, Raka melihat sesuatu di lantai dekat ambang pintu.
+
+Sebuah lingkaran logam kecil.
+
+Benda itu tidak memiliki label fasilitas, nomor inventaris, atau tanda kepemilikan. Permukaannya kusam, dengan goresan halus yang mirip pola pada medali di foto arsip 1988.
+
+Raka tidak menyentuhnya.
+
+Ia memotret benda itu dari tiga sudut dengan penggaris pengukur jarak, lalu memotret area sekitarnya. Ia mencatat waktu, nomor kamar, posisi benda terhadap pintu, dan kondisi lantai.
+
+Ponselnya bergetar. Pesan dari nomor asing muncul.
 
 > Jangan dibawa ke bangunan timur.
 
-Raka membaca dua kali. Lalu dia mengetik "Siapa?" dan tekan kirim. Pesan tidak terkirim; nomor itu tidak dapat dihubungi. Raka menatap benda di meja, lalu pintu; sekilas ia teringat peringatan atasan hari itu. Rasa ingin tahu menang. Ia mengangkat benda dan membawanya ke kamar.
+Raka membaca pesan itu dua kali. Ia mengetik **Siapa?**, tetapi pesan tidak terkirim. Nomor tersebut tidak dapat dihubungi.
 
-Di ruang kontrol, notifikasi kecil menyala. Raka tidak sedang memikirkan ruang kontrol, tapi ia tahu tempat itu ada—orang ada di sana memantau. Di layar besar muncul teks yang terformat tegas:
+Ia tidak memasukkan benda itu ke saku.
+
+Sebagai gantinya, ia menghubungi Hendra melalui saluran fasilitas.
+
+"Pak, ada objek logam tidak terdaftar di depan kamar vendor. Saya belum menyentuhnya. Ada pesan anonim yang melarang membawanya ke bangunan timur."
+
+Hendra terdiam sejenak. "Jangan sentuh. Saya datang dengan petugas keamanan dan kantong bukti."
+
+"Baik. Saya jaga lokasi."
+
+Raka berdiri di sisi koridor yang tidak menghalangi jalan. Ia tidak menutup benda itu dengan kain, tidak memindahkannya dari posisi semula, dan tidak mengizinkan staf lain mendekat sebelum Hendra datang.
+
+Hendra tiba bersama petugas keamanan dan satu wadah bukti transparan. Ia memotret objek sekali lagi dari sudutnya sendiri, kemudian memakai sarung tangan.
+
+"Kamu sudah menyentuh?" tanya Hendra.
+
+"Belum. Foto awal, lokasi, waktu, dan pesan anonim sudah saya simpan."
+
+Hendra mengangguk. "Bagus. Kita masukkan ke kantong bukti dan simpan di loker sementara. Bukan kamar kamu."
+
+"Saya setuju."
+
+Mereka mengangkat objek menggunakan penjepit bersih, memasukkannya ke kantong bukti, lalu memberi label:
+
+**OBJEK LOGAM TIDAK TERDAFTAR**
+
+**Lokasi: Koridor kamar vendor**
+
+**Waktu ditemukan: 22:48**
+
+**Penemu: Raka Pradana**
+
+**Status: menunggu pemeriksaan fasilitas**
+
+Raka membubuhkan paraf pada log serah-terima. Hendra juga menandatangani. Kantong bukti kemudian diletakkan di loker penyimpanan sementara yang hanya dapat dibuka oleh petugas fasilitas dan penanggung jawab analisis.
+
+Raka tidak tahu apakah pesan anonim itu peringatan atau jebakan. Namun ia tahu setidaknya satu hal: membawa objek ke kamar atau bangunan timur akan menghapus batas antara pekerjaan dan rasa ingin tahu. Ia tidak mau membuat kesalahan itu.
+
+Beberapa detik setelah loker dikunci, panel akses koridor berkedip.
 
 **AKSES KORIDOR: NORMAL.**
 
-Beberapa detik kemudian baris lain muncul:
+Kemudian baris lain muncul.
 
 **OBJEK TERDETEKSI: TIDAK TERDAFTAR.**
 
-Operator yang bertugas memperbesar feed koridor. Rekaman beberapa detik sebelumnya hanya menampilkan lantai kosong; tidak ada benda. Sedikit artefak kompresi di pojok—biasanya diabaikan—namun objek itu tak terlihat. Ketika operator berpindah ke kamera kamar Raka, benda itu jelas di tangan Raka. Wajah operator berubah.
+Petugas keamanan membuka feed kamera. Beberapa detik sebelumnya, lantai koridor terlihat kosong. Rekaman tidak menunjukkan objek muncul atau dipindahkan. Namun ketika kamera berganti ke loker bukti, kantong transparan di dalamnya terlihat jelas.
 
-"Objeknya muncul," katanya cepat ke telepon internal.
+"Objeknya terdeteksi," kata petugas melalui radio.
 
-"Di mana?" suara di seberang menanyakan.
+Operator ruang kontrol memperbesar gambar. "Di loker?"
 
-"Dengan teknisi."
+"Iya."
 
-"Mustahil." Ada napas di ujung kata.
+"Tunggu. Sistem juga membaca keberadaan objek di area kamar vendor."
 
-Operator mengunyah kata‑kata. "Dia membawanya."
+Operator berpindah ke kamera koridor. Lantai masih kosong. Ia membuka kamera di dalam kamar Raka.
 
-Hening. Lalu instruksi datang, ringkas dan tegas: "Jangan dekati dia."
+Di atas meja Raka, lingkaran logam itu terlihat.
 
-Operator bertanya mengapa. Jawabannya tenang dan sederhana sekaligus memalukan: "Karena kalau benda itu sudah memilih dia, kita tidak tahu apa yang akan terjadi kalau kita mengambilnya." Seperti aturan lama yang tidak dijelaskan, terdengar seperti nasihat dari buku prosedur yang dipakai untuk hal‑hal yang seharusnya tidak terjadi lagi.
+Operator memeriksa waktu pada dua kamera. Loker menunjukkan kantong bukti masih berada di tempatnya. Kamera kamar menunjukkan objek yang sama berada di atas meja.
 
-Di kamar, Raka duduk di tepi tempat tidur dan memperhatikan lingkaran logam itu tergeletak di telapak tangannya. Beberapa detik berlalu tanpa peristiwa. Lalu monitor di ruang kontrol berkedip dan menunjuk angka yang sama: 23:17:01. Raka menoleh ke arah kamera—bukan ke pintu, tidak ke jendela. Ia memandang langsung ke lensa plastik kecil itu, dan untuk beberapa detik ia merasa seperti berhadapan dengan seorang penyiar yang menatap langsung ke kamera pada jam berita.
+Tidak ada rekaman perpindahan.
 
-"Kalau kalian mau mengawasi saya, kameranya jangan kelihatan," katanya, setengah bercanda, setengah serius—suaranya mengambang di sana. Tidak ada mikrofon yang aktif di kamar itu, seharusnya. Namun sejak objek logam terdeteksi, beberapa kanal audio yang terpisah mulai menerima sinyal yang sama dengan jeda pendek; operator sudah melihat gejalanya pada log, hanya belum pernah mendengar suara manusia masuk ke dalamnya. Di ruang kontrol, operator terperanjat mendengar suara Raka keluar melalui speaker.
+"Objeknya muncul di kamar teknisi," kata operator.
 
-Raka mengambil bantal dan menutup kamera. Layar di ruang kontrol menjadi hitam. Sesaat suara di sana sunyi, lalu pintu ruang kontrol terbuka dan Maya masuk. Ia melihat layar gelap, lalu menoleh ke operator.
+Suara dari seberang radio menjadi lebih pelan. "Jangan dekati dia."
 
-"Apa yang terjadi?"
+"Dia tidak menyentuhnya."
 
-"Dia tahu," jawab operator. Suaranya pelan. "Entahlah sejak kapan."
+"Tetap jangan dekati."
 
-Maya mendekat, melihat raut wajah operator, melihat waktu pada monitor, dan menutup mata sejenak. "Kalau begitu, kita terlambat," katanya—bukan pada Raka, tapi pada sesuatu yang sudah dimulai jauh sebelum mereka sempat mengerti.
+Operator tidak bertanya lagi. Ia menyimpan rekaman mentah, menandai timestamp, dan mengirimkan notifikasi kepada Maya.
 
-Raka berdiri di kamar, meletakkan benda di meja. Selera leluconnya masih ada, meski lebih tipis; ia mencoba mengolok‑olok situasi pada dirinya sendiri dengan pesan singkat kepada Dito: "Gue kayaknya dapat masalah." Ia menghapusnya, lalu mengetik ulang dan menghapus lagi; akhirnya yang dikirim hanya: "Masih hidup."
+Di kamar, Raka belum kembali. Ia masih berada di loker bukti bersama Hendra, menunggu petugas mengunci formulir serah-terima. Kamera menampilkan meja kosong beberapa detik sebelum objek itu terlihat di atasnya.
 
-Balasan datang cepat: "Sayang banget." Raka tertawa kecil. Gelak kecil itu mereda cepat; ia berbaring dan lampu dimatikan.
+Ketika Raka akhirnya kembali, ia menemukan benda tersebut di meja.
 
-Di meja, lingkaran logam itu diam. Sesekali Raka mendengar ranting menabrak jendela, membuat bayangan bergerak di tirai. Ia memejamkan mata. Hening. Lalu, ketukan kecil—tok—di permukaan benda.
+Ia berhenti di ambang pintu.
 
-Raka membuka mata. Tok lagi. Benda itu tidak bergeser. Tok. Raka duduk tegak dan menatapnya.
+Tidak ada amplop, tidak ada label, tidak ada penjelasan. Hanya lingkaran logam yang seharusnya berada di loker.
 
-"Jangan mulai," katanya, setengah pada benda, setengah pada situasi.
+Raka tidak mendekat. Ia memotret objek dari pintu dan menghubungi Hendra.
 
-Benda itu diam selama beberapa detik yang terasa lama. Bagian tengahnya kemudian mulai menyala perlahan: sebuah titik kecil berdenyut, lembut, seperti indikator pada perangkat yang baru saja diberi sedikit arus listrik. Sekali. Dua kali. Tiga kali.
+> Pak, objek yang kita simpan di loker sekarang terlihat di meja kamar saya. Saya belum masuk dan belum menyentuhnya.
 
-Di ruangan lain, sesuatu yang sudah lama mati menerima sinyal pertama setelah tiga puluh delapan tahun. Monitor yang tak pernah menyala di kantor arsip menghidupkan panelnya; huruf‑huruf muncul, garis terakhir menyudahi jeda panjangnya:
+Hendra menjawab hampir seketika.
+
+> Tetap di luar. Maya sedang ke sana.
+
+Raka berdiri di koridor sambil menatap pintu kamarnya. Dalam kepala, sebuah lelucon muncul tentang barang yang tidak paham konsep chain of custody.
+
+Ia tidak mengucapkannya.
+
+Beberapa menit kemudian, Maya datang bersama petugas keamanan. Mereka masuk setelah mendokumentasikan posisi objek dan mematikan akses kamera internal untuk mencegah perubahan prosedur yang tidak perlu.
+
+Raka tetap di luar, menjawab pertanyaan Maya dari ambang pintu.
+
+"Apakah kamu mengambilnya dari lantai?"
+
+"Tidak. Saya tidak menyentuhnya sama sekali."
+
+"Apakah ada orang lain yang masuk?"
+
+"Petugas keamanan memeriksa koridor, tetapi tidak masuk kamar. Hendra dan saya berada di loker setelah objek disegel."
+
+Maya mencatat jawabannya.
+
+Ketika ia hendak mengangkat kotak pelindung, lampu kecil di tengah objek menyala.
+
+Di ruang kontrol, monitor menampilkan angka:
+
+**23:17:01**
+
+Raka menatap kamera di sudut kamar. Ia tidak tahu apakah audio di ruangan itu aktif.
+
+"Kalau kalian mau mengawasi saya, tolong catat juga bahwa saya tidak menyentuh barangnya," katanya.
+
+Suara Raka tiba-tiba terdengar dari speaker ruang kontrol, meskipun mikrofon kamar seharusnya tidak aktif.
+
+Operator terlonjak dari kursinya.
+
+Maya menoleh ke kamera. Hendra menatap Raka dari ambang pintu.
+
+Raka sendiri diam. Ia tidak tersenyum.
+
+Di ruang kontrol, operator memutus kanal audio kamar. Suara itu tetap terdengar satu detik lebih lama, lalu berhenti.
+
+Maya menutup mata sejenak.
+
+"Simpan semua log," katanya. "Jangan hapus apa pun."
+
+"Sudah," jawab operator.
+
+Raka meminta agar pernyataannya dicatat sebagai laporan insiden. Maya mengangguk dan membuka formulir baru.
+
+Malam itu, setelah objek dipindahkan ke ruang analisis dengan pengawalan dan rantai bukti yang lengkap, Raka mengirim pesan kepada Dito.
+
+> Gue kayaknya dapat masalah.
+
+Ia menghapusnya. Kalimat itu terlalu ringan.
+
+Ia mengetik lagi:
+
+> Masih hidup.
+
+Dito membalas:
+
+> Sayang banget.
+
+Raka tertawa kecil, tetapi gelak itu berhenti cepat.
+
+Di meja ruang analisis, objek logam terbaring di dalam wadah transparan. Tidak ada yang menyentuhnya tanpa sarung tangan. Tidak ada yang membawanya keluar dari ruangan.
+
+Lalu terdengar satu ketukan dari permukaannya.
+
+Tok.
+
+Raka membuka mata.
+
+Tok.
+
+Ia menatap benda itu dari balik kaca pengaman.
+
+"Jangan mulai," katanya.
+
+Titik kecil di tengah lingkaran logam menyala perlahan.
+
+Sekali.
+
+Dua kali.
+
+Tiga kali.
+
+Di ruang arsip yang tidak tercantum dalam peta fasilitas, sebuah panel lama menerima sinyal setelah tiga puluh delapan tahun.
+
+Huruf-huruf muncul di layar.
 
 **SUBJEK KEMBALI.**
