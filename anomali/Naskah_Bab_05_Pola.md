@@ -2,112 +2,256 @@
 
 Pagi itu Raka terlambat sarapan karena seekor burung membawa kabur telur rebus dari piringnya.
 
-Secara teknis burung itu tidak melanggar hak milik, karena memang tidak ada perjanjian tertulis antara Raka dan satwa liar. Secara praktis, ketika benda kecil berbulu itu terbang sambil menjepit telur di paruhnya, istilah "pencurian" terasa cukup tepat.
+Secara hukum, perkara itu mungkin sulit dibuktikan. Tidak ada perjanjian tertulis antara Raka dan burung tersebut. Tidak ada kamera yang menghadap langsung ke meja. Namun ketika benda kecil berbulu itu terbang sambil menjepit telur dengan paruhnya, kata **pencurian** terasa cukup tepat.
 
-"Hei!" Raka berdiri sambil membawa sendok. Burung itu hinggap di pagar, telur masih di paruhnya, memiringkan kepala seolah menilai situasi.
+"Hei!" Raka berdiri sambil membawa sendok.
+
+Burung itu hinggap di pagar, telur masih di paruhnya, lalu memiringkan kepala seolah sedang menunggu penjelasan teknis.
 
 "Balikin."
 
-Seorang staf di meja sebelah menahan tawa. "Dia enggak mungkin balikin."
+Seorang staf di meja sebelah menahan tawa. "Enggak mungkin dibalikin."
 
 "Kenapa?"
 
 "Karena sudah diambil."
 
-"Itu bukan alasan," Raka protes, lalu menyerah melihat sepatu ketsnya. "Enggak, saya belum sarapan."
+"Itu bukan prosedur pengembalian yang sah."
 
-Burung itu terbang ke pohon. Raka mengambil roti, duduk, dan memutuskan bahwa ia mulai hari ini tidak akan percaya sepenuhnya pada satwa liar. Rekan kantin tertawa lebih keras, dan suasana pagi tetap ringan—sebuah kontrapoin kecil terhadap hari kerja yang seharusnya biasa.
+Burung itu terbang ke pohon.
 
-Di fasilitas, OM-7E menunjukkan angka-angka yang akrab: normal, stabil, tidak marah. Raka menyukai itu; perangkat elektronik yang kembali normal berarti pekerjaan yang selesai, atau setidaknya pekerjaan yang bisa dilempar ke teknisi berikutnya.
+Raka melihat piringnya, lalu melihat sepatu ketsnya. Ia tidak mengejar. Di tempat kerja, ia sudah belajar bahwa mengejar sesuatu tanpa rencana biasanya menghasilkan masalah tambahan dan laporan yang lebih panjang.
 
-Pukul sebelas, Hendra muncul dengan tablet dan raut wajah yang bukan salah satu dari dua ekspresi biasa: santai atau lelah. Ia memanggil Raka.
+Ia mengambil roti, duduk, dan menulis satu pesan kepada Dito.
 
-"Ikut saya," katanya, pendek.
+> Telur gue dirampok burung.
 
-Mereka tidak ke ruang OM-7E, melainkan ke sebuah ruangan kecil di bagian belakang fasilitas—ruang analisis yang jarang dimasuki teknisi lapangan. Di dalamnya ada dua meja, beberapa monitor, dan layar besar yang menampilkan grafik berlapis. Di salah satu monitor seorang perempuan menoleh; Raka mengenalnya dari beberapa kali melihatnya melintas di kompleks—dia yang selalu membawa tablet casing biru.
+Balasan Dito datang sebelum Raka selesai membuka bungkus roti.
 
-"Halo," Hendra memperkenalkan. "Dr. Maya Anindita."
+> Akhirnya ketemu lawan yang enggak bisa lo servis.
 
-"Raka Pradana," katanya, sambil duduk.
+Raka membalas:
 
-Maya memutar layar sehingga Raka bisa melihat kumpulan garis yang tampak seperti upaya beberapa sinyal saling berdebat. Pada beberapa bagian kecil terlihat loncatan tajam—gangguan singkat yang tidak cocok dengan alur normal.
+> Gue sedang menyusun laporan insiden.
 
-"Ini data dari perangkat yang kamu kerjakan kemarin," kata Maya tanpa basa-basi.
+> Judulnya?
 
-Raka mengangguk. Ia menjelaskan apa yang dilakukannya: memindah kabel beberapa sentimeter, menguji konektor, dan beberapa kali mendekatkan tangan ke perangkat. Ketika Maya bertanya berapa jauh kabel dipindah, Raka mengangkat bahu.
+> **Kegagalan Sistem Keamanan Sarapan.**
 
-"Tiga. Mungkin empat. Saya enggak ukur."
+Dito mengirim gambar tertawa. Raka menyimpan ponsel dan mulai makan.
 
-"Berapa kali kamu menyentuhnya?"
+Beberapa menit kemudian, ia kembali ke ruang kerja. OM-7E tampak normal. Nilai tegangan stabil, sensor lingkungan berada dalam rentang biasa, dan modul pencatat tidak menunjukkan gangguan baru. Raka menyukai keadaan itu. Perangkat elektronik yang kembali normal berarti pekerjaan selesai, atau setidaknya pekerjaan sudah memiliki bukti yang cukup untuk ditinggalkan sementara.
 
-"Perkiraan? Sepuluh. Atau dua belas."
+Pukul sebelas, Hendra muncul membawa tablet. Wajahnya tidak menunjukkan ekspresi santai atau lelah yang biasanya ia pakai. Ia hanya memberi isyarat agar Raka mengikutinya.
 
-Maya mengamati dia, tidak menertawakan—hanya mencatat. "Masuk akal," katanya akhirnya. "Yang menarik bukan perangkatnya. Yang menarik pola waktunya."
+"Ke ruang analisis?" tanya Raka.
 
-Ia memperbesar satu segmen grafik. Maya menunjuk dua sinyal yang, ketika diselaraskan pada skala yang sama, menunjukkan selisih konsisten sebesar 0,8 detik antara puncak-puncaknya.
+"Iya."
 
-"0,8 detik," Raka mengulang, mencoba merasakan angka itu seperti orang yang baru dengar istilah teknis. Maya menunjuk catatan awal dari perangkat lain: kejadian pertama yang pernah dilaporkan terjadi sekitar 08:17, sedangkan rangkaian di fasilitas berulang pada 23:17. "Dua waktu itu belum bisa kami sebut satu kejadian yang sama," katanya, "tapi keduanya muncul ketika sistem sedang menyelaraskan ulang."
+"Perlu bawa laptop?"
 
-Maya mengangguk. "Bukan kebetulan. Dan—" ia menarik dataset lain dari arsip digital, "—ketika kita menyesuaikan skala, pola ini mirip satu rekaman lama."
+"Bawa."
 
-Di layar, sebuah tanggal muncul: 1988. Raka melihat keterangan itu; di kepalanya angka itu terasa jauh sekaligus menempel ke realitas fasilitas yang sama.
+"Baik. Berarti ini bukan rapat yang bisa selesai dengan mengangguk."
 
-"1988 (38 tahun lalu)," Maya menambah, seperti menandai jarak waktu supaya semua orang paham ukurannya. "Perangkat berbeda, sensor berbeda, lokasi hampir sama. Tapi pola garisnya berkaitan."
+Hendra tidak menjawab. Raka mengambil laptop, buku kerja, dan salinan data OM-7E yang sudah diberi label.
 
-Raka merasa ada sesuatu yang menempel di kata "berkaitan" itu—cukup untuk membuat leluconnya menguap sejenak. Hendra yang berdiri di sampingnya menepuk punggungnya setengah bercanda.
+Ruang analisis berada di bagian belakang fasilitas dan jarang digunakan oleh teknisi vendor. Di dalamnya ada dua meja kerja, beberapa monitor, serta layar besar yang menampilkan grafik berlapis. Perempuan dengan tablet casing biru berdiri di dekat layar. Kali ini Raka melihat wajahnya dengan jelas.
 
-"Jawaban favorit orang di sini," Raka berkata, dan Maya tersenyum samar. "Kita belum tahu," dia menambahkan, tegas tanpa dramatisasi.
+"Raka, ini Dr. Maya Anindita," kata Hendra.
 
-Maya, dengan nada kerja yang tidak berpretensi, menyebut salah satu hipotesis yang sering muncul di meja rapat: grounding atau induksi lokal—perubahan posisi kabel dan sambungan yang mengubah fase atau timing. Itu bukan keterangan final, hanya sebuah cara untuk memasang keterangan teknis yang mungkin. Mereka belum tahu pemicunya; data sementara hanya menunjukkan korelasi dengan posisi penanda logam, keberadaan manusia tertentu, dan momen sinkronisasi. Offset sekitar satu detik pada log awal telah diukur ulang menjadi 0,8 detik oleh pencatat beresolusi tinggi. Sementara itu, 16,8 detik adalah durasi satu rangkaian rekaman, bukan ukuran offset.
+Maya mengulurkan tangan. "Raka Pradana?"
 
-"Catat ini sebagai hipotesis kerja," katanya. "Interferensi yang dipengaruhi kondisi fisik lapangan. Tapi jangan baca ini sebagai jawaban."
+"Betul."
 
-Sementara Raka mencoba mengembalikan kepalanya ke hal-hal mudah—makanan, lelucon tentang dokter dengan gelar yang memberi persamaan alih-alih obat—ruang analisis tetap memproses angka. Maya menyorongkan satu set lain ke layar; ketika skala disesuaikan, kesamaan dengan rekaman 1988 menjadi menonjol: bukan duplikat, tapi gema.
+"Terima kasih sudah membawa salinan data dan catatan pengujian."
 
-Jauh di bawah lapisan ruangan itu, di sebuah ruang tanpa jendela yang tidak tercatat di peta fasilitas, tiga orang duduk mengamati grafik yang sama. Dindingnya berlapis material penyerap suara, layar memenuhi satu sisi ruang, dan suasana serius menebal seperti kopi hangat.
+"Sama-sama. Saya juga membawa log mentahnya kalau diperlukan."
 
-"Polanya muncul lagi," kata pria paruh baya dengan kemeja putih. Seorang pria muda mengangkat satu berkas. "Enam belas koma delapan detik," jawabnya.
+Maya mengangguk dan memutar layar ke arah mereka. Grafik-grafik yang muncul tampak seperti beberapa garis sedang berusaha saling menyampaikan pendapat, tetapi tidak ada satu pun yang mau berbicara dengan lengkap.
 
-"Kemudian sumber?" tanya si beruban.
+"Ini data dari OM-7E selama dua gangguan terakhir," kata Maya. "Kami cocokkan dengan sensor lingkungan, log komunikasi, dan pencatat tambahan yang kamu pasang."
 
-"Teknisi eksternal," kata pria muda itu, menunjukkan foto ID—Raka.
+Raka membuka laptopnya. "Saya bisa jelaskan urutan pengujiannya dulu. Kabel dipindahkan setelah jalur dimatikan dan kondisi awal difoto. Pengukuran dilakukan dalam tiga kondisi. Hubungan dengan perubahan pembacaan ada, tetapi belum konsisten."
 
-"Teknisi?" si beruban memeriksa foto beberapa detik. "Kelihatan biasa."
+Maya melihat catatannya. "Berapa jauh kabel dipindahkan?"
 
-Seorang perempuan di meja menunjuk pada grafik. "Belum tentu orangnya," katanya. "Bisa jadi fenomenanya yang memilih lokasi."
+"Tiga sentimeter pada uji pertama. Uji kedua sekitar tiga sentimeter juga, dengan posisi awal dikembalikan di antara pengukuran. Jaraknya saya ukur, bukan perkiraan."
 
-Sunyi sebentar. Si beruban menaruh kopinya. "Jangan mengawasi teknisi itu terlalu dekat," katanya kemudian. "Kalau dia memang tidak tahu, kita cuma akan membuat orang biasa curiga. Kalau dia tahu, kita punya masalah lebih besar."
+"Dan berapa kali kamu menyentuh perangkat?"
 
-Instruksi itu tidak bernada jahat; ia bernada berhitung. Pengamatan harus dilakukan dari balik jendela gelap, jika harus—bukan dari depan meja kopi.
+"Hanya pada langkah yang sudah tercatat. Setelah konfigurasi uji ditetapkan, saya tidak menyentuh kabel lagi."
 
-Kembali di kantin fasilitas, Raka dan Hendra memakan makanan seadanya. Raka bertanya soal Dr. Maya—"Peneliti apa?"—dan Hendra hanya menjawab, "Peneliti," yang cukup untuk membuat keduanya tertawa: jawaban malas yang jujur. Ketegangan pagi mereda dengan cara-cara kecil: obrolan kosong, angin yang masuk dari jendela, dan sebuah rice cooker yang mengeluarkan bau hangus.
+Maya mengangkat pandangan dari tablet. "Kamu mencatat itu dengan cukup rinci."
 
-"Maaf!" seorang petugas kantin berteriak. Asap tebal menggulung dari arah dapur. Nasinya gosong; tidak ada ledakan, hanya kering dan panggang, sejenis kecelakaan domestik yang menyingkirkan pikiran berat beberapa menit.
+"Kalau saya tidak mencatat, nanti rasa penasaran saya bisa menyamar sebagai data."
 
-Raka membantu membuka jendela. Udara pegunungan mendorong asap keluar. Dari situ, di antara pepohonan, ia melihat salah satu menara sensor: lampu kecil di puncaknya berkedip—sekali. Kemudian sekali lagi.
+Maya tersenyum singkat. "Itu kalimat yang bagus. Tapi yang menarik bukan kabelnya. Yang menarik pola waktunya."
 
-"Hend," Raka menoleh. "Kalau lampunya kedip dua kali, itu normal?"
+Ia memperbesar satu segmen grafik. Dua sinyal ditampilkan pada skala yang sama. Puncaknya muncul hampir bersamaan, tetapi tidak persis. Salah satunya selalu tertinggal.
 
-Hendra menatap sebentar ke arah menara. "Harusnya," katanya. Lalu menambahkan, separuh bercanda, "Jangan mulai."
+"Selisihnya berapa?" tanya Raka.
 
-Raka kembali duduk, tidak tahu bahwa pada saat yang hampir bersamaan, di suatu konsol monitor lain yang tidak jauh dari ruangan rahasianya, seseorang menekan beberapa tombol untuk mencari nama di basis data.
+"Nol koma delapan detik. Kami sudah mengulang pengukuran pada beberapa segmen."
 
-Layar menampilkan:
+Raka membuka file pencatat tambahan dan membandingkan penanda waktunya. Angka itu sama dengan yang ia temukan kemarin.
 
-RAKA PRADANA
+**0,8 detik.**
 
-Kecocokan pola: belum dapat ditentukan.
+Maya menggeser tampilan ke dataset lain. "Sekarang lihat waktunya."
 
-Di bawahnya baris lain:
+Di salah satu catatan awal terlihat entri sekitar **08:17**. Di dataset fasilitas muncul rangkaian berulang pada **23:17**. Raka tidak langsung menganggap kedua waktu itu sebagai kejadian yang sama. Jam yang berbeda bisa berarti zona waktu, perangkat yang tidak sinkron, atau sistem yang menulis waktu lokal dengan aturan berbeda.
 
-Riwayat keluarga: akses terbatas.
+"Apa hubungan keduanya?" tanya Raka.
 
-Operator yang melihat layar mengernyit, menaikkan hak akses, dan menerima penolakan. Ia menekan lagi—sistem menolak lagi. Di layar ada batas, dan untuk pertama kali hari itu ia mengernyit.
+"Belum bisa kami pastikan," kata Maya. "Keduanya muncul ketika sistem sedang melakukan penyelarasan ulang. Polanya mirip, tetapi konteksnya berbeda."
 
-"Kenapa data keluarganya dibatasi?" gumamnya, lalu mematikan layar. Ia tidak tahu, ketika menutup sesi, bahwa pembatasan itu bukan berasal dari fasilitas. Ia juga belum tahu bahwa nama Raka muncul dalam sebuah dokumen berusia tiga puluh delapan tahun yang selama ini dianggap tidak relevan dengan penelitian.
+Raka menuliskan kalimat itu persis seperti yang diucapkan Maya.
 
-Di sudut dokumen tua itu, satu catatan tulisan tangan menempel seperti peringatan kecil:
+"Saya masukkan sebagai hubungan sementara atau observasi terpisah?"
 
-"Jangan ulangi percobaan ini."
+"Observasi terpisah dengan kemungkinan korelasi. Jangan gabungkan di laporan utama dulu."
 
-Kalimat itu sesederhana itu—empat kata yang menempel di kertas, dan bagi Raka, bagi orang di meja kerja, bagi operator yang menutup layar, catatan itu mengurutkan kembali perasaan nyaman hari itu menjadi sesuatu yang lebih berat. Mereka semua kembali pada tugas masing-masing, tetapi pola yang sama telah menempatkan sebuah garis tipis antara kebetulan dan sesuatu yang patut dicatat.
+"Baik."
+
+Maya membuka dataset arsip. Sebuah tanggal muncul di layar.
+
+**1988.**
+
+Raka menatap angka itu. Tahun tersebut terasa jauh, tetapi fasilitas yang sedang mereka tempati membuat jarak waktu terlihat seperti sekat tipis di antara dua ruangan.
+
+"Rekaman ini berasal dari perangkat berbeda," kata Maya. "Sensor dan sistem pencatatnya juga berbeda. Lokasinya hampir sama. Namun setelah skala disesuaikan, bentuk grafiknya punya kemiripan dengan pola sekarang."
+
+Raka membandingkan dua gambar. Bentuknya bukan salinan langsung. Lebih seperti pola lama yang muncul kembali dengan cara yang tidak sempurna.
+
+"Kita bisa bilang ini pola yang sama?" tanyanya.
+
+"Belum. Kita bisa bilang ada kemiripan yang perlu diuji."
+
+"Jawaban paling aman."
+
+"Jawaban paling benar untuk saat ini."
+
+Raka mengangguk. Humor yang biasanya muncul di kepala berhenti sebentar. Ia tidak suka ketika angka lama mulai memiliki hubungan dengan pekerjaan yang baru saja ia lakukan.
+
+Maya membuka catatan metode analisis.
+
+"Hipotesis kerja sementara adalah interferensi atau induksi lokal yang dipengaruhi kondisi fisik lapangan. Posisi kabel, rangka logam, grounding, dan momen sinkronisasi mungkin berperan. Tapi saya tekankan: ini bukan kesimpulan."
+
+"Dan keberadaan manusia tertentu?" tanya Raka, menunjuk satu kolom korelasi.
+
+Maya berhenti sejenak. "Ada korelasi sementara dengan perubahan konfigurasi dan keberadaan operator atau teknisi tertentu. Itu belum membuktikan bahwa orangnya adalah penyebab."
+
+"Kalau begitu kita perlu kontrol yang lebih baik."
+
+Maya menatap Raka. "Itu juga kesimpulan kami."
+
+Raka merasa sedikit lega. Setidaknya, belum ada yang hendak menuduhnya sebagai komponen perangkat.
+
+Di layar, rentang rekaman lain ditampilkan. Beberapa sistem mencatat pembacaan yang hampir identik selama **16,8 detik**, lalu kembali ke pola masing-masing.
+
+"Ini bukan offset," kata Raka.
+
+"Bukan. Ini durasi satu rangkaian rekaman. Offset-nya tetap 0,8 detik."
+
+Raka menulis catatan tebal pada buku kerja:
+
+**0,8 detik = selisih antar-kanal. 16,8 detik = durasi rangkaian. Jangan tertukar.**
+
+Maya melihat catatannya. "Bagus. Banyak orang mencampur dua angka itu karena muncul dalam dataset yang sama."
+
+"Angka-angka ini sudah cukup berusaha membingungkan kami. Saya tidak mau ikut membantu."
+
+Hendra berdiri di samping meja. "Kamu dipanggil karena pengalaman dengan perangkat serupa. Bukan karena ada yang menganggap kamu orang khusus."
+
+Raka menoleh. "Saya belum bertanya."
+
+"Kamu berpikir terlalu keras."
+
+"Itu satu-satunya hiburan gratis di fasilitas ini."
+
+Maya kembali membuka arsip. Di sebuah ruang lain, jauh di bawah lapisan fasilitas yang tidak tercantum dalam peta operasional, tiga orang mengamati grafik yang sama. Dinding ruangan itu dilapisi material penyerap suara. Layar memenuhi satu sisi ruangan. Tidak ada suara mesin makan, burung, atau percakapan teknisi.
+
+Seorang pria berambut putih melihat segmen rekaman.
+
+"Polanya muncul lagi."
+
+Pria yang lebih muda mengangkat berkas. "Durasi enam belas koma delapan detik."
+
+"Sumbernya?"
+
+"Teknisi eksternal."
+
+Ia menunjukkan foto identitas Raka.
+
+Pria berambut putih memeriksa foto itu beberapa detik. "Kelihatan biasa."
+
+Seorang perempuan di sisi meja menunjuk grafik. "Belum tentu orangnya yang memilih. Bisa jadi fenomenanya yang memilih lokasi."
+
+"Apakah dia mengubah perangkat?"
+
+"Dengan izin pendamping. Semua perubahan tercatat."
+
+Pria berambut putih menatap berkas itu lebih lama. "Jangan mengawasi terlalu dekat. Kalau dia tidak tahu, kita hanya membuat orang biasa curiga. Kalau dia tahu, kita punya masalah yang lebih besar."
+
+Instruksi itu tidak terdengar seperti ancaman. Lebih seperti keputusan administratif yang sudah dihitung berkali-kali.
+
+Kembali di kantin, Raka dan Hendra makan siang seadanya. Raka bertanya tentang Maya.
+
+"Peneliti apa?"
+
+"Peneliti."
+
+Raka menatapnya. "Itu jawaban lengkap atau fasilitas ini memang punya batas maksimal tiga suku kata?"
+
+"Jawaban lengkap."
+
+Raka tertawa kecil. Ia tidak bertanya lagi. Jika Maya ingin menjelaskan pekerjaannya, ia akan menjelaskan sendiri.
+
+Beberapa menit kemudian, petugas kantin berteriak dari arah dapur. Rice cooker mengeluarkan asap tipis. Tidak ada ledakan, hanya nasi yang terlalu lama berada di dalam panci.
+
+Raka membantu membuka jendela setelah petugas meminta bantuan. Ia tidak menyentuh peralatan dapur sebelum kabelnya dicabut.
+
+"Jangan sampai kita punya anomali nasi juga," kata Hendra.
+
+"Kalau pola gosongnya berulang di tiga dapur, baru kita buat laporan."
+
+Dari jendela, Raka melihat salah satu menara sensor. Lampu kecil di puncaknya berkedip sekali, lalu sekali lagi.
+
+"Hend," kata Raka, "lampu menara itu normal?"
+
+Hendra melihat ke arah yang sama. "Harusnya. Jangan mulai mencari pola dari lampu."
+
+Raka mengambil ponsel, memotret menara dari jarak yang diizinkan, lalu menulis waktu dan arah pandang.
+
+"Saya tidak menyimpulkan. Saya cuma menyimpan observasi."
+
+"Itu kalimat yang sering dipakai orang sebelum membuat masalah."
+
+"Kalau begitu saya kirim lewat jalur resmi supaya masalahnya punya nomor tiket."
+
+Hendra menghela napas, tetapi tidak melarangnya. Raka mengirim foto dan catatan singkat kepada Hendra, tanpa menambahkan teori.
+
+Pada saat yang hampir bersamaan, di konsol monitor lain, seorang operator mencari nama Raka di basis data fasilitas.
+
+**RAKA PRADANA**
+
+**Kecocokan pola: belum dapat ditentukan.**
+
+Operator membuka informasi tambahan.
+
+**Riwayat keluarga: akses terbatas.**
+
+Ia menaikkan hak akses. Sistem menolak.
+
+Ia mencoba lagi. Sistem menolak lagi.
+
+Operator mengerutkan kening dan menutup sesi. Ia tidak tahu bahwa pembatasan itu bukan berasal dari konfigurasi fasilitas biasa. Ia juga belum tahu bahwa nama Raka muncul dalam dokumen berusia tiga puluh delapan tahun.
+
+Di sudut dokumen tua tersebut, sebuah catatan tulisan tangan menempel pada kertas:
+
+> Jangan ulangi percobaan ini.
+
+Empat kata itu tidak mengubah apa pun di ruang makan. Raka tetap memeriksa apakah nasi yang tersisa aman dimakan. Hendra tetap menjawab pertanyaan dengan kalimat pendek. Maya tetap mengawasi grafik dari ruang analisis.
+
+Namun pola yang sama telah membuat garis tipis antara kebetulan dan sesuatu yang harus dicatat.
