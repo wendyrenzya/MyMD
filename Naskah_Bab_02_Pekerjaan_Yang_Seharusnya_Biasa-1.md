@@ -1,109 +1,233 @@
 # Bab 2 — Pekerjaan yang Seharusnya Biasa
 
-Toilet itu seperti oase kecil: kering, hangat, dan berfungsi sempurna. Raka menemukannya lima menit setelah tiba, lalu kembali ke bangunan utama dengan perasaan yang sedikit lebih manusiawi—cukup untuk menyingkirkan rasa mendesak yang sempat menghimpit perutnya.
+Toilet itu berada di bangunan sebelah, lima menit berjalan kaki dari tempat Hendra menunggunya. Raka kembali dengan perasaan yang lebih manusiawi dan langkah yang tidak lagi terburu-buru.
 
-Hendra sudah menunggu di depan ruang kerja, memegang sebuah map tipis berwarna abu‑abu. Wajahnya datar seperti biasanya, tapi kali ini dia tidak langsung menunjuk arah. Dia menyerahkan map itu ke Raka dan berkata, "Ini daftar perangkat yang harus dicek. Yang diberi tanda merah jangan disentuh."
+Hendra berdiri di depan ruang kerja sambil memegang map tipis berwarna abu-abu. Ia tidak mengomentari kepergian Raka. Ia hanya menyerahkan map itu begitu Raka mendekat.
 
-Raka membuka map sambil berjalan. Dia biasa menerima perintah seperti ini dengan setengah senyum; pekerjaan lapangan memang sering begini: banyak hal teknis, sedikit dramaturgi manajemen.
+"Ini daftar perangkat yang harus dicek. Yang diberi tanda merah jangan disentuh."
 
-"Kenapa?" Raka bertanya. Bukan karena menentang, lebih karena kebiasaan menanyakan hal sepele agar kerja tidak terasa monoton.
+Raka membuka map sambil berdiri. Di dalamnya ada nomor perangkat, lokasi pemasangan, jenis modul, dan catatan singkat mengenai masalah yang dilaporkan.
 
-"Karena bukan bagian pekerjaanmu," jawab Hendra singkat.
+"Baik. Kalau ada masalah di luar daftar, saya laporkan dulu?"
 
-"Kalau saya cuma lihat?"
+"Iya."
 
-Hendra menahan langkah. "Kalau tidak perlu, jangan."
+"Kalau cuma perlu dilihat dari luar?"
 
-Raka mengangkat bahu dan mengangguk. "Oke."
+Hendra menatapnya.
 
-Daftar itu memang akrab: nomor perangkat, lokasi pemasangan, modul yang dipakai, dan catatan singkat masalah. Unit temperatur, kelembapan, tekanan, beberapa modem komunikasi, dan beberapa unit pencatat data yang menumpuk dalam rak‑rak logam. Tidak spektakuler—teknisi lapangan yang sering merawat pompa air pun akan menguap di halaman pertama.
+Raka mengangguk sebelum Hendra menjawab. "Saya tanya supaya batasnya jelas."
+
+"Lihat boleh. Buka atau ubah konfigurasi jangan."
+
+"Siap."
+
+Raka tidak mengatakan bahwa jawaban Hendra terdengar seperti aturan yang sengaja dibuat untuk orang yang terlalu penasaran. Ia hanya menulis satu catatan kecil di halaman belakang buku kerjanya: **perangkat merah—observasi visual saja; perubahan harus dengan izin**.
+
+Daftar itu berisi unit temperatur, kelembapan, tekanan, modem komunikasi, dan beberapa pencatat data. Sebagian besar merupakan perangkat yang biasa ia tangani. Tidak ada yang tampak sulit, meskipun Raka tahu perangkat yang paling merepotkan biasanya tidak pernah memasang tulisan **saya akan merepotkan** di bagian depan.
 
 "Yang pertama di ruang monitoring belakang," kata Hendra.
 
-Raka mengangguk. "Berapa lama kira‑kira?"
+"Perkiraan waktunya?"
 
-"Kalau cuma modul, tidak lama."
+"Kalau hanya modul, tidak lama."
 
-"Kalau ternyata bukan modul?"
+"Kalau bukan modul?"
 
-Hendra memandangnya, tidak perlu menjawab teka‑teki kecil itu—di fasilitas seperti ini, jawaban seringnya berupa pekerjaan yang lebih panjang.
+"Kita lihat nanti."
 
-Ruangan monitoring terasa lebih dingin; layar menampilkan grafik yang merayap seperti kecoak pada karpet digital. Bunyi kipas seperti dengung konstan. Rak‑rak penuh perangkat dengan lampu indikator hijau dan kuning. Suara manusia nyaris tidak ada; hanya langkah kaki mereka sendiri yang memecah kesunyian.
+Raka mengangguk. "Jawaban yang sehat."
 
-Hendra menunjuk ke sebuah unit di sisi kanan. "Nomor tujuh."
+Hendra meliriknya, tetapi tidak bertanya maksudnya. Mereka berjalan menuju ruang monitoring.
 
-Raka mendekat dan membaca laporan: PEMBACAAN TIDAK STABIL. Empat hari. Masih bisa dipakai. Keluhan singkat, tapi cukup untuk memanggil teknisi luar.
+Ruangan itu lebih dingin daripada koridor. Beberapa monitor menampilkan grafik yang bergerak lambat, sementara kipas pendingin berdengung terus-menerus. Rak logam berdiri di sepanjang dinding, dipenuhi perangkat dengan lampu indikator hijau dan kuning. Tidak ada banyak orang di dalamnya. Hanya suara langkah, dengung mesin, dan bunyi pendek dari pencatat data yang bekerja tanpa peduli apakah ada manusia yang memahami hasilnya.
 
-Raka mulai kerja: konektor, tegangan, catu daya. Multimeternya terbiasa dengan pekerjaan ini—jarum yang enggak pernah panik. Semua komponen tampak normal. Tidak ada modul yang menjerit minta diganti, tidak ada pelapis yang meleleh. Namun grafik pada monitor berdenyut sedikit, ritmis, membuat Raka mengernyit.
+Hendra menunjuk unit di sisi kanan.
 
-Angka naik. Turun. Naik lagi. Polanya tidak sembarang kacau seperti kalau modul rusak, melainkan teratur—cukup teratur untuk membuatnya ingin menelusuri jalur kabel.
+"Nomor tujuh."
 
-Raka mengikuti kabel sampai ke panel belakang. Satu jalur melintasi rangka logam sebelum masuk ke bagian bawah meja. Isolasi kabel utuh, bahkan rapi, tapi posisinya menempel dekat rangka.
+Raka mendekat dan membaca laporan kerusakan.
 
-Tanpa berpikir lama—sebuah kebiasaan yang kadang jadi penyelamat—dia menyentuh kabel itu.
+**PEMBACAAN TIDAK STABIL.**
 
-Grafik berubah. Seketika.
+Gangguan dilaporkan sejak empat hari lalu. Perangkat masih dipakai karena nilai yang dihasilkannya belum melewati batas alarm.
 
-Ia menarik tangan. Grafik kembali.
+Raka mencatat waktu mulai pemeriksaan sebelum membuka panel luar. Ia memeriksa konektor, tegangan, catu daya, dan kondisi fisik modul. Tidak ada tanda panas berlebih, korosi, atau kabel putus. Semua komponen tampak normal.
 
-Hendra, yang berdiri beberapa langkah, maju pelan. "Apa?"
+Grafik pada monitor bergerak naik, turun, lalu naik lagi.
 
-"Belum tahu," Raka menjawab sambil memiringkan kepala. Dia mengulangi sentuhan, menggeser kabel beberapa senti dari rangka, lalu mengikatnya dengan pengikat plastik. Ia mematikan sistem beberapa detik dan menyalakannya kembali.
+Raka tidak menyukai pola yang tidak punya alasan. Ia juga tidak langsung menyentuh apa pun.
 
-Grafik sempat berdenyut, lalu menurun menjadi garis yang wajar. Lima menit pengamatan; lima menit yang dihabiskan menonton angka seperti tukang kebun menunggu bunga mekar. Ketika pola tetap stabil, Raka menghela napas.
+"Nilainya berubah teratur," katanya. "Bukan seperti modul yang rusak total. Saya mau telusuri jalur kabelnya dulu."
 
-"Kalau lima menit enggak berubah, saya bilang sudah," katanya, lebih untuk dirinya sendiri.
+Hendra berdiri di sampingnya. "Silakan."
 
-Hendra menatap layar, lalu mengangguk. "Sudah?"
+Raka mengikuti kabel dari unit nomor tujuh menuju panel belakang. Salah satu jalurnya melintas dekat rangka logam. Isolasinya utuh dan pemasangannya rapi, tetapi kabel itu menempel terlalu dekat pada rangka.
 
-"Sepertinya." Raka tersenyum, menulis catatan rinci pada laporan kerja: kabel yang menempel pada rangka, pengikatan, pengujian, durasi stabil. Dia tahu teknisi berikutnya akan membaca ini dan mungkin mengumpat—itulah etika dasar lapangan: tinggalkan instruksi lebih panjang daripada kebiasaan orang.
+Ia mengeluarkan ponsel dan memotret posisi awal kabel.
 
-Sambil membereskan peralatan, Raka sempat memperhatikan monitor di sudut ruangan—layar yang tidak termasuk dalam daftar mereka. Garisnya bergerak halus; bukan urusannya. "Yang itu bukan bagian kita," kata Hendra ketika Raka menoleh.
+Hendra memperhatikannya. "Perlu difoto?"
 
-Raka mengangguk, tidak bertanya lebih jauh. Di fasilitas penelitian, ada area dan alat yang diberi label "penelitian" — pertanyaan tentang apa yang diteliti biasanya dijawab dengan senyum yang menahan kata.
+"Kalau posisi kabel ternyata berpengaruh, kita perlu tahu posisi awalnya. Kalau tidak berpengaruh, foto ini tetap membantu orang berikutnya mengembalikan konfigurasi."
 
-Petang merayap tiba. Mereka memeriksa beberapa unit lain, perbaikan sederhana: konektor longgar di sini, modul aus di sana, satu jaringan yang perlu di‑reconfigure karena listrik sempat padam beberapa hari lalu. Ritme fasilitas mulai masuk ke kepala Raka: orang berjalan cepat, sedikit bicara, alasan mereka untuk tidak berdiam di koridor terasa seperti bagian dari kebiasaan.
+Ia menulis waktu dan nomor perangkat di buku kerja.
 
-Hendra mengantar Raka ke ruang istirahat vendor. "Kamu menginap di sini."
+"Saya punya hipotesis kecil," kata Raka. "Mungkin ada interferensi atau perubahan grounding karena kabel terlalu dekat dengan rangka. Saya bisa menguji dengan menggesernya beberapa sentimeter, tapi jalurnya harus dimatikan dulu. Boleh?"
 
-Kamar kecil itu cukup; tempat tidur, meja kecil, lemari, jendela menghadap lereng. Dari situ, Raka bisa melihat pepohonan yang menggerak lembut dan jalan kecil yang tadi dilalui—dilema estetika yang aman.
+Hendra melihat monitor, lalu memeriksa panel.
 
-Malamnya, di ruang makan, suasana sederhana: orang makan, membicarakan cuaca dan jalan licin saat hujan. Seorang staf bernama Arman duduk di hadapannya dan hendak membuka topik; matanya mengarah ke ujung meja di mana seorang perempuan menoleh, lalu berkata singkat, "Enggak ada."
+"Berapa lama?"
 
-Raka mengernyit. "Apaan?"
+"Paling lima menit untuk uji awal. Saya tandai sebagai perubahan sementara dan kembalikan kalau hasilnya tidak jelas."
 
-Arman mengangkat bahu, setengah tertawa. "Enggak ada," ulangnya, seperti menutup pembicaraan. Itu jelas bentuk menghindar: jawabannya adalah petunjuk bahwa ada hal yang tidak untuk dibahas. Raka menyimpan rasa penasarannya di saku—tidak mengasahnya sampai besok.
+"Lakukan. Saya awasi."
 
-Di kamar, ponselnya berbunyi. Dito: Hidup? Percakapan ringan—bingkai kecil normalitas yang membuat malamnya tidak terlalu sunyi.
+Raka memasang label **PEMERIKSAAN SEMENTARA—JANGAN UBAH** pada bagian panel, lalu memastikan tidak ada proses penting yang sedang berjalan. Ia mematikan jalur sesuai prosedur, menunggu indikator padam, dan memeriksa kembali tegangan sebelum menyentuh kabel.
 
-Di meja kamarnya ada buku catatan fasilitas untuk teknisi vendor. Raka membuka dan melihat satu kalimat yang membuatnya menatap agak lama: Teknisi eksternal tidak diperkenankan memasuki area observasi timur tanpa pendamping fasilitas. Kata‑kata itu tertulis tegas, seperti peringatan lalu lintas. Raka menutup buku. Ia tidak berniat ke sana. Tetapi setelah beberapa detik, seperti orang yang lupa menaruh kunci, ia membuka lagi dan membaca ulang—habis itu menutup dengan cepat.
+Di kepalanya muncul satu komentar yang tidak ia ucapkan: *Bahkan kabel pun lebih mudah diajak kerja sama kalau diberi pemberitahuan.*
 
-Jam digital di ponselnya menunjukkan 23:17. Jam kecil di mejanya juga 23:17. Saat ia melirik jam dinding di lorong dari celah pintu, jarum digital menunjukkan 23:15. Dua menit selisih. Raka berjalan ke lorong, memeriksa jam dinding; baterainya hampir habis, menurut noda pada penutupnya. "Ya sudah," pikirnya—alasan teknis yang cukup, pikirnya, untuk menjelaskan selisih kecil itu. Namun di belakang pikirannya hinggap sesuatu lain: pola waktu yang tidak serupa. Dia menekan hal itu ke dalam, menandainya sebagai anomali kecil yang bisa saja hanya baterai.
+Ia melepas pengikat lama dan menggeser kabel kira-kira tiga sentimeter dari rangka. Perubahan itu kecil, tetapi ia mengukur jaraknya dan menulis angka tersebut. Setelah kabel diikat dengan pengikat baru, ia menyalakan jalur kembali.
 
-Sebelum menutup pintunya ia sempat melirik ke ujung koridor. Seorang perempuan berdiri di sana, berpakaian kerja gelap, berbicara pelan di telepon. Dia membawa sesuatu yang menarik perhatian Raka: sebuah tablet dengan casing biru tipis—benda itu menonjol dalam cahaya koridor seperti kesalahan warna. Ketika Raka menutup pintu, perempuan itu tak lagi terlihat. Raka mengangkat bahu; malam itu dia tidur tanpa memikirkannya lebih jauh.
+Grafik sempat bergerak lebih tajam, lalu perlahan menjadi stabil.
 
-Keesokan pagi—pekerjaan kembali seperti biasa. Dua modul diganti, jalur komunikasi diperiksa, satu sensor yang "mengalami gangguan sesekali" ternyata hanya konektor aus. Pekerjaan berjalan lancar, mungkin terlalu lancar, sampai Hendra menyerahkan satu pekerjaan tambahan.
+Raka tidak langsung menyebut masalah selesai. Ia menjalankan pengamatan selama lima menit, mencatat nilai setiap satu menit, lalu meminta Hendra memeriksa tampilan dari monitor kedua.
 
-"Yang ini terakhir," katanya, memberi Raka sebuah label pekerjaan baru. Lokasinya: bangunan timur.
+"Tidak ada lonjakan baru," kata Hendra.
 
-Raka menyeringai di balik topeng profesional: "Yang kemarin?"
+"Kita lanjut sepuluh menit supaya tidak menyimpulkan dari sampel pendek."
 
-Hendra mengangguk. "Iya."
+Hendra mengangguk.
 
-"Yang katanya jangan masuk?"
+Sepuluh menit kemudian pembacaan masih stabil. Raka menyimpan salinan log sebelum dan sesudah perubahan, lalu menulis laporan kerja.
+
+**Unit 7. Pemeriksaan jalur kabel. Kabel komunikasi berjarak terlalu dekat dari rangka logam. Jalur dimatikan sesuai prosedur. Kabel dipindahkan sekitar tiga sentimeter dan diikat ulang. Pembacaan stabil selama lima belas menit pengamatan. Penyebab belum dikonfirmasi; rekomendasi: monitoring lanjutan.**
+
+Hendra membaca catatan itu.
+
+"Kamu tidak menulis bahwa kabelnya penyebab?"
+
+"Belum cukup data. Bisa saja perubahan terjadi karena faktor lain yang kebetulan hilang saat jalur dimatikan."
+
+"Kebanyakan teknisi langsung menulis selesai."
+
+"Saya juga ingin menulis selesai. Tapi teknisi berikutnya bisa mengira masalahnya sudah benar-benar terpecahkan."
+
+Hendra mengangguk kecil. "Baik."
+
+Raka merapikan alat. Ia sempat melihat sebuah monitor di sudut ruangan yang tidak tercantum dalam daftar pekerjaannya. Garis pada layar itu bergerak perlahan dalam pola yang berbeda dari unit nomor tujuh.
+
+Raka membaca nomor perangkat dari jauh, tetapi tidak mendekat.
+
+"Yang itu bukan bagian pekerjaan kita?" tanyanya.
+
+"Bukan."
+
+"Saya catat sebagai perangkat yang terlihat atau tidak perlu?"
+
+Hendra menoleh. "Tidak perlu."
+
+Raka menutup bukunya. "Baik."
+
+Ia tetap menyimpan satu fakta di kepala: ada layar lain yang tidak termasuk daftar dan Hendra tidak ingin menjelaskannya. Fakta itu bukan izin untuk menyentuh perangkat. Rasa penasaran tidak sama dengan kewenangan.
+
+Mereka memeriksa beberapa unit lain sampai sore. Dua konektor longgar, satu modul aus, dan satu jalur komunikasi yang perlu dikonfigurasi ulang setelah gangguan listrik. Raka menjelaskan hasil setiap pemeriksaan kepada Hendra dan meminta persetujuan sebelum mengubah pengaturan yang terhubung ke sistem utama.
+
+Pekerjaan berjalan lambat, tetapi bersih.
+
+Menjelang malam, Hendra mengantar Raka ke ruang istirahat teknisi vendor. Kamar itu kecil, dengan tempat tidur, meja, lemari, dan jendela yang menghadap lereng. Raka meletakkan tas peralatannya di bawah meja, bukan karena takut dicuri, melainkan karena itu tempat yang paling tidak menghalangi jalan.
+
+Di ruang makan, ia duduk bersama beberapa staf fasilitas. Seorang pria bernama Arman sempat memulai percakapan tentang bangunan timur, tetapi perempuan di ujung meja menoleh kepadanya.
+
+"Enggak ada," katanya.
+
+Arman langsung berhenti.
+
+Raka tidak memaksa. Ia hanya mengangguk dan kembali ke makanannya. Kalau orang tidak ingin membicarakan sesuatu, pertanyaan tambahan biasanya tidak membuat informasi tumbuh lebih cepat.
+
+Di kamar, ponselnya berbunyi.
+
+Dito mengirim pesan:
+
+> Hidup?
+
+Raka membalas:
+
+> Masih. Hari pertama aman.
+
+> Udah nemu yang aneh?
+
+Raka memandang laporan unit nomor tujuh yang baru saja ia simpan.
+
+> Kabel miring tiga senti. Dramatis sekali.
+
+> Gue turut berduka.
+
+Raka tersenyum dan menaruh ponsel di meja.
+
+Di sebelahnya ada buku catatan fasilitas untuk teknisi vendor. Ia membukanya untuk mencari prosedur pemeliharaan bangunan timur. Satu kalimat tertulis tegas pada halaman yang diberi penanda:
+
+**Teknisi eksternal tidak diperkenankan memasuki area observasi timur tanpa pendamping fasilitas.**
+
+Raka membaca kalimat itu sekali, lalu menulis di bukunya: **akses hanya dengan pendamping**. Ia tidak berniat pergi ke sana sendirian. Namun ia tetap menyimpan pertanyaan tentang perangkat apa yang berada di balik area tersebut.
+
+Pukul 23:17, jam digital di ponselnya dan jam kecil di meja menunjukkan angka yang sama. Jam dinding di lorong menunjukkan 23:15.
+
+Raka keluar sebentar untuk memeriksa jam itu. Baterainya memang terlihat tua. Ia memotret bagian belakangnya dan menulis catatan penggantian baterai untuk petugas fasilitas.
+
+Penjelasan sederhana masih cukup: jam dinding terlambat dua menit.
+
+Saat kembali ke kamar, ia melihat seorang perempuan berdiri di ujung koridor. Perempuan itu membawa tablet dengan casing biru tipis dan sedang berbicara pelan melalui telepon. Ketika Raka menutup pintu, sosok itu tidak lagi terlihat.
+
+Ia tidak membuka pintu lagi.
+
+Besok, kalau memang perlu, ia bisa menanyakan kepada Hendra siapa saja yang bertugas di area tersebut. Malam itu ia memilih tidur.
+
+Keesokan paginya, pekerjaan berjalan seperti biasa. Dua modul diganti, satu jalur komunikasi diperiksa, dan sensor yang dilaporkan mengalami gangguan sesekali ternyata hanya memiliki konektor aus.
+
+Setelah semua catatan awal diserahkan, Hendra datang membawa label pekerjaan baru.
+
+"Yang ini terakhir. Bangunan timur."
+
+Raka membaca nomor perangkat dan lokasi.
+
+"Yang kemarin?"
+
+"Iya."
+
+"Area yang tidak boleh dimasuki teknisi eksternal tanpa pendamping?"
 
 "Saya ikut."
 
-Itu batas yang jelas: dia boleh masuk, tapi tidak sendirian. Hendra ikut. Bukan izin bebas—pendampingan. Raka menyukai batas itu; membuat segalanya terasa aman sekaligus menggelitik.
+"Baik. Saya siapkan alat sesuai daftar."
 
-Bangunan timur berbeda. Sebuah kotak yang lebih tertutup, jendela sedikit, pintu berat, saluran kabel yang melintas di dinding seperti urat. Hendra membuka pintu dengan kartu akses. Dalam ruangan dingin, rak‑rak logam menampung perangkat dengan label yang rapi. Unit yang ditunjuk Hendra tidak ada dalam daftar perusahaan Raka—sebuah pekerjaan tambahan yang muncul tanpa pemberitahuan.
+Itu bukan izin bebas. Hendra akan mendampingi, dan pekerjaan tetap terbatas pada nomor yang ditentukan. Raka menyukai batas yang jelas karena batas membuat rasa ingin tahu tetap memiliki bentuk.
 
-Raka menangkap label itu, mengangkat alat, dan mulai memeriksa. Ketika ia memeriksa sambungan, sebuah sensor di lantai lain—sistem yang sama tapi bukan pada monitor mereka—mencatat pergeseran kecil pada nilai yang dipantau. Bukan alarm, hanya angka yang bergerak sedikit, lalu kembali normal. Tidak ada bunyi, tidak ada LED merah yang menyala; hanya log yang bergetar sebentar di tengah data dan kemudian tenang lagi.
+Bangunan timur lebih tertutup daripada bagian lain fasilitas. Jendelanya sedikit, pintunya berat, dan saluran kabel melintas di dinding seperti urat yang sengaja disembunyikan. Hendra membuka pintu dengan kartu akses.
 
-Raka tidak melihatnya. Hendra pun tidak. Mereka tetap fokus pada pekerjaan yang di tangan. Bagi mereka, itu tetap hari kerja biasa: memindahkan kabel beberapa senti, mengetatkan sambungan, menandai laporan. Raka menulis detail pada catatan—posisi kabel, langkah yang diambil, waktu pengujian. Ia tahu seseorang nanti akan membaca dan mungkin mengaitkan catatan ini dengan grafik lain yang muncul di tempat yang tampaknya tidak mungkin berkaitan.
+Di dalam, udara terasa lebih dingin. Rak logam menampung perangkat dengan label yang rapi. Unit yang ditunjuk Hendra tidak tercantum dalam daftar perusahaan Raka. Ia tidak langsung membukanya.
 
-Saat ia menyekopkan kabel dan menutup penutup pelindung, ada perasaan lucu di ujung pikirannya: sesuatu yang dimulai dari hal kecil—posisi kabel yang tidak disukai—bisa menimbulkan hal yang lebih besar. Dia tidak menahan diri dari senyum kecil itu. Dalam pikirannya, itu saja: kabel yang bergerak beberapa senti. Dalam dunia yang agak absurd ini, justru kebetulan kecil sering kali menimbulkan efek yang tidak terduga.
+"Nomornya tidak ada di daftar saya," kata Raka.
 
-Di panel catatannya, Raka menulis satu baris lagi: "Memindahkan kabel yang menempel pada rangka → stabilisasi pembacaan." Lalu ia menutup buku kerja, memasukkan alat, dan berjalan keluar. Di luar, pepohonan tetap bergerak pelan. Di dalam sistem, seseorang—entah operator shift malam atau analis remote—akan melihat sebuah garis kecil bergerak dan bertanya dalam hati apakah itu benar‑benar kebetulan.
+Hendra memeriksa label itu. "Tugas tambahan dari fasilitas. Saya sudah konfirmasi dengan penanggung jawab."
 
-Dan seperti kebiasaan semua cerita yang layak dicatat: semua itu bermula dari sesuatu yang menurut Raka sangat sederhana—sebuah kabel yang posisinya tidak ia sukai.
+"Baik. Saya catat sebagai pekerjaan tambahan."
+
+Raka mengambil foto label, mencatat waktu, lalu memulai pemeriksaan. Ia mengikuti prosedur yang sama: memeriksa catu daya, konektor, jalur komunikasi, dan kondisi fisik tanpa mengubah konfigurasi sebelum menemukan titik yang perlu diuji.
+
+Di lantai lain, sistem yang terhubung dengan bangunan timur mencatat perubahan kecil pada nilai yang dipantau. Angka itu bergerak sebentar, lalu kembali normal. Tidak ada alarm atau lampu merah. Hanya sebuah baris log yang bergeser di antara data lain.
+
+Raka tidak melihatnya. Hendra juga tidak.
+
+Mereka tetap fokus pada perangkat yang ada di depan mereka. Raka mengukur, mencatat, dan meminta Hendra mengonfirmasi setiap perubahan yang perlu dilakukan. Di dalam kepalanya, ia sempat berpikir bahwa sebuah kabel yang bergeser tiga sentimeter mungkin terlalu kecil untuk memulai sesuatu yang besar.
+
+Kemudian ia mengingat bahwa hampir semua masalah perangkat pernah dimulai dari sesuatu yang dianggap terlalu kecil untuk diperhatikan.
+
+Ia menutup buku kerja setelah menulis catatan terakhir:
+
+**Pemeriksaan unit bangunan timur dimulai pukul 09:42. Perubahan konfigurasi hanya dilakukan setelah konfirmasi pendamping fasilitas.**
+
+Di luar bangunan, pepohonan bergerak pelan diterpa angin. Di dalam sistem, sebuah log baru saja terbentuk.
+
+Bagi Raka, itu masih pekerjaan biasa.
+
+Pekerjaan yang seharusnya biasa.
