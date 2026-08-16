@@ -1,71 +1,195 @@
 # Bab 3 — Tempat yang Terlalu Sepi
 
-Pagi di fasilitas itu selalu memulai lebih awal daripada yang Raka mau. Bukan karena matahari berlari cepat di pegunungan, melainkan karena dingin membuatnya bangun dua kali sebelum alarm sempat bekerja. Ketika ia akhirnya membuka mata untuk terakhir kali, pukul 05:48 terpampang di layar ponselnya. Alarm seharusnya berbunyi dua belas menit lagi, tapi ia mematikannya tanpa repot — kemampuan bertahan hidup seorang teknisi: menunda keputusan sampai kopi pertama.
+Pagi di fasilitas itu dimulai sebelum Raka merasa siap memulai apa pun.
 
-Langkah kaki mulai mengisi gedung. Suara pintu yang terbanting pelan, obrolan singkat seperti kode sandi pagi, lalu ritme pekerjaan yang tidak memerlukan teriakan atau printer yang mogok. Raka bisa merindukan hal-hal kecil yang mengganggu; Dito yang selalu kirim pesan sepele sebelum jam enam itu, misalnya. Ia tersenyum karena merindukannya sedikit—dan karena tahu Dito pasti akan mengolok-olok gaya laporannya nanti.
+Pukul 05:48, ia membuka mata karena udara dingin masuk dari celah jendela. Alarm di ponselnya baru akan berbunyi dua belas menit lagi. Raka mematikannya lebih awal, lalu menatap langit-langit kamar teknisi dengan perasaan seseorang yang baru saja memenangkan perdebatan kecil melawan benda elektronik.
 
-Di ruang kerja, Hendra sudah menunggu dengan tablet. Wajah Hendra adalah perpaduan instruksi keselamatan dan ketidakpedulian yang tenang; ia tampak cocok sebagai penjaga rahasia kecil fasilitas ini.
+Kemenangan itu tidak menghasilkan apa-apa selain dua belas menit tambahan dan leher yang sedikit pegal.
 
-"Perangkat kemarin," kata Hendra langsung.
+Ia bangun, merapikan tempat tidur, lalu memeriksa pesan dari Dito.
 
-Raka meletakkan tas. "OM-7E?"
+> Masih hidup?
 
-"Iya. Kita cek lagi."
+Raka membalas:
 
-Mereka tidak butuh drama masuk: bank ruang, koridor yang sama, kartunya meluncur dan pintu bangunan timur membuka tanpa prolog. Udara di dalam selalu terasa lebih kering; suara langkah bergema seolah semua peralatan menahan napas.
+> Masih. Kopi di sini rasanya kayak hasil rapat.
 
-Di tengah ruangan, OM-7E berdiri tenang, panel gelapnya tidak banyak bicara. Raka membaca label itu seperti membaca nama orang asing yang sering ia temui di stasiun kerja: OM-7E.
+> Berarti encer dan banyak keputusan yang enggak perlu.
 
-Hendra menurunkan tablet. "Ada log baru," ujarnya, menatap Raka seperti memberi kunci sopan santun.
+Raka tersenyum, memasukkan ponsel ke saku, dan mengambil buku kerjanya. Setelah sarapan singkat, ia kembali ke ruang kerja utama.
 
-Raka menatap layar. Baris-baris angka menumpuk, lalu satu baris berhenti di matanya: 23:17. Ia menelan. Ingatannya melompat: malam sebelumnya ia sempat melihat ponsel menunjukkan 23:17 sementara jam dinding lorong menempel pada 23:15. Ingatan itu datang tanpa permisi, seperti notifikasi yang tidak dimatikan. Raka menyimpannya sebagai hal kecil, bukan kesimpulan.
+Hendra sudah menunggu dengan tablet. Wajahnya tampak lebih serius daripada kemarin, meskipun di fasilitas itu perbedaan antara serius dan belum minum kopi memang sulit diukur.
 
-"Masih mau dibuka?" tanya Hendra.
+"Perangkat kemarin," kata Hendra.
 
-"Boleh," katanya. Nada biasa, tidak ada pengumuman revolusi.
+Raka meletakkan tas di samping meja. "Unit tujuh?"
 
-Mereka menjalankan pemeriksaan standar: cek kabel, port servis, tegangan. Hasilnya: normal. Unit sehat secara elektrik—tidak ada kabel putus, tidak ada modul terbakar. Hendra mengangkat bahu. "Kalau perangkatnya tidak rusak, mengganti tidak menyelesaikan masalah," katanya. Masalahnya bukan pada kesehatan perangkat, lebih pada sikapnya: tiba-tiba memutus lalu kembali, tanpa jejak error yang jelas.
+"Yang itu stabil. OM-7E juga mencatat gangguan baru semalam."
 
-Raka memasang modul pencatat tambahan. "Kalau kambuh, kita dapat lihat apa yang terjadi sebelum koneksi putus," ia menjelaskan sambil mencari soket yang pas. Pekerjaan teknis itu seperti merangkai puzzle yang tidak mau dijelaskan.
+Hendra menunjukkan layar tablet. Ada satu entri pada log: **23:17**.
 
-Saat modul aktif, indikator pada OM-7E berkedip sekali. Lampu kecil di ruangan seperti mengernyit. Di layar laptop Raka muncul satu baris yang belum pernah ia lihat:
+Raka melihat angka itu dan teringat jam digital di kamarnya, jam kecil di meja, serta jam dinding lorong yang tertinggal dua menit. Ia tidak langsung menghubungkan semuanya. Keteraturan waktu adalah hal yang mudah membuat orang melihat pola, bahkan ketika yang tersedia hanya baterai tua dan kebetulan.
 
-SYNC OFFSET: ~+00:00:01
+"Gangguannya berapa lama?" tanya Raka.
 
-Baris itu berkedip, lalu menghilang secepatnya seperti pesan teks yang ditarik kembali. Raka mendengus dan menunggu, seperti orang menunggu tram yang mungkin saja lewat.
+"Belum jelas. Sistem utama hanya menangkap awal dan akhir."
 
-"Kenapa?" tanya Hendra.
+"Kalau begitu kita pasang pencatat tambahan seperti yang kemarin kita bicarakan. Saya cek dulu jalur servisnya."
 
-"Entahlah," jawab Raka. Ia menutup jendela log sebelum membuat teori yang terlalu meyakinkan. Menyimpulkan terlalu dini adalah kesalahan kerja yang biasa dilakukan orang yang tidak suka menunggu data.
+Hendra mengangguk. "Kita masuk bersama."
 
-Mereka keluar dari bangunan timur. Di koridor, Raka melihat satu pintu yang berbeda—tanpa jendela, tanpa plakat panjang, hanya nomor singkat: E-03. Ia berjalan melewatinya, berhenti, menebak. "Yang itu apa?" tanyanya, setengah bercanda.
+Raka mencatat waktu mulai pemeriksaan sebelum mereka berjalan ke bangunan timur. Ia masih ingat batas akses yang diberikan: teknisi eksternal tidak boleh masuk area observasi tanpa pendamping. Hendra berada di sampingnya, kartu akses sudah disiapkan, dan pekerjaan mereka tercatat dalam daftar fasilitas.
 
-"Ruangan," jawab Hendra, sesingkat mungkin.
+Pintu bangunan timur terbuka. Udara di dalam lebih kering daripada koridor utama. Suara langkah mereka memantul dari dinding dan kembali terdengar seperti langkah orang ketiga.
 
-"Isinya?"
+"Tempat ini memang selalu sesepi ini?" tanya Raka.
 
-"Perangkat penelitian."
+"Kalau ramai, biasanya ada masalah."
 
-"Jawaban paling aman." Raka tertawa kecil. Hendra tidak membalas, karena begitulah batas kewenangan—jawaban aman lebih berguna daripada penjelasan yang mengundang pertanyaan.
+"Berarti sepi juga bukan tanda aman."
 
-Beberapa meter di belakang mereka, lampu kecil di atas E-03 berkedip sekali. Raka tidak langsung melihatnya; matanya sibuk menimbang baris angka di layar. Tapi ingatannya mencatat lampu itu sebagai detail—sesuatu yang layak disimpan.
+Hendra menatapnya sekilas. "Jangan membuat kesimpulan dari suasana."
 
-Di meja kerja utama, Raka menulis laporan sementara. Ia tidak menulis bahwa perangkat itu "suka menghilang"; profesionalitas tidak membutuhkan personifikasi perangkat. Ia menulis, ringkas: gangguan komunikasi tidak dapat direproduksi, OM-7E akan dipantau dengan modul pencatat tambahan. Dito akan mengeluh bahwa gaya tulisnya seperti bicara dengan orang, bukan perusahaan. Raka tersenyum; itu pujian, tentu saja.
+"Saya catat sebagai observasi nonteknis."
 
-Sore memberi dia izin jalan-jalan singkat. Di belakang kompleks, jalur beton memotong rumpun rumput yang masih meneteskan sisa hujan. Dari pagar pembatas, ia bisa melihat menara sensor yang berdiri seperti tiang lampu yang sedang menjalankan tugas ritual. Keseragaman fasilitas membuat Raka, anehnya, lebih waspada daripada kacau. Semua rapi, semua tertutup; tidak ada sesuatu yang jatuh di bawah radar kebiasaan.
+Hendra tidak tersenyum, tetapi Raka melihat sudut mulutnya bergerak sedikit.
 
-Ia memotret panorama, tak karena aneh, hanya karena bagus. Ketika memperbesar foto, sesuatu di layar tampak berbeda—menara yang tadi biasa saja kini terlihat lebih tinggi dari yang ia ingat. Ia menutup ponsel dan melihat langsung ke menara: normal. "HP saya yang aneh," gumamnya, menaruh ponsel ke saku.
+OM-7E berada di tengah ruangan, di antara rak perangkat dan panel komunikasi. Raka memeriksa label, mencocokkannya dengan tablet Hendra, lalu memotret konfigurasi awal sebelum membuka penutup servis.
 
-Dari depan pagar, sekitar tiga puluh meter, ada seorang perempuan berdiri memegang tablet. Casing tabletnya berwarna biru tipis—standar perangkat yang tampaknya dipakai banyak staf fasilitas, tetapi tetap menjadi detail kecil yang menempel di kepala Raka. Ia tidak membawa tas peralatan atau kartu, berdiri terlalu diam untuk orang yang sedang memeriksa alat. Raka melambaikan tangan; perempuan itu mengangguk singkat, lalu berjalan pergi menuju bangunan lain. Raka tidak memikirkannya terlalu dalam—mungkin peneliti, mungkin pengamat tamu, mungkin hanya orang yang tersesat. Ia kembali ke kamar dengan lebih banyak pikiran tentang tagihan daripada tentang orang asing.
+"Saya ambil salinan log sebelum modul tambahan dipasang," kata Raka.
 
-Malam, ia menelepon ibu. Obrolan sederhana: makanan, dingin, jangan begadang, dan pesan ibunya yang selamanya praktis—"Kalau dapat kontrak tetap, jangan lupa atap." Raka tertawa; atap runtuh bukan metafora romantis, itu masalah nyata. Kontrak tetap berarti bukan lagi menukar tidur dengan pekerjaan kebetulan.
+"Silakan."
 
-Sekitar pukul sepuluh malam, Raka keluar untuk ambil air. Koridor sepi, lampu meredup membuat lantai mengkilap. Ketika ia kembali, terdengar bunyi elektronik pendek datang dari arah bangunan timur—bukan alarm, lebih seperti sinyal yang putus di tengah nada. Raka berhenti, berpikir menunggu bunyi berikutnya, tapi tidak ada. Ia ingat larangan fasilitas: teknisi eksternal dilarang masuk bangunan timur tanpa pendamping. Tidak punya alasan untuk lari ke sana. Jadi ia tidak pergi.
+Ia menghubungkan laptop ke port servis sesuai prosedur. Kabel tambahan tidak dipasang langsung ke jalur utama sebelum ia memastikan tegangan dan status komunikasi aman. Setelah semuanya stabil, Raka menyalin log dan menandai berkasnya dengan nomor perangkat serta waktu pemeriksaan.
 
-Beberapa detik setelah pintunya kamar terkunci, indikator satu perangkat di bangunan timur berkedip. Satu kali, lalu padam.
+"Ada entri baru," kata Hendra.
 
-Di ruang kontrol — potongan informasi yang Raka tidak lihat, karena ia sedang tidur di kamar — seorang operator menatap layar yang penuh angka. Perubahan itu kecil; tidak memicu alarm atau lampu merah. Angka bergeser sebentar, kembali ke rentang biasa. Operator mengangkat alis, menandainya dalam log sebagai flag minor, lalu mengalihkan pandangan. Momen itu hampir luput; hampir tidak pernah dianggap penting.
+Raka memeriksa layar. Baris data bergerak cepat, lalu berhenti sesaat.
 
-Raka sudah tidur. Ia tidak tahu bahwa sistem mencatat sesuatu yang tidak semestinya terkait seorang teknisi vendor yang, dalam hidupnya, hanya ingin kontrak tetap dan ban motor yang tidak bocor. Ia tidak tahu juga bahwa datanya—jam, lampu, log singkat SYNC OFFSET: ~+00:00:01—mulai membentuk pola yang akan membuat orang lain membuka arsip lama.
+**SYNC OFFSET: ~+00:00:01**
 
-Tapi ia tertidur, dan untuk sekarang, itu cukup. Belum ada yang menyebutnya kejadian penting. Belum.
+Baris itu hanya muncul selama kurang dari satu detik sebelum menghilang dari jendela log.
+
+Raka tidak menyentuh kabel. Ia mengambil tangkapan layar dan menulis waktu kemunculan pada buku kerja.
+
+"Saya melihat satu baris yang tidak tercatat di laporan awal," katanya. "Saya simpan salinannya. Bisa kita ulangi nanti dengan pencatat tambahan, tapi saya tidak mau mengubah apa pun dulu."
+
+Hendra mendekat. "Apa artinya?"
+
+"Belum tahu. Bisa pembulatan waktu, bisa kesalahan tampilan, bisa perbedaan sinkronisasi antara modul. Saya tidak mau menyebutnya penyebab sebelum ada data kedua."
+
+Hendra mengangguk. "Pasang pencatatnya."
+
+Raka memasang modul pencatat tambahan dengan hati-hati. Ia memeriksa arah konektor, mengunci pengikat, dan menguji apakah modul menerima data tanpa mengganggu perangkat utama. Ketika indikator OM-7E berkedip sekali, ia berhenti sejenak dan memastikan grafik tetap bergerak.
+
+Tidak ada alarm. Tidak ada kenaikan tegangan. Tidak ada komponen yang menunjukkan kerusakan.
+
+"Modul aktif," kata Raka. "Saya mulai pemantauan."
+
+Mereka menunggu dalam diam. Beberapa detik kemudian, baris yang sama muncul lagi, tetapi kali ini lebih singkat. Raka menandai waktunya. Ia tidak mengejar baris itu dengan klik atau perintah tambahan; ia membiarkan pencatat bekerja sesuai fungsi.
+
+Raka tahu godaan untuk membuka semua jendela log sekaligus adalah bagian paling berbahaya dari perangkat lunak diagnostik. Bukan karena aplikasinya berbahaya, melainkan karena manusia mudah merasa sudah memahami sesuatu hanya karena melihat lebih banyak angka.
+
+Mereka keluar setelah pencatatan awal selesai.
+
+Di koridor, Raka melihat pintu tanpa jendela yang tidak tercantum dalam daftar akses harian. Hanya ada nomor pendek di permukaannya: **E-03**.
+
+Ia tidak mendekat. Ia hanya berhenti pada jarak yang masih wajar dari jalur mereka.
+
+"Pak Hendra, E-03 juga bagian dari bangunan timur?"
+
+"Iya."
+
+"Perlu dicatat dalam laporan akses?"
+
+Hendra menoleh kepadanya. "Tidak untuk pekerjaanmu hari ini."
+
+Raka mengangguk. "Baik. Saya tidak akan masuk atau memeriksa."
+
+Mereka berjalan lagi. Beberapa meter di belakang mereka, lampu indikator kecil di atas pintu E-03 berkedip sekali.
+
+Raka melihat pantulannya di kaca panel, tetapi tidak berbalik. Ia sudah mendapat instruksi yang cukup jelas. Kalau ia ingin tahu lebih banyak, ia bisa menanyakannya melalui jalur resmi. Rasa penasaran tidak membuat pintu yang dilarang menjadi bagian dari pekerjaannya.
+
+Di meja kerja utama, Raka menyusun laporan sementara.
+
+**OM-7E mengalami gangguan komunikasi pada 23:17. Pemeriksaan listrik dan jalur servis tidak menunjukkan kerusakan. Modul pencatat tambahan dipasang dengan persetujuan pendamping fasilitas. Muncul satu entri sementara: SYNC OFFSET: ~+00:00:01. Data perlu dibandingkan dengan log resolusi lebih tinggi.**
+
+Ia membaca laporan itu dua kali sebelum mengirimkannya kepada Hendra untuk ditinjau. Tidak ada kalimat tentang perangkat yang “suka menghilang”, tidak ada dugaan tentang ruangan yang terlalu sepi, dan tidak ada kesimpulan yang belum didukung data.
+
+Dito pasti akan bilang gaya tulis Raka seperti orang yang sedang mengajukan permohonan izin kepada mesin fotokopi.
+
+Raka tersenyum sendiri, lalu mengirim laporan.
+
+Sore hari, setelah Hendra mengonfirmasi bahwa pekerjaan lanjutan boleh ditunda sampai data terkumpul, Raka berjalan sebentar ke belakang kompleks. Ia membawa ponsel, bukan peralatan kerja. Jalur beton memotong rumput yang masih basah oleh hujan. Menara sensor berdiri di kejauhan, rapi dan tegak, seperti tiang lampu yang mengikuti aturan berpakaian.
+
+Raka memotret pemandangan dari balik pagar pembatas. Ia tidak memotret area terlarang atau layar perangkat. Hanya lereng, kabut, dan menara yang tampak lebih dekat daripada perkiraannya.
+
+Ketika ia memperbesar foto, salah satu menara terlihat lebih tinggi dan sedikit bergeser dari posisi yang ia ingat. Raka melihat langsung ke arah menara. Bentuknya normal.
+
+Ia membandingkan foto dengan pandangan langsung, lalu memeriksa metadata gambar. Tidak ada yang aneh selain kompresi ponsel.
+
+"Kamera ponsel saya yang cari perhatian," gumamnya.
+
+Ia tidak menghapus foto itu. Ia menyimpannya bersama catatan waktu, karena pengalaman kerja mengajarinya bahwa data yang tampak tidak penting kadang baru punya arti setelah dibandingkan dengan data lain.
+
+Sekitar tiga puluh meter dari pagar, seorang perempuan berdiri membawa tablet. Casing-nya berwarna biru tipis, seperti yang dipakai beberapa staf fasilitas. Perempuan itu tidak memakai seragam teknisi dan tidak membawa peralatan. Ia berdiri menghadap salah satu menara, lalu memeriksa sesuatu di tabletnya.
+
+Raka tidak menghampirinya. Ia mengangkat tangan sebagai salam dari jarak jauh.
+
+Perempuan itu menoleh, mengangguk, lalu berjalan menuju bangunan lain.
+
+Raka memasukkan ponsel ke saku. Ia tidak tahu apakah perempuan itu peneliti, staf administrasi, atau orang yang kebetulan sedang lewat. Tidak semua hal yang menarik harus langsung diselidiki.
+
+Malamnya, Raka menelepon ibunya.
+
+Percakapannya singkat: makanan, udara dingin, pekerjaan, dan atap rumah yang masih perlu diperbaiki.
+
+"Kalau kontrak tetap, jangan lupa atap," kata ibunya.
+
+"Saya ingat."
+
+"Kamu selalu bilang ingat."
+
+"Kali ini saya sudah membuat daftar."
+
+"Daftar tidak menutup bocor."
+
+Raka tertawa kecil. "Saya tahu."
+
+Setelah telepon selesai, ia membuka laptop untuk memeriksa data OM-7E. Modul pencatat belum menghasilkan kejadian baru. Ia menutup laptop, lalu menyiapkan pakaian untuk esok hari.
+
+Sekitar pukul sepuluh malam, Raka keluar kamar untuk mengambil air. Koridor lebih sepi daripada sore tadi. Lampu di langit-langit meredup secara otomatis ketika tidak ada orang bergerak.
+
+Saat kembali, ia mendengar bunyi elektronik pendek dari arah bangunan timur. Bunyinya bukan alarm. Lebih menyerupai sinyal yang berhenti sebelum selesai.
+
+Raka berhenti di depan kamarnya.
+
+Ia melihat jam ponsel: 22:17.
+
+Kemudian ia melihat arah bangunan timur.
+
+Rasa ingin tahu menyuruhnya memeriksa. Prosedur menyuruhnya tetap di tempat karena ia tidak memiliki pendamping dan tidak ada tugas pada jam itu.
+
+Raka mengeluarkan ponsel, mencatat waktu dan arah bunyi, lalu mengirim pesan kepada Hendra.
+
+> Pak, saya mendengar bunyi elektronik singkat dari arah bangunan timur sekitar 22:17. Tidak masuk area. Mohon dicek saat shift berikutnya.
+
+Hendra membalas beberapa menit kemudian.
+
+> Baik. Jangan masuk sendiri.
+
+> Siap.
+
+Raka memasukkan ponsel ke saku dan kembali ke kamar. Ia tidak merasa menjadi pahlawan karena tidak memeriksa bangunan timur. Ia hanya merasa lega karena kali ini rasa penasarannya berhasil diarahkan ke laporan.
+
+Beberapa detik setelah pintu kamarnya terkunci, indikator sebuah perangkat di bangunan timur berkedip satu kali lalu padam.
+
+Di ruang kontrol, seorang operator melihat perubahan kecil pada layar. Nilainya bergeser sebentar, kembali ke rentang normal, lalu berhenti bergerak. Tidak ada alarm yang menyala. Tidak ada instruksi untuk membuka prosedur darurat.
+
+Operator menandainya sebagai **flag minor** dan melanjutkan pekerjaan.
+
+Raka sudah tidur. Ia tidak tahu bahwa sistem sedang menyimpan hubungan antara jam, lampu, log OM-7E, dan identitas teknisi yang baru dua hari berada di fasilitas itu.
+
+Ia juga tidak tahu bahwa catatan **SYNC OFFSET: ~+00:00:01** akan menjadi salah satu baris yang membuat seseorang membuka arsip lama.
+
+Untuk malam itu, ia hanya tahu satu hal: besok ia harus memeriksa data lagi, dan atap rumah masih bocor.
