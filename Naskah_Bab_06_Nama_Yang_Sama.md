@@ -1,74 +1,22 @@
 # Bab 6 — Nama yang Sama
 
-Pagi berikutnya Raka menemukan bahwa fasilitas penelitian memiliki satu aturan tidak tertulis yang jauh lebih penting daripada semua aturan yang tercetak di buku prosedur: jangan pernah berharap kopi akan tetap menjadi milikmu setelah kamu meninggalkannya selama lebih dari tiga menit.
+Pagi itu Raka belajar pelan-pelan satu aturan yang tidak tertulis di fasilitas: jika kamu meninggalkan kopi selama lebih dari tiga menit, itu sudah bukan hak milik lagi. Ia baru menuang ketika seorang staf memanggil dari ujung ruangan. Saat Raka menoleh dan memberi arah, kopinya sudah berpindah tempat dan separuhnya menguap entah ke mana.
 
-Ia baru saja menuangkan kopi ke dalam gelas ketika seorang staf memanggilnya dari ujung ruangan. Raka menoleh sebentar, hanya untuk menjawab pertanyaan tentang letak ruang teknisi. Ketika kembali, gelasnya sudah berpindah tempat dan isinya tinggal setengah.
+Ia berdiri, menatap gelas setengah itu seperti menatap bukti konspirasi.
 
-Raka berdiri di depan meja.
+"Siapa?" tanyanya, setengah bercanda.
 
-"Siapa?"
+Senja bercampur dengan kesibukan orang-orang yang pura-pura fokus. Hendra menatap tablet, wajahnya datar seperti sensor suhu. Di sampingnya ada yang tertawa—suasana pagi yang biasa di gunung, antara serius dan lelucon kering.
 
-Tidak ada yang menjawab.
+"Kalau saya minum kopi kamu, saya enggak akan menyisakan setengah," Hendra mengumumkan sambil mengangkat gelasnya sendiri.
 
-Beberapa orang pura-pura sibuk.
+Raka memikirkannya. "Benar juga," katanya, mengambil kembali kopinya, dan sejenak melupakan munculnya data aneh kemarin. Untunglah. Orang boleh sibuk, tapi kopi itu nyata.
 
-Raka melihat ke arah Hendra.
+Hendra sudah menunggu ketika Raka sampai di meja kerja. Wajah Hendra itu berubah dari bercanda menjadi papan instrumentasi: datanya solid, tapi nada suaranya tidak.
 
-Hendra sedang membaca tablet dengan wajah seolah tidak terjadi apa-apa.
+"Kita punya masalah," kata Hendra singkat.
 
-"Kamu?"
-
-"Enggak."
-
-"Kelihatan."
-
-"Apa?"
-
-"Kelihatan enggak bersalah."
-
-Hendra mengangkat gelas kopinya sendiri.
-
-"Kalau saya minum kopi kamu, saya enggak akan menyisakan setengah."
-
-Raka memandang gelas itu.
-
-"Benar juga."
-
-Ia mengambil kembali kopinya.
-
-Seorang staf di dekat jendela akhirnya tertawa.
-
-"Di sini kalau mau aman, jangan tinggalkan makanan atau minuman."
-
-Raka mengangguk serius.
-
-"Berarti burung kemarin bukan kejadian pertama."
-
-"Burung?"
-
-"Telur saya."
-
-Staf itu tertawa.
-
-Hendra menggeleng.
-
-"Kamu masih ingat?"
-
-"Saya belum memaafkan."
-
-"Dia burung."
-
-"Justru karena burung, saya tidak bisa menuntut."
-
-Pagi itu terasa ringan, dan untuk beberapa saat Raka berhasil melupakan data aneh yang ia lihat sehari sebelumnya. Ia bahkan hampir menganggap semua kejadian di fasilitas itu sebagai kebetulan yang saling bertumpuk karena ia terlalu memperhatikannya.
-
-Namun ketika ia tiba di ruang kerja, Hendra sudah menunggu.
-
-"Kita punya masalah."
-
-Raka meletakkan tas.
-
-"Yang mahal?"
+Raka menaruh tas. "Yang mahal?"
 
 "Belum tentu."
 
@@ -76,811 +24,94 @@ Raka meletakkan tas.
 
 "Belum tahu."
 
-"Berarti memang masalah."
+Hendra menyerahkan sebuah map dari administrasi; kertasnya tebal, bau arsip lama. Raka membuka—formulir pekerjaan, daftar akses, dan dokumen-dokumen yang seperti ingin menyembunyikan sesuatu di balik jamannya.
 
-Hendra menyerahkan sebuah map.
+Di halaman pertama, tercetak satu nama yang membuat Raka berhenti sejenak.
 
-"Ini dari bagian administrasi."
+RAKA PRADANA.
 
-Raka membukanya.
+Ia membaca lagi; huruf-huruf itu seperti pantulan yang aneh. "Memangnya salah?" tanyanya.
 
-Di dalamnya terdapat salinan formulir pekerjaan, daftar akses, dan beberapa dokumen lama yang tampaknya berkaitan dengan kontrak pemeliharaan perusahaan mereka.
+"Enggak," Hendra menjawab, tapi meneruskan memberi satu lembar lain. Kertasnya menguning, pinggirnya sobek karena usia. Di pojoknya ada cap lama fasilitas; tanggalnya: 1988.
 
-"Kenapa saya dikasih ini?"
+Raka menelan. Ia menempelkan mata pada baris tertentu.
 
-"Karena ada pertanyaan tentang identitasmu."
+Subjek pendamping: Raka Pradana.
 
-Raka berhenti membaca.
+Ia mendekatkan dokumen sampai huruf-huruf hampir menempel ke hidungnya. Ada angka di bawahnya—kode tahun entri arsip yang hanya tercantum sebagai 1960. Raka menertawakan absurditasnya sendiri. "Berarti ada orang lain," katanya, setengah lega, setengah bingung.
 
-"Identitas saya?"
+"Jelas," ujar Hendra. "Nama yang sama. Di tempat yang sama. Empat puluh tahun sebelum kamu lahir."
 
-"Iya."
+Raka meletakkan kertas itu, memutar-mutar gelas yang kini terasa lebih kecil. Semua terasa seperti tumpukan kebetulan, sampai ia melihat catatan tangan yang memudar di bagian bawah dokumen.
 
-"Utang saya?"
+Jangan ulangi percobaan ini.
 
-"Enggak."
+Kalimat itu—ia pernah mendengarnya semacam bergema di pembicaraan dengan Maya kemarin. Seketika bercandaannya menjadi bisik. "Ini orang siapa?" tanya Raka, tapi Hendra cuma mengangkat bahu.
 
-"Catatan kriminal?"
+"Arsipnya tidak lengkap," kata Hendra. "Kalau sudah tiga puluh delapan tahun, bisa ada yang hilang."
 
-"Setahu saya enggak."
+Raka mencoba membuat lelucon tentang jadi arsip saja jika ingin tak hilang, dan keduanya tertawa; tawa itu menunda perasaan aneh yang merekat pada nama yang sama di dokumen yang berbeda. Namun kertas di meja tetap di sana, mengundang pertanyaan.
 
-"Berarti apa?"
+Maya datang sekitar satu jam kemudian. Dia mengambil map tanpa ekspresi dramatis. "Sudah lihat?" katanya.
 
-Hendra menunjuk satu lembar.
+Raka mengangguk, tapi ia menaruh komentar seperti biasa. "Kalian peneliti sukanya jawab 'belum tahu'," ucapnya. Maya hanya tersenyum tipis—respon yang sama yang selalu ia dapatkan saat menekan hal-hal yang tak mau menjawab.
 
-"Nama lengkapmu."
+Maya membuka beberapa file digital. "Nama ini muncul di beberapa arsip," katanya. Raka menatap layar: tahun entri arsip 1960, 1974, dan 1988—nama itu berulang seperti pola yang menolak hilang karena waktu. "Setidaknya tiga," Maya menambahkan.
 
-Raka melihat dokumen tersebut.
+"Lebih aman," Raka mencoba bercanda lagi. Maya tak tertawa, tapi ia mengangkat file lain dan sebuah foto hitam-putih muncul di layar: orang-orang berdiri di depan bangunan lama fasilitas, wajah-wajah buram karena waktu.
 
-Nama itu tercetak jelas.
+"Ini," kata Maya, memperbesar bagian belakang kerumunan. Di situ, sedikit tertutupi, berdiri seorang laki-laki muda. Maya menunjuk. "Nama ini tercatat sebagai Raka Pradana."
 
-**RAKA PRADANA.**
+Raka memiringkan kepala. Ia tidak mengenal wajah itu—tentu saja tidak; foto itu diambil puluhan tahun sebelum ia lahir—tapi ada sesuatu yang membuatnya menoleh lebih lama dari yang pantas. Bukan wajahnya; cara laki-laki itu berdiri: tangan kiri masuk saku, bahu sedikit miring, kepala sedikit menunduk. Tanpa sadar Raka meniru posisi itu—sebuah gerak kecil, seperti meniru nafas.
 
-Ia mengerutkan dahi.
+"Kenapa?" Maya bertanya.
 
-"Memangnya salah?"
+Raka segera mengubah posisi, merah sedikit. "Memangnya gaya berdiri ada hak ciptanya?" jawabnya, suaranya berusaha normal.
 
-"Enggak."
+Maya cuma menatap. Ia menyimpan foto itu di tabel data, tetapi ada kekosongan di sana: beberapa halaman hilang, dan beberapa catatan tidak lengkap. Itu membuat keanehan semakin berat.
 
-"Terus?"
+Sore, Raka mencoba mengalihkan pikirannya: memperbaiki modul jaringan di ruang teknisi, menuliskan catatan kerja, membalas pesan Dito yang mengusik dari kota. Percakapan singkat itu—tentang cewek, tentang apakah peneliti berarti pintar—memberi jeda komik yang ia perlukan. Ketika pesan selesai, ia menoleh ke kaca pintu dan melihat perempuan yang sama seperti beberapa hari lalu berdiri di luar. Perempuan itu tidak masuk; ia hanya menunggu di sana beberapa detik, menyendiri, lalu pergi. Ada sesuatu yang mencolok: casing tabletnya berwarna biru tipis—detail kecil yang terekam di otak Raka tanpa alasan ilmiah.
 
-Hendra tidak menjawab.
+Malam turun lebih cepat dari perkiraan. Sebelum tidur, Raka membuka salinan foto 1988 yang dikirim Maya—lebih jelas sekarang di layar ponselnya. Ia memperbesar wajah laki-laki itu lagi. Sekilas, tidak ada kemiripan—mata, rambut, bentuk wajah sama berbeda. Ia hampir lega. Hampir.
 
-Raka membaca baris berikutnya.
+Lalu matanya tertumbuk pada benda di leher pria dalam foto: sebuah lingkaran kecil dengan bagian tengah gelap. Garis-garisnya familiar. Bukan karena ia pernah melihat benda itu di fasilitas, melainkan karena benda serupa ada di kotak kecil ibunya di rumah—medali tua tanpa tulisan yang ibunya simpan rapi sejak ia kecil. Raka menghela napas, tangan tiba-tiba berat.
 
-Nomor identitas, tanggal lahir, alamat, nama perusahaan, dan data administrasi lainnya.
+“Terlalu banyak kebetulan,” katakan pikirnya. Ia menggenggam ponsel, lalu meletakkannya. Jam hampir menunjukkan sebelas. Ia memang tidak ingin menelepon ibu di tengah malam untuk pertanyaan yang bisa jadi asin rasa malu.
 
-Semuanya benar.
+Beberapa detik setelah itu terdengar bunyi pendek dari luar—bukan langkah kaki, bukan suara pintu, tapi bunyi elektronik kecil. Raka berjalan ke pintu dan membuka. Koridor tampak kosong, tetapi lampu di ujung berkedip dua kali, persis seperti sinyal yang pernah ia perhatikan di petang lain. Ia hampir kembali ke dalam ketika layar kecil di dinding menyala, menampilkan angka yang membuatnya menahan napas.
 
-"Ini data saya."
+23:17
 
-"Iya."
+Angka itu hanya muncul satu detik; layar kembali normal. Raka mengecek ponselnya—23:17. Jam dinding? 23:15. Biasanya ia akan menimpakan itu pada baterai jam atau pengaturan, tapi malam itu ada getar lain, bukan sekadar gangguan.
 
-"Terus masalahnya?"
+Ia mengambil ponsel dan memotret layar. Foto pertama kosong. Kedua, ketiga—sempurna kosong. Seolah kamera ponsel menolak merekam angka itu. Raka menatap layar, setengah kesal, setengah geli. "Kamu mulai menyebalkan," gumamnya ke arah panel tak bernyawa.
 
-Hendra mengambil satu lembar lain dari map.
+Di ruang kontrol, operator malam itu memperhatikan perubahan di jaringan waktu bangunan timur. Tidak ada flag sinkronisasi, tidak ada perintah yang masuk. Hanya selama satu detik seluruh sistem mendadak menampilkan 23:17. Operator membuka arsip kamera koridor—rekaman dari kamera di mana Raka berada. Frame menunjukkan Raka keluar dari kamar, berjalan ke layar; semuanya tampak normal. Ia memundurkan rekaman, memperbesar area pantulan kaca di pintu.
 
-"Yang ini."
+Pada satu frame, di pantulan itu, tampak bayangan seseorang—kabur, seperti siluet yang menempel pada kaca. Operator menahan napas. Ia memutar ulang beberapa kali; pada beberapa pemutaran bayangan itu muncul, pada yang lain tidak. Kualitas arsip rendah, noise banyak. Operator mengunduh file arsip 1988—rekaman analog yang sudah dipindai beberapa kali. Ia melakukan reprocessing: menguatkan kontras reflektif, memperhalus piksel dan menajamkan pola. Teknik itu kadang-kadang menyingkap satu frame yang tersembunyi pada pemutaran biasa, bukan karena keajaiban, tapi karena manipulasi algoritma. Di layar, pada rekaman tua, muncul sosok yang sama persis di pantulan kaca—siluet yang identik dengan yang baru saja terlihat—dengan timestamp yang tertulis samar:
 
-Dokumen tersebut lebih tua.
+23:17:01
 
-Kertasnya sudah menguning dan bagian pinggirnya sedikit rusak. Di bagian atas terdapat cap fasilitas yang tidak lagi digunakan dalam dokumen-dokumen sekarang.
+Operator menatap data itu terlalu lama. Ia mencatatnya. Menyimpan salinan. Mengirim ringkasan singkat ke grup pengawas. Itu prosedur; bukan pengakuan. Tapi kalau dua rekaman—satu dari 1988, satu dari tadi malam—memunculkan bayangan serupa pada titik yang sama, itu bukan lagi lelucon.
 
-Raka membaca tanggalnya.
+Keesokan pagi, Raka bangun dengan keputusan sederhana: pulang setelah pekerjaan selesai. Bukan karena takut, bukan karena ia merasa terancam, melainkan karena ia sudah bosan menumpuk pertanyaan tanpa jawaban. Saat ia keluar dari kamar, Hendra sudah menunggu, rautnya lebih tegas dari kemarin.
 
-1988.
+"Kita bicara," kata Hendra.
 
-Ia langsung teringat percakapan kemarin.
+Raka menegaskan lagi soal telur—lelucon kecil untuk menjaga nada. Hendra tak bercanda. Mereka berjalan ke ruang kerja; Maya sudah di sana. Di atas meja sebuah map baru—foto hasil pemeriksaan operator—didorong ke hadapan Raka.
 
-"Ini arsip penelitian?"
+"Ini data yang kami temukan tadi malam," kata Maya.
 
-"Katanya."
+Raka membuka satu demi satu halaman sampai foto terakhir. Wajahnya mengeras. Itu bukan lagi foto laki-laki 1988 yang dipotong dari arsip. Itu foto dirinya, diambil dari kamera koridor tadi malam. Di bagian bawah tercetak waktu:
 
-Raka melihat nama-nama yang tercantum di dalamnya.
+23:17:01
 
-Beberapa nama peneliti.
+Di pantulan kaca di belakang tubuhnya, ada seseorang. Wajahnya jelas kali ini—bukan kabur. Raka menatap, merasa aneh karena wajah itu terasa akrab seperti nama yang berulang-ulang di dokumen yang ada di mejanya. Wajah itu adalah foto laki-laki tahun 1988—Raka Pradana, tercetak sebagai nama pada arsip lama.
 
-Beberapa kode perangkat.
+Raka menatap foto itu, lalu menatap lagi, seolah mencoba mencari kesalahan di antara pixel. Di dalam dada ada dorongan tak terjelaskan: ingin tahu, tentu, tapi juga rasa vertigo kecil—seperti ketika kopi yang dipakai orang lain terasa lebih nikmat. Ia berdiri diam, dan untuk pertama kalinya sejak membuka map itu, tawa yang dipaksakan tak pernah kembali.
 
-Dan sebuah kolom yang membuat tangannya berhenti.
+Di meja, dokumen-dokumen lama tetap ada—cap, catatan tangan, halaman yang hilang. Di layar di ruang kontrol, operator menandai file itu untuk disimpan. Di koridor luar, perempuan dengan casing tablet biru tipis lewat tanpa berhenti. Semua detail itu berkumpul, menempel satu sama lain, tapi tidak menjelaskan apa pun.
 
-**Subjek pendamping: Raka Pradana.**
+Raka merasa seperti sedang berdiri di tengah foto yang menghadap dua era sekaligus. Ia menginginkan jawaban sederhana—apakah itu kebetulan, kesalahan, atau sesuatu yang lebih rumit—tetapi yang datang adalah satu fakta saja yang tak bisa diusap: nama itu terulang, medali muncul lagi, dan waktu—23:17—kembali mengetuk seperti jam yang mati kadang-kadang berdentang.
 
-Raka mengira ia salah membaca.
-
-Ia mendekatkan dokumen ke wajah.
-
-Nama itu tetap sama.
-
-"Ini bercanda?"
-
-Hendra menggeleng.
-
-"Enggak."
-
-Raka membaca baris di bawahnya.
-
-Tanggal lahir tidak dicantumkan lengkap. Hanya tahun.
-
-**1960.**
-
-Raka tertawa kecil.
-
-"Berarti ada orang lain."
-
-"Jelas."
-
-"Nama yang sama."
-
-"Iya."
-
-"Di tempat yang sama."
-
-"Iya."
-
-"Empat puluh tahun sebelum saya lahir."
-
-Hendra mengangguk.
-
-"Berarti bukan saya."
-
-"Jelas bukan kamu."
-
-Raka menatap dokumen itu lagi.
-
-"Bagus."
-
-Ia mengembalikan kertas tersebut ke meja.
-
-"Berarti selesai."
-
-Hendra menatapnya.
-
-"Belum."
-
-Raka menghela napas.
-
-"Apa lagi?"
-
-Hendra menunjuk bagian bawah dokumen.
-
-Ada catatan tangan yang sebagian tintanya sudah memudar.
-
-**Jangan ulangi percobaan ini.**
-
-Raka terdiam.
-
-Ia mengenali kalimat tersebut.
-
-Itulah kalimat yang secara tidak sengaja muncul dalam percakapan dengan Maya kemarin ketika mereka membahas arsip lama.
-
-Raka menatap Hendra.
-
-"Kamu tahu ini?"
-
-"Baru sekarang."
-
-"Siapa yang kasih?"
-
-"Administrasi."
-
-"Kenapa administrasi punya dokumen penelitian?"
-
-"Karena dokumen ini tersimpan dalam arsip kontrak lama."
-
-Raka mengangguk pelan.
-
-Itu masuk akal.
-
-Namun ada sesuatu yang tidak ia sukai.
-
-Nama yang sama.
-
-Tahun yang berbeda.
-
-Fasilitas yang sama.
-
-Dan sebuah catatan yang terasa terlalu familiar.
-
-"Ini orang siapa?" tanya Raka.
-
-Hendra melihat dokumen.
-
-"Belum tahu."
-
-"Belum tahu?"
-
-"Arsipnya tidak lengkap."
-
-Raka menatapnya.
-
-"Di tempat seperti ini, arsip bisa hilang?"
-
-"Kalau sudah tiga puluh delapan tahun, bisa."
-
-"Kalau begitu saya mau jadi arsip."
-
-Hendra mengerutkan dahi.
-
-"Kenapa?"
-
-"Supaya kalau hilang, saya tidak perlu kerja."
-
-Hendra tertawa.
-
-Untuk beberapa detik, ketegangan di ruangan itu kembali pecah.
-
-Namun setelah tawa mereka berhenti, dokumen tersebut masih berada di atas meja.
-
-Dan nama itu masih ada di sana.
-
-Raka Pradana.
-
-***
-
-Maya datang sekitar satu jam kemudian.
-
-Ia tidak terlihat terkejut ketika melihat dokumen di meja.
-
-"Sudah lihat?"
-
-Raka mengangguk.
-
-"Ini orang siapa?"
-
-Maya duduk.
-
-"Belum tahu."
-
-Raka menunjuk dokumen.
-
-"Kalian peneliti ternyata suka sekali menjawab 'belum tahu'."
-
-Maya tersenyum.
-
-"Karena memang belum tahu."
-
-"Kalau saya bilang saya sudah tahu?"
-
-"Berarti kamu bohong."
-
-Raka tertawa.
-
-Maya mengambil dokumen tersebut dan memeriksa bagian belakangnya.
-
-"Ada beberapa halaman yang hilang."
-
-"Kenapa?"
-
-"Dokumen lama."
-
-"Jawaban itu lagi."
-
-Maya mengabaikan komentar tersebut.
-
-"Nama ini muncul di beberapa arsip."
-
-Raka langsung memperhatikan.
-
-"Beberapa?"
-
-"Iya."
-
-"Di tahun yang sama?"
-
-"Enggak."
-
-"Jadi ada beberapa Raka Pradana?"
-
-Maya mengangguk.
-
-"Setidaknya tiga."
-
-Raka bersandar.
-
-"Bagus."
-
-Maya menatapnya.
-
-"Bagus?"
-
-"Kalau cuma satu, saya mulai curiga."
-
-"Kalau tiga?"
-
-"Lebih aman."
-
-Maya tertawa kecil.
-
-"Kamu memang aneh."
-
-"Terima kasih."
-
-"Itu bukan pujian."
-
-"Saya terima saja."
-
-Maya membuka beberapa dokumen digital.
-
-Nama yang sama muncul dalam arsip berbeda.
-
-1960.
-
-1974.
-
-1988.
-
-Tidak semuanya merupakan subjek. Ada yang tercatat sebagai kontak, ada yang hanya muncul dalam catatan lapangan, dan ada satu nama yang tidak memiliki keterangan sama sekali.
-
-Raka memandangi layar.
-
-"Jangan-jangan nama itu populer."
-
-Maya menggeleng.
-
-"Raka Pradana bukan nama yang sangat langka."
-
-"Berarti kebetulan."
-
-"Mungkin."
-
-"Bagus."
-
-Maya menatapnya.
-
-"Kamu terlalu cepat menerima kata kebetulan."
-
-Raka mengangkat bahu.
-
-"Karena kalau semua hal dianggap aneh, hidup capek."
-
-Maya tidak menjawab.
-
-Ia membuka arsip lain.
-
-Satu foto hitam putih muncul.
-
-Foto itu tampaknya diambil di depan bangunan lama fasilitas. Beberapa orang berdiri di depan kamera. Wajah-wajah mereka tidak terlalu jelas karena kualitas foto sudah menurun.
-
-Maya memperbesar bagian tengah.
-
-"Ini."
-
-Raka mendekat.
-
-Seorang laki-laki muda berdiri di barisan belakang.
-
-Maya menunjuknya.
-
-"Nama ini tercatat sebagai Raka Pradana."
-
-Raka melihat wajah tersebut.
-
-Ia tidak mengenalnya.
-
-Tentu saja tidak.
-
-Foto itu diambil puluhan tahun sebelum ia lahir.
-
-Namun ada sesuatu yang membuatnya tidak segera berpaling.
-
-Bukan wajahnya.
-
-Melainkan cara laki-laki itu berdiri.
-
-Tangan kiri masuk ke saku.
-
-Bahu sedikit miring.
-
-Kepala menunduk beberapa derajat.
-
-Raka secara tidak sadar melakukan hal yang sama.
-
-Maya melihatnya.
-
-"Kenapa?"
-
-Raka langsung mengubah posisi.
-
-"Enggak."
-
-"Kamu tadi menirunya."
-
-"Enggak."
-
-Maya menunjuk foto.
-
-"Kamu berdiri persis begitu."
-
-Raka melihat foto itu lagi.
-
-"Memangnya gaya berdiri ada hak ciptanya?"
-
-Maya tersenyum.
-
-"Enggak."
-
-"Berarti selesai."
-
-Maya tidak menjawab.
-
-***
-
-Sore hari, Raka memutuskan untuk tidak memikirkan foto tersebut.
-
-Keputusan itu bertahan sekitar dua puluh menit.
-
-Setelah itu ia mulai memikirkan foto tersebut lagi.
-
-Ia sedang memperbaiki modul jaringan di ruang teknisi ketika Dito mengirim pesan.
-
-> Gimana tempat gunung?
-
-Raka mengetik.
-
-> Aneh.
-
-Ia berhenti.
-
-Kemudian menghapusnya.
-
-Ia menulis:
-
-> Dingin.
-
-Dito membalas:
-
-> Itu bukan jawaban.
-
-Raka:
-
-> Ya dingin.
-
-Dito:
-
-> Ada cewek?
-
-Raka menghela napas.
-
-> Ada.
-
-Balasan datang cepat.
-
-> Nah.
-
-Raka tersenyum.
-
-> Peneliti.
-
-> Lebih bagus.
-
-> Kenapa?
-
-> Kalau peneliti berarti pintar.
-
-Raka mengetik:
-
-> Belum tentu.
-
-Dito:
-
-> Kamu sudah ngobrol?
-
-Raka:
-
-> Sudah.
-
-Dito:
-
-> Terus?
-
-Raka melihat ke arah pintu.
-
-Ia tidak tahu kenapa tiba-tiba merasa perlu berhati-hati bahkan ketika sedang mengirim pesan kepada temannya sendiri.
-
-> Dia bilang saya aneh.
-
-Dito membalas:
-
-> Berarti dia pintar.
-
-Raka tertawa.
-
-"Dasar."
-
-Ia menyimpan ponsel.
-
-Pada saat yang sama, seseorang berdiri di luar ruangan.
-
-Perempuan yang pernah ia lihat di halaman.
-
-Perempuan itu tidak masuk.
-
-Ia hanya berdiri beberapa detik di balik kaca pintu, lalu pergi.
-
-Raka tidak melihatnya.
-
-***
-
-Malam datang lebih cepat.
-
-Setelah makan, Raka kembali ke kamar dan membuka foto yang tadi dilihatnya dari arsip. Maya telah mengirim salinan untuk keperluan pemeriksaan internal.
-
-Ia memperbesar wajah laki-laki yang disebut sebagai Raka Pradana.
-
-Wajah itu buram.
-
-Tidak ada kemiripan yang jelas.
-
-Mata berbeda.
-
-Rambut berbeda.
-
-Bentuk wajah juga berbeda.
-
-Raka hampir merasa lega.
-
-Kemudian ia melihat sesuatu di bagian bawah foto.
-
-Sebuah benda kecil tergantung di leher laki-laki tersebut.
-
-Raka memperbesar.
-
-Sebuah benda berbentuk lingkaran dengan bagian tengah berwarna gelap.
-
-Ia mengenal bentuk itu.
-
-Bukan karena pernah melihat benda tersebut di fasilitas.
-
-Melainkan karena benda yang sama ada di dalam kotak kecil milik ibunya di rumah.
-
-Raka pernah melihatnya sejak kecil.
-
-Sebuah benda tua yang selalu disimpan ibunya bersama beberapa barang milik ayahnya.
-
-Ia tidak pernah bertanya banyak tentang benda itu.
-
-Bentuknya seperti medali, tetapi tidak memiliki nama atau tulisan yang jelas.
-
-Raka mengambil ponselnya.
-
-Ia membuka galeri dan mencari foto lama yang pernah ia ambil beberapa bulan lalu.
-
-Tidak ada.
-
-Ia membuka percakapan dengan ibunya.
-
-Kemudian berhenti.
-
-Jam sudah hampir sebelas malam.
-
-Ia tidak ingin menelepon hanya untuk bertanya tentang benda yang mungkin tidak ada hubungannya dengan apa pun.
-
-Ia meletakkan ponsel.
-
-Beberapa detik kemudian ia mengambilnya lagi.
-
-Kali ini ia membuka kamera.
-
-Ia menatap dirinya sendiri di layar.
-
-"Kalau saya tanya sekarang, pasti dibilang aneh."
-
-Ia mematikan kamera.
-
-Kemudian terdengar bunyi pendek dari luar.
-
-Bukan langkah kaki.
-
-Bukan pintu.
-
-Suara elektronik.
-
-Raka menoleh.
-
-Ia membuka pintu kamar.
-
-Koridor kosong.
-
-Namun lampu di ujung koridor berkedip dua kali.
-
-Raka menunggu.
-
-Tidak terjadi apa-apa.
-
-Ia hampir kembali masuk ketika layar kecil di dinding menyala.
-
-**23:17**
-
-Angka itu hanya muncul selama satu detik.
-
-Kemudian kembali menjadi tampilan normal.
-
-Raka berdiri diam.
-
-Ia melihat jam ponselnya.
-
-23:17.
-
-Ia melihat jam dinding.
-
-23:15.
-
-Untuk pertama kalinya, ia tidak langsung menyalahkan baterai.
-
-Raka berjalan mendekati layar.
-
-Tidak ada tombol.
-
-Tidak ada pesan.
-
-Hanya angka normal.
-
-Ia mengeluarkan ponsel dan memotret.
-
-Layar berkedip.
-
-Foto tersimpan.
-
-Raka melihat hasilnya.
-
-Dalam foto, angka tersebut tidak terbaca.
-
-Layar tampak kosong.
-
-Ia memotret lagi.
-
-Hasilnya sama.
-
-Raka menurunkan ponsel.
-
-"Bagus."
-
-Ia menatap layar.
-
-"Kamu mulai menyebalkan."
-
-***
-
-Di ruang kontrol, operator yang sama melihat perubahan waktu tersebut.
-
-Ia langsung memeriksa sumbernya.
-
-Tidak ada gangguan sistem.
-
-Tidak ada perubahan sinkronisasi.
-
-Tidak ada perintah yang tercatat.
-
-Namun selama satu detik, seluruh sistem waktu di bangunan timur menunjukkan angka yang sama.
-
-23:17.
-
-Operator membuka rekaman kamera.
-
-Pada koridor tempat Raka berdiri, gambar menunjukkan Raka keluar dari kamar.
-
-Ia berdiri di depan layar.
-
-Kemudian berjalan mendekat.
-
-Semua normal.
-
-Operator memundurkan rekaman.
-
-Ia melihat lagi.
-
-Normal.
-
-Ia memperbesar bagian wajah Raka.
-
-Kemudian sesuatu membuatnya berhenti.
-
-Di belakang Raka, pada pantulan kaca pintu, tampak bayangan seseorang.
-
-Operator memperbesar.
-
-Bayangan itu terlalu kabur untuk dikenali.
-
-Ia memutar ulang.
-
-Tidak ada.
-
-Ia memeriksa kamera lain.
-
-Tidak ada siapa-siapa di koridor.
-
-Ia kembali ke rekaman pertama.
-
-Bayangan itu muncul lagi.
-
-Operator membuka arsip.
-
-Ia mencari rekaman lama.
-
-1988.
-
-Koridor bangunan yang sama.
-
-Kamera berbeda.
-
-Gambar lebih buruk.
-
-Ia memutar rekaman.
-
-Seorang laki-laki berjalan melewati koridor.
-
-Operator memperbesar.
-
-Di belakang laki-laki tersebut, pada pantulan kaca yang sama, terdapat bayangan yang sama.
-
-Operator tidak bergerak.
-
-Di layar, waktu rekaman menunjukkan:
-
-**23:17:01**
-
-Kemudian gambar berhenti.
-
-***
-
-Pagi berikutnya, Raka bangun dengan satu keputusan sederhana.
-
-Ia akan pulang setelah pekerjaannya selesai.
-
-Bukan karena takut.
-
-Bukan karena curiga.
-
-Ia hanya merasa sudah cukup lama berada di tempat yang terlalu banyak memiliki pertanyaan.
-
-Saat ia keluar kamar, Hendra sudah menunggu.
-
-"Kita bicara."
-
-Raka menghela napas.
-
-"Kalau soal telur, saya sudah bilang itu bukan saya."
-
-Hendra menatapnya.
-
-"Kali ini serius."
-
-Raka mengikuti Hendra ke ruang kerja.
-
-Di sana Maya sudah menunggu.
-
-Di atas meja terdapat satu map.
-
-Maya mendorongnya ke arah Raka.
-
-"Ini data yang kami temukan tadi malam."
-
-Raka membuka map.
-
-Halaman pertama kosong.
-
-Halaman kedua berisi grafik.
-
-Halaman ketiga hanya memiliki satu foto.
-
-Raka melihat foto itu.
-
-Wajahnya berubah.
-
-Itu bukan foto laki-laki tahun 1988.
-
-Bukan foto arsip.
-
-Itu foto dirinya.
-
-Diambil dari kamera koridor tadi malam.
-
-Raka menatap Maya.
-
-"Kapan kalian mengambil ini?"
-
-Maya menjawab pelan.
-
-"Masalahnya, kami tidak mengambilnya."
-
-Raka melihat kembali foto tersebut.
-
-Di bagian bawah foto tercetak waktu.
-
-**23:17:01**
-
-Dan tepat di belakang tubuh Raka, pada pantulan kaca, terlihat seseorang berdiri.
-
-Kali ini wajahnya jelas.
-
-Raka mengenal wajah itu.
-
-Bukan karena pernah bertemu.
-
-Melainkan karena wajah tersebut adalah wajah laki-laki dalam foto tahun 1988.
-
-Laki-laki yang tercatat sebagai:
-
-**Raka Pradana.**
-
+Ia menarik napas panjang, dan di ruang yang tiba-tiba terasa kecil itu, Raka memutuskan untuk tidak pulang malam itu. Ia butuh melihat lagi; ia butuh menatap asal dari bayangan yang kini menempel di pantulan kaca.

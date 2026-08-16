@@ -1,623 +1,113 @@
 # Bab 5 — Pola
 
-Pagi itu Raka terlambat sarapan karena seekor burung berhasil mencuri telur dari piringnya.
+Pagi itu Raka terlambat sarapan karena seekor burung membawa kabur telur rebus dari piringnya.
 
-Ia sebenarnya tidak tahu apakah harus menyebutnya mencuri, karena burung tersebut tidak pernah menandatangani perjanjian bahwa telur itu miliknya. Namun setelah benda kecil berbulu itu terbang membawa telur rebus yang baru saja ia kupas, Raka merasa istilah "pencurian" cukup pantas digunakan.
+Secara teknis burung itu tidak melanggar hak milik, karena memang tidak ada perjanjian tertulis antara Raka dan satwa liar. Secara praktis, ketika benda kecil berbulu itu terbang sambil menjepit telur di paruhnya, istilah "pencurian" terasa cukup tepat.
 
-"Hei!"
-
-Burung itu hinggap di pagar tidak jauh dari meja makan, telur masih terselip di paruhnya.
-
-Raka berdiri sambil membawa sendok.
+"Hei!" Raka berdiri sambil membawa sendok. Burung itu hinggap di pagar, telur masih di paruhnya, memiringkan kepala seolah menilai situasi.
 
 "Balikin."
 
-Burung itu memiringkan kepala.
-
-"Jangan sok enggak ngerti."
-
-Seorang staf yang duduk di meja sebelah menahan tawa.
-
-"Dia enggak mungkin balikin."
+Seorang staf di meja sebelah menahan tawa. "Dia enggak mungkin balikin."
 
 "Kenapa?"
 
 "Karena sudah diambil."
 
-"Itu bukan alasan."
+"Itu bukan alasan," Raka protes, lalu menyerah melihat sepatu ketsnya. "Enggak, saya belum sarapan."
 
-Staf tersebut akhirnya tertawa. "Kalau begitu kejar."
+Burung itu terbang ke pohon. Raka mengambil roti, duduk, dan memutuskan bahwa ia mulai hari ini tidak akan percaya sepenuhnya pada satwa liar. Rekan kantin tertawa lebih keras, dan suasana pagi tetap ringan—sebuah kontrapoin kecil terhadap hari kerja yang seharusnya biasa.
 
-Raka melihat halaman, kemudian melihat sepatu yang dipakainya.
+Di fasilitas, OM-7E menunjukkan angka-angka yang akrab: normal, stabil, tidak marah. Raka menyukai itu; perangkat elektronik yang kembali normal berarti pekerjaan yang selesai, atau setidaknya pekerjaan yang bisa dilempar ke teknisi berikutnya.
 
-"Enggak."
+Pukul sebelas, Hendra muncul dengan tablet dan raut wajah yang bukan salah satu dari dua ekspresi biasa: santai atau lelah. Ia memanggil Raka.
 
-"Kenapa?"
+"Ikut saya," katanya, pendek.
 
-"Saya belum sarapan."
+Mereka tidak ke ruang OM-7E, melainkan ke sebuah ruangan kecil di bagian belakang fasilitas—ruang analisis yang jarang dimasuki teknisi lapangan. Di dalamnya ada dua meja, beberapa monitor, dan layar besar yang menampilkan grafik berlapis. Di salah satu monitor seorang perempuan menoleh; Raka mengenalnya dari beberapa kali melihatnya melintas di kompleks—dia yang selalu membawa tablet casing biru.
 
-Burung itu terbang ke pohon.
+"Halo," Hendra memperkenalkan. "Dr. Maya Anindita."
 
-Raka duduk kembali dengan wajah pasrah.
+"Raka Pradana," katanya, sambil duduk.
 
-"Baiklah."
+Maya memutar layar sehingga Raka bisa melihat kumpulan garis yang tampak seperti upaya beberapa sinyal saling berdebat. Pada beberapa bagian kecil terlihat loncatan tajam—gangguan singkat yang tidak cocok dengan alur normal.
 
-Ia mengambil roti.
+"Ini data dari perangkat yang kamu kerjakan kemarin," kata Maya tanpa basa-basi.
 
-"Mulai hari ini saya enggak percaya satwa liar."
+Raka mengangguk. Ia menjelaskan apa yang dilakukannya: memindah kabel beberapa sentimeter, menguji konektor, dan beberapa kali mendekatkan tangan ke perangkat. Ketika Maya bertanya berapa jauh kabel dipindah, Raka mengangkat bahu.
 
-Staf di sebelahnya tertawa lebih keras.
+"Tiga. Mungkin empat. Saya enggak ukur."
 
-Hari itu seharusnya berjalan seperti biasa.
+"Berapa kali kamu menyentuhnya?"
 
-Dan bagi Raka, hampir memang begitu.
+"Perkiraan? Sepuluh. Atau dua belas."
 
-Ia kembali ke ruang kerja, menyelesaikan beberapa pekerjaan yang tertunda, lalu membantu Hendra memeriksa hasil pemantauan OM-7E. Tidak ada gangguan baru yang bisa direproduksi secara langsung. Perangkat bekerja seperti biasa, seolah-olah kejadian kemarin tidak pernah terjadi.
+Maya mengamati dia, tidak menertawakan—hanya mencatat. "Masuk akal," katanya akhirnya. "Yang menarik bukan perangkatnya. Yang menarik pola waktunya."
 
-Raka justru menyukai keadaan itu.
+Ia memperbesar satu segmen grafik. Maya menunjuk dua sinyal yang, ketika diselaraskan pada skala yang sama, menunjukkan selisih konsisten sebesar 0,8 detik antara puncak-puncaknya.
 
-Kalau benda elektronik sudah kembali normal, biasanya masalahnya memang sudah selesai.
+"0,8 detik," Raka mengulang, mencoba merasakan angka itu seperti orang yang baru dengar istilah teknis. Maya menunjuk catatan awal dari perangkat lain: kejadian pertama yang pernah dilaporkan terjadi sekitar 08:17, sedangkan rangkaian di fasilitas berulang pada 23:17. "Dua waktu itu belum bisa kami sebut satu kejadian yang sama," katanya, "tapi keduanya muncul ketika sistem sedang menyelaraskan ulang."
 
-Kalau tidak selesai, setidaknya masalahnya bisa dipindahkan kepada teknisi berikutnya.
+Maya mengangguk. "Bukan kebetulan. Dan—" ia menarik dataset lain dari arsip digital, "—ketika kita menyesuaikan skala, pola ini mirip satu rekaman lama."
 
-Namun sekitar pukul sebelas, Hendra datang membawa tablet dengan wajah yang berbeda dari biasanya.
+Di layar, sebuah tanggal muncul: 1988. Raka melihat keterangan itu; di kepalanya angka itu terasa jauh sekaligus menempel ke realitas fasilitas yang sama.
 
-"Raka."
+"1988 (38 tahun lalu)," Maya menambah, seperti menandai jarak waktu supaya semua orang paham ukurannya. "Perangkat berbeda, sensor berbeda, lokasi hampir sama. Tapi pola garisnya berkaitan."
 
-"Hm?"
+Raka merasa ada sesuatu yang menempel di kata "berkaitan" itu—cukup untuk membuat leluconnya menguap sejenak. Hendra yang berdiri di sampingnya menepuk punggungnya setengah bercanda.
 
-"Ikut saya."
+"Jawaban favorit orang di sini," Raka berkata, dan Maya tersenyum samar. "Kita belum tahu," dia menambahkan, tegas tanpa dramatisasi.
 
-Raka melihat wajahnya.
+Maya, dengan nada kerja yang tidak berpretensi, menyebut salah satu hipotesis yang sering muncul di meja rapat: grounding atau induksi lokal—perubahan posisi kabel dan sambungan yang mengubah fase atau timing. Itu bukan keterangan final, hanya sebuah cara untuk memasang keterangan teknis yang mungkin. Mereka belum tahu pemicunya; data sementara hanya menunjukkan korelasi dengan posisi penanda logam, keberadaan manusia tertentu, dan momen sinkronisasi. Offset sekitar satu detik pada log awal telah diukur ulang menjadi 0,8 detik oleh pencatat beresolusi tinggi. Sementara itu, 16,8 detik adalah durasi satu rangkaian rekaman, bukan ukuran offset.
 
-"Dimarahin?"
+"Catat ini sebagai hipotesis kerja," katanya. "Interferensi yang dipengaruhi kondisi fisik lapangan. Tapi jangan baca ini sebagai jawaban."
 
-"Enggak."
+Sementara Raka mencoba mengembalikan kepalanya ke hal-hal mudah—makanan, lelucon tentang dokter dengan gelar yang memberi persamaan alih-alih obat—ruang analisis tetap memproses angka. Maya menyorongkan satu set lain ke layar; ketika skala disesuaikan, kesamaan dengan rekaman 1988 menjadi menonjol: bukan duplikat, tapi gema.
 
-"Berarti lebih buruk."
+Jauh di bawah lapisan ruangan itu, di sebuah ruang tanpa jendela yang tidak tercatat di peta fasilitas, tiga orang duduk mengamati grafik yang sama. Dindingnya berlapis material penyerap suara, layar memenuhi satu sisi ruang, dan suasana serius menebal seperti kopi hangat.
 
-Hendra tidak menjawab.
+"Polanya muncul lagi," kata pria paruh baya dengan kemeja putih. Seorang pria muda mengangkat satu berkas. "Enam belas koma delapan detik," jawabnya.
 
-Raka mengikuti.
+"Kemudian sumber?" tanya si beruban.
 
-Mereka tidak menuju ruang OM-7E, melainkan ke sebuah ruangan kecil di bagian belakang fasilitas yang belum pernah Raka masuki. Ruangan itu tidak memiliki rak perangkat atau meja teknisi. Di dalamnya hanya terdapat dua meja, beberapa monitor, dan sebuah layar besar yang menampilkan grafik.
+"Teknisi eksternal," kata pria muda itu, menunjukkan foto ID—Raka.
 
-Raka berhenti di ambang pintu.
+"Teknisi?" si beruban memeriksa foto beberapa detik. "Kelihatan biasa."
 
-"Ini ruangan apa?"
+Seorang perempuan di meja menunjuk pada grafik. "Belum tentu orangnya," katanya. "Bisa jadi fenomenanya yang memilih lokasi."
 
-"Ruang analisis."
+Sunyi sebentar. Si beruban menaruh kopinya. "Jangan mengawasi teknisi itu terlalu dekat," katanya kemudian. "Kalau dia memang tidak tahu, kita cuma akan membuat orang biasa curiga. Kalau dia tahu, kita punya masalah lebih besar."
 
-"Kenapa saya dibawa ke sini?"
+Instruksi itu tidak bernada jahat; ia bernada berhitung. Pengamatan harus dilakukan dari balik jendela gelap, jika harus—bukan dari depan meja kopi.
 
-"Nanti."
+Kembali di kantin fasilitas, Raka dan Hendra memakan makanan seadanya. Raka bertanya soal Dr. Maya—"Peneliti apa?"—dan Hendra hanya menjawab, "Peneliti," yang cukup untuk membuat keduanya tertawa: jawaban malas yang jujur. Ketegangan pagi mereda dengan cara-cara kecil: obrolan kosong, angin yang masuk dari jendela, dan sebuah rice cooker yang mengeluarkan bau hangus.
 
-Raka melihat seorang perempuan duduk di depan monitor. Perempuan itu adalah orang yang pernah dilihatnya di luar kompleks beberapa hari sebelumnya.
+"Maaf!" seorang petugas kantin berteriak. Asap tebal menggulung dari arah dapur. Nasinya gosong; tidak ada ledakan, hanya kering dan panggang, sejenis kecelakaan domestik yang menyingkirkan pikiran berat beberapa menit.
 
-Perempuan tersebut mengangkat wajah.
+Raka membantu membuka jendela. Udara pegunungan mendorong asap keluar. Dari situ, di antara pepohonan, ia melihat salah satu menara sensor: lampu kecil di puncaknya berkedip—sekali. Kemudian sekali lagi.
 
-"Ini Raka?"
+"Hend," Raka menoleh. "Kalau lampunya kedip dua kali, itu normal?"
 
-"Iya," jawab Hendra.
+Hendra menatap sebentar ke arah menara. "Harusnya," katanya. Lalu menambahkan, separuh bercanda, "Jangan mulai."
 
-Perempuan itu memandang Raka beberapa detik.
+Raka kembali duduk, tidak tahu bahwa pada saat yang hampir bersamaan, di suatu konsol monitor lain yang tidak jauh dari ruangan rahasianya, seseorang menekan beberapa tombol untuk mencari nama di basis data.
 
-"Teknisi?"
+Layar menampilkan:
 
-Raka menunjuk dirinya sendiri.
+RAKA PRADANA
 
-"Kelihatannya begitu."
+Kecocokan pola: belum dapat ditentukan.
 
-Perempuan itu tidak tersenyum.
+Di bawahnya baris lain:
 
-Hendra memperkenalkan, "Dr. Maya Anindita."
+Riwayat keluarga: akses terbatas.
 
-Raka mengangguk sopan.
+Operator yang melihat layar mengernyit, menaikkan hak akses, dan menerima penolakan. Ia menekan lagi—sistem menolak lagi. Di layar ada batas, dan untuk pertama kali hari itu ia mengernyit.
 
-"Raka Pradana."
+"Kenapa data keluarganya dibatasi?" gumamnya, lalu mematikan layar. Ia tidak tahu, ketika menutup sesi, bahwa pembatasan itu bukan berasal dari fasilitas. Ia juga belum tahu bahwa nama Raka muncul dalam sebuah dokumen berusia tiga puluh delapan tahun yang selama ini dianggap tidak relevan dengan penelitian.
 
-Maya kembali melihat layar.
+Di sudut dokumen tua itu, satu catatan tulisan tangan menempel seperti peringatan kecil:
 
-"Kami mau menanyakan beberapa hal."
+"Jangan ulangi percobaan ini."
 
-Raka duduk.
-
-"Kalau soal telur, saya sudah mengaku."
-
-Hendra menoleh.
-
-Maya juga.
-
-Raka menatap mereka.
-
-"Bercanda."
-
-Hendra menghela napas.
-
-"Fokus."
-
-"Siap."
-
-Maya menggeser kursinya sedikit dan memutar monitor ke arah Raka. Di layar terdapat beberapa grafik yang ditumpuk menjadi satu. Raka mengenali bentuk dasarnya sebagai data sensor, tetapi ia tidak langsung memahami apa yang sedang dibandingkan.
-
-"Ini data dari perangkat yang kamu kerjakan kemarin," kata Maya.
-
-Raka mengangguk.
-
-"Yang mana?"
-
-"Semua."
-
-Raka memperhatikan grafik tersebut.
-
-Ada beberapa garis dengan pola yang hampir sama. Sebagian bergerak naik dan turun secara perlahan, tetapi di satu bagian terdapat perubahan yang tampak seperti gangguan singkat.
-
-Maya memperbesar.
-
-"Di sini."
-
-Raka mendekat.
-
-"Itu yang saya lihat."
-
-"Kamu lihat?"
-
-"Pas kabelnya saya pindah."
-
-Maya menatapnya.
-
-"Jelaskan."
-
-Raka menceritakan apa yang dilakukannya. Ia menjelaskan posisi kabel, pengujian yang dilakukan, perubahan pembacaan ketika tangannya mendekati perangkat, dan selisih waktu 0,8 detik yang muncul pada dua sinyal.
-
-Maya tidak menyela.
-
-Setelah Raka selesai, ia bertanya, "Kamu mengubah posisi kabel berapa jauh?"
-
-"Beberapa sentimeter."
-
-"Berapa?"
-
-Raka berpikir.
-
-"Tiga."
-
-"Tiga sentimeter?"
-
-"Mungkin empat."
-
-Maya menatapnya.
-
-Raka mengangkat tangan.
-
-"Saya enggak ukur."
-
-"Kenapa?"
-
-"Karena saya teknisi, bukan tukang ukur kabel."
-
-Hendra menutup mulut untuk menyembunyikan senyum.
-
-Maya tidak ikut tertawa.
-
-Namun sudut bibirnya bergerak sedikit.
-
-"Baik," katanya. "Kamu menyentuh kabel itu berapa kali?"
-
-Raka berpikir lagi.
-
-"Enggak tahu."
-
-"Perkiraan."
-
-"Sepuluh."
-
-"Sepuluh?"
-
-"Atau dua belas."
-
-"Kenapa tidak dicatat?"
-
-Raka menatapnya seolah pertanyaan itu agak tidak adil.
-
-"Karena waktu itu saya belum tahu bakal ditanya."
-
-Hendra tertawa pendek.
-
-Maya akhirnya tersenyum.
-
-"Masuk akal."
-
-Raka mengangguk puas.
-
-"Nah."
-
-Maya kembali menatap layar.
-
-"Yang menarik bukan perangkatnya."
-
-Raka menunggu.
-
-"Yang menarik adalah pola waktunya."
-
-Ia menunjuk grafik.
-
-"Perubahan ini tidak terjadi secara acak."
-
-Raka melihat layar lebih dekat.
-
-Maya membuka data dari arsip lain.
-
-"Ini rekaman lama."
-
-Tanggal di layar menunjukkan puluhan tahun yang lalu.
-
-Raka membaca.
-
-"1988?"
-
-Maya mengangguk.
-
-"Data ini berasal dari fasilitas yang sama."
-
-Raka melihat grafik lama.
-
-Pada awalnya tidak tampak sama. Namun ketika Maya menyesuaikan skala, dua pola tersebut perlahan terlihat mirip.
-
-Tidak identik.
-
-Tetapi cukup mirip untuk membuat Raka berhenti bercanda.
-
-"Ini perangkat yang sama?"
-
-"Enggak."
-
-"Sensor yang sama?"
-
-"Enggak."
-
-"Lokasi?"
-
-"Bagian kompleks yang sama, tetapi perangkatnya berbeda."
-
-Raka mengerutkan dahi.
-
-"Berarti?"
-
-Maya menjawab pelan.
-
-"Berarti kita belum tahu."
-
-Raka menyandarkan tubuh.
-
-"Jawaban favorit orang di sini."
-
-Hendra tertawa.
-
-Maya memandangnya.
-
-"Dia memang seperti ini setiap hari?"
-
-"Lebih parah kalau lapar."
-
-Raka menunjuk Hendra.
-
-"Fitnah."
-
-***
-
-Pada saat Raka sedang membicarakan sesuatu yang tidak ia mengerti, beberapa kilometer dari sana, di sebuah ruangan yang tidak tercantum dalam peta fasilitas, tiga orang sedang melihat grafik yang sama.
-
-Ruangan itu tidak memiliki jendela. Dindingnya dilapisi material yang menyerap suara, dan satu sisi ruangan dipenuhi layar yang menampilkan data dari berbagai lokasi.
-
-Di tengah ruangan terdapat meja panjang.
-
-Di salah satu ujungnya duduk seorang pria berusia sekitar lima puluh tahun dengan kemeja putih tanpa dasi. Rambutnya mulai dipenuhi uban, tetapi penampilannya masih rapi. Di depannya tidak ada komputer.
-
-Ia hanya memegang secangkir kopi.
-
-Di sisi lain meja duduk seorang pria lebih muda yang sedang membuka beberapa berkas.
-
-"Jadi?" tanya pria berambut putih.
-
-"Polanya muncul lagi."
-
-"Berapa lama?"
-
-"Enam belas koma delapan detik."
-
-Pria itu meletakkan cangkirnya.
-
-"Dan sumbernya?"
-
-"Belum pasti."
-
-"Orangnya?"
-
-Pria muda itu membuka satu berkas.
-
-"Teknisi eksternal."
-
-Pria berambut putih mengangkat alis.
-
-"Teknisi?"
-
-"Iya."
-
-"Seperti apa?"
-
-Pria muda itu membuka foto identitas Raka.
-
-Pria berambut putih memperhatikan foto tersebut beberapa detik.
-
-"Dia kelihatan biasa."
-
-"Memang."
-
-"Teknisi biasa?"
-
-"Sejauh yang kami tahu."
-
-Pria itu kembali melihat layar.
-
-"Sudah berapa lama dia di sana?"
-
-"Tiga hari."
-
-"Dan sebelumnya?"
-
-"Belum pernah masuk fasilitas."
-
-Pria berambut putih diam.
-
-Kemudian ia berkata, "Kenapa dia?"
-
-Pria muda itu tidak menjawab.
-
-Di sampingnya, seorang perempuan yang sejak tadi membaca laporan ikut bersuara.
-
-"Belum tentu dia."
-
-Pria berambut putih menoleh.
-
-"Kalau bukan dia?"
-
-Perempuan itu menunjuk grafik.
-
-"Kalau fenomenanya yang memilih lokasi?"
-
-Ruangan menjadi sunyi.
-
-Pria berambut putih kembali menatap grafik.
-
-"Jangan membuat kesimpulan sebelum datanya cukup."
-
-Perempuan itu mengangguk.
-
-"Ya."
-
-Pria berambut putih mengangkat cangkir kopinya lagi.
-
-"Dan jangan mengawasi teknisi itu terlalu dekat."
-
-Pria muda menatapnya.
-
-"Kenapa?"
-
-"Karena kalau dia memang tidak tahu apa-apa, kita hanya akan membuat orang biasa curiga."
-
-Pria muda mengangguk.
-
-"Kalau dia tahu?"
-
-Pria berambut putih menatapnya.
-
-"Kalau dia tahu, kita punya masalah yang lebih besar."
-
-***
-
-Di fasilitas penelitian, Raka kembali ke pekerjaannya dengan perasaan sedikit berbeda.
-
-Ia tidak diberi penjelasan lebih jauh.
-
-Maya hanya mengatakan bahwa data tersebut akan dianalisis.
-
-Raka tidak keberatan.
-
-Justru ia lebih suka begitu.
-
-Ia tidak ingin tahu sesuatu yang belum bisa dijelaskan.
-
-Atau setidaknya, ia ingin percaya bahwa ia tidak ingin tahu.
-
-Siang itu ia duduk bersama Hendra di kantin.
-
-"Dokter tadi orang apa?" tanyanya.
-
-"Peneliti."
-
-"Peneliti apa?"
-
-Hendra makan.
-
-"Peneliti."
-
-Raka berhenti.
-
-"Ini jawaban malas."
-
-"Memang."
-
-"Dia dokter, tapi bukan dokter?"
-
-"Dia punya gelar doktor."
-
-"Oh."
-
-Raka mengangguk.
-
-"Jadi kalau saya sakit, enggak boleh minta obat?"
-
-"Jangan."
-
-"Kenapa?"
-
-"Karena dia bisa saja kasih kamu persamaan."
-
-Raka tertawa.
-
-"Bagus."
-
-Mereka makan beberapa saat.
-
-Kemudian Raka bertanya, "Hendra."
-
-"Hm?"
-
-"Orang-orang di sini pernah nemu kejadian aneh sebelumnya?"
-
-Hendra tidak langsung menjawab.
-
-"Kenapa?"
-
-"Karena tadi dia bilang ada data lama."
-
-Hendra menaruh sendok.
-
-"Di tempat penelitian, data lama itu biasa."
-
-"Data tiga puluh delapan tahun lalu?"
-
-Hendra menatapnya.
-
-"Informasi dari arsip lama memang bisa bertahan lebih lama daripada orang yang mengumpulkannya."
-
-Raka menyipitkan mata.
-
-"Itu jawaban yang sangat tidak menjawab."
-
-Hendra tersenyum.
-
-"Berarti kamu mulai cocok kerja di sini."
-
-Raka tertawa.
-
-Ia mengambil minumnya.
-
-Kemudian terdengar bunyi keras dari dapur.
-
-Semua orang menoleh.
-
-Seorang petugas kantin berdiri di dekat kompor dengan wajah panik.
-
-"Maaf!"
-
-Asap mulai memenuhi bagian belakang ruangan.
-
-Hendra berdiri.
-
-"Apa yang terjadi?"
-
-"Rice cooker."
-
-Raka ikut berdiri.
-
-"Rice cooker bisa meledak?"
-
-Petugas itu menggeleng.
-
-"Enggak. Nasinya gosong."
-
-Raka menatap asap.
-
-"Kirain fenomena geofisika."
-
-Beberapa orang tertawa.
-
-Bahkan Hendra.
-
-Untuk beberapa menit, ketegangan yang sejak pagi memenuhi fasilitas itu menghilang begitu saja.
-
-Raka membantu membuka jendela.
-
-Angin pegunungan masuk membawa udara dingin dan perlahan mendorong asap keluar.
-
-Ia berdiri di dekat jendela sambil memandang halaman.
-
-Dari sana, salah satu menara sensor terlihat di antara pepohonan.
-
-Lampu kecil di puncaknya berkedip.
-
-Sekali.
-
-Kemudian sekali lagi.
-
-Raka memperhatikannya.
-
-"Hen."
-
-"Apa?"
-
-"Kalau lampunya kedip dua kali, itu normal?"
-
-Hendra melihat ke arah menara.
-
-"Harusnya."
-
-Raka tersenyum.
-
-"Harusnya lagi."
-
-Hendra menggeleng.
-
-"Jangan mulai."
-
-Raka kembali ke meja.
-
-Ia tidak tahu bahwa pada saat itu, jauh di dalam bangunan yang tidak pernah ia masuki, sebuah layar baru saja menampilkan hasil pencarian terhadap namanya.
-
-**RAKA PRADANA**
-
-**Kecocokan pola: belum dapat ditentukan.**
-
-Di bawahnya terdapat satu baris lain.
-
-**Riwayat keluarga: akses terbatas.**
-
-Operator yang melihat layar tersebut berhenti mengetik.
-
-Ia menatap baris itu beberapa detik.
-
-Kemudian membuka hak akses yang lebih tinggi.
-
-Sistem menolak.
-
-Untuk pertama kalinya hari itu, ia mengernyit.
-
-"Kenapa data keluarganya dibatasi?"
-
-Tidak ada jawaban.
-
-Ia mencoba lagi.
-
-Sistem menolak untuk kedua kalinya.
-
-Operator itu menutup layar.
-
-Ia tidak tahu bahwa pembatasan tersebut bukan berasal dari fasilitas penelitian.
-
-Dan ia juga belum tahu bahwa nama Raka pernah muncul di tempat itu sebelumnya.
-
-Bukan sebagai teknisi.
-
-Bukan sebagai pasien.
-
-Bukan sebagai peneliti.
-
-Melainkan dalam sebuah dokumen yang berusia tiga puluh delapan tahun.
-
-Dokumen yang selama ini dianggap tidak memiliki hubungan dengan penelitian apa pun.
-
-Dan di sudut dokumen tersebut, ada satu catatan tulisan tangan yang hanya terdiri dari empat kata:
-
-**Jangan ulangi percobaan ini.**
+Kalimat itu sesederhana itu—empat kata yang menempel di kertas, dan bagi Raka, bagi orang di meja kerja, bagi operator yang menutup layar, catatan itu mengurutkan kembali perasaan nyaman hari itu menjadi sesuatu yang lebih berat. Mereka semua kembali pada tugas masing-masing, tetapi pola yang sama telah menempatkan sebuah garis tipis antara kebetulan dan sesuatu yang patut dicatat.

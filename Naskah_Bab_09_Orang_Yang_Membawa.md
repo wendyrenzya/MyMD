@@ -1,953 +1,189 @@
 # Bab 9 — Orang yang Membawa
 
-Raka mulai menyadari bahwa ada dua jenis orang yang bekerja di fasilitas penelitian itu.
+Raka sudah mulai bisa membedakan dua jenis orang di fasilitas itu.
 
-Jenis pertama adalah orang yang kalau menemukan sesuatu yang aneh akan langsung mencatatnya, memeriksa ulang, membuat tabel, lalu mencari kemungkinan penyebabnya sampai tiga puluh halaman.
+Satu: orang yang menemukan anomali lalu mencatatnya, mengurutkan kemungkinan penyebab, membuat tabel, dan menulis serangkaian pertanyaan yang akhirnya jadi laporan tiga puluh halaman.
 
-Jenis kedua adalah orang seperti Raka.
+Dua: orang seperti Raka. Ia akan memeriksa benda itu, mencoba menyentuhnya, lalu bertanya, apakah ini masih bisa diperbaiki.
 
-Ia akan memeriksanya, mencoba menyentuhnya, lalu bertanya apakah benda tersebut masih bisa diperbaiki.
-
-Pagi itu ia sedang berhadapan dengan sebuah mesin fotokopi yang menolak mencetak halaman kedua dari sebuah dokumen ketika Maya masuk ke ruang kerja.
+Pagi itu yang menolak bekerja adalah mesin fotokopi — jenis masalah yang, menurut Raka, pantas diberi nama sendiri. Halaman kedua sebuah dokumen menolak keluar. Raka mengangkat bahu ketika Maya masuk ke ruang kerja.
 
 "Kenapa?" tanya Maya.
 
-"Dia pilih-pilih."
+"Dia pilih-pilih," jawab Raka, menunjuk mesin seolah menunjukkan hewan peliharaan yang rewel.
 
-Maya melihat mesin.
+Maya memeriksa: dokumen normal, kertas normal, toner normal. Dia menatap Raka, menunggu punchline.
 
-"Mesinnya?"
+"Terus?" ia mendesak.
 
-"Iya."
+Raka menunjuk layar mesin. Tulisan kecil: Paper jam.
 
-"Dokumennya?"
+Maya tersenyum. Raka membuka penutup, menarik selembar kertas terlipat, menutup. Mesin hidup lagi.
 
-"Normal."
+"Kadang masalah memang sesederhana itu," kata Maya.
 
-"Kertasnya?"
+Raka melunak. Sekilas, fasilitas itu terasa biasa—orang-orang yang serius, prosedur, dan kopi yang terlalu hitam. Lalu Maya bilang, "Saya mau bicara soal Alina."
 
-"Normal."
-
-"Tonernya?"
-
-"Normal."
-
-Maya menatap Raka.
-
-"Terus?"
-
-Raka menunjuk mesin.
-
-"Dia."
-
-Maya menahan senyum.
-
-"Kamu tahu mesin tidak punya kehendak?"
-
-"Kalau begitu kenapa dia cuma mau cetak halaman pertama?"
-
-Maya mendekati mesin dan melihat layar.
-
-"Paper jam."
-
-Raka terdiam.
-
-Maya menunjuk tulisan tersebut.
-
-"Dia bilang sendiri."
-
-Raka membaca.
-
-"Oh."
-
-Ia membuka penutup mesin, menarik selembar kertas yang terlipat, lalu menutupnya kembali.
-
-Mesin bekerja normal.
-
-Maya tertawa.
-
-"Kadang masalah memang sesederhana itu."
-
-Raka menatapnya.
-
-"Jangan bilang itu ke peneliti."
-
-"Kenapa?"
-
-"Nanti mereka bikin penelitian tiga tahun tentang kertas terlipat."
-
-Maya tertawa.
-
-Raka merasa sedikit lega.
-
-Sejak pembicaraan kemarin, ia sebenarnya mulai merasa bahwa semua orang di fasilitas tersebut menyembunyikan sesuatu. Tetapi melihat Maya tertawa karena sebuah mesin fotokopi membuat tempat itu terasa sedikit lebih normal.
-
-Sayangnya, perasaan itu hanya bertahan sampai Maya berkata, "Saya mau bicara soal Alina."
-
-Raka langsung menoleh.
+Bunyi itu mengendurkan ketenangan seperti mengelem setumpuk kertas — perlahan, tidak rapi. Raka menoleh.
 
 "Yang kemarin?"
 
-"Iya."
+"Iya. Bagian arsip."
 
-"Dia peneliti?"
+Maya tidak menjelaskan lebih jauh. Raka mematikan mesin fotokopi dengan gestur dramatis.
 
-Maya menggeleng.
+"Kalau jawabannya 'belum tahu', saya pulang," katanya.
 
-"Bagian arsip."
-
-"Arsip?"
-
-"Kurang lebih."
-
-"Kenapa dia tahu benda itu?"
-
-Maya tidak menjawab.
-
-Raka mematikan mesin fotokopi.
-
-"Kalau jawabannya 'belum tahu', saya pulang."
-
-Maya tersenyum.
-
-"Kali ini saya tahu sedikit."
+Maya tersenyum, "Kali ini saya tahu sedikit."
 
 "Bagus."
 
-"Dan sedikit itu mungkin akan membuatmu lebih bingung."
+"Dan sedikit itu mungkin membuatmu lebih bingung."
 
-"Sudah biasa."
+Raka ikut tersenyum datar. Ia sudah cukup bingung untuk hari itu.
 
 ***
 
-Maya membawa Raka ke ruang arsip pada pagi yang masih sepi. Ruangan tersebut berada di bagian bangunan lama yang jarang dilewati. Tidak ada perangkat modern selain sistem pengendali suhu dan beberapa kamera kecil. Rak-rak tinggi memenuhi hampir seluruh dinding, dan kotak-kotak dokumen disusun berdasarkan tahun serta kode proyek.
+Ruang arsip berada di bangunan lama, bagian yang jarang dilewati. Lampu remangnya punya kebiasaan: menyorot debu seperti spotlight untuk barang-barang yang lupa. Rak-rak tinggi berjejer, kotak-kotak diberi label tahun dan kode proyek. Tidak banyak modernitas kecuali pengatur suhu dan beberapa kamera kecil bermata polos. Di sebuah meja ada sebuah tablet dengan casing biru — sekilas aksen yang akan mengikutinya sepanjang hari.
 
-Raka melihat deretan rak.
+Alina berdiri di depan rak ketika mereka masuk. Tiap kali Raka menatapnya, ada sesuatu tentang posturnya yang tampak biasa saja, sakralnya arsip berkurang.
 
-"Ini semuanya arsip?"
+"Kamu datang," kata Alina datar. Raka mengangguk. Maya berkata, "Tunjukkan."
 
-"Iya."
+Alina mengambil satu kotak hitam dari rak. Permukaannya berkerut oleh goresan dan terkelupas; tulisan tangan di salah satu sisi hampir pudar tetapi masih terbaca: P-19.
 
-"Berapa lama?"
+Raka menatapnya seperti anak yang menemukan mainan terlarang. Alina meletakkan kotak di meja dan membuka tutupnya. Di dalamnya: foto-foto, catatan lapangan, dan sebuah benda logam — bentuknya sama persis dengan yang Raka simpan di saku. Permukaan benda dalam kotak lebih tua, bernoda, tapi bentuk, ukuran, titik tengah, semuanya sama. Raka menyentuh impuls untuk meraihnya, lalu menahan diri.
 
-"Sejak fasilitas pertama berdiri."
+"Berapa banyak benda seperti itu?" tanyanya.
 
-Raka memandang ke atas.
+Alina menjawab singkat, dengan nada arsip: "Dua benda yang kami ketahui."
 
-"Kalau saya hilang di sini, jangan cari."
+Kata-kata itu menempel di telinga Raka seperti stiker yang salah. "Dua benda yang kami ketahui" — bukan lebih, bukan pasti. Cukup untuk membuat sesuatu menjadi penting.
 
-Maya tertawa.
+Maya mengambil salah satu foto. Di pojoknya tertulis: 1988. Pada foto terlihat sebuah ruangan dengan perangkat-perangkat yang tampak ketinggalan zaman. Di tengahnya dua keping logam diletakkan berhadapan; orang-orang berdiri di sampingnya, seperti saksi atau bagian dari instruksi.
 
-"Kenapa?"
+"Mereka mencoba memindahkan informasi," kata Alina. "Bukan benda."
 
-"Karena saya mungkin sudah jadi dokumen."
+Raka mengerutkan dahi. "Informasi—"
 
-Mereka berjalan sampai ke bagian paling belakang.
+"Bukan perjalanan waktu," Maya menyelipkan lembut, seperti menghindari frase yang terlalu berlebihan. "Kami tidak pernah membuktikan perjalanan waktu."
 
-Alina sedang berdiri di depan sebuah rak.
+"Bagus," kata Raka sebelum sempat menahan diri. "Kalau perjalanan waktu, saya enggak tahu harus mulai memperbaiki dari mana."
 
-Ia tidak tampak terkejut melihat Raka.
+Alina menunjuk catatan. "Eksperimen itu menunjukkan: ketika kondisi tertentu tercapai, dua sistem yang terpisah secara fisik dapat menunjukkan pola yang sangat mirip — kadang satu lokasi menampilkan data yang terlihat muncul 'lebih dulu' dari jalur komunikasi yang bisa mereka ukur."
 
-"Kamu datang."
+"Maksudnya kayak sinkronisasi?" Raka mencoba merumuskan.
 
-Raka mengangguk.
+"Lebih dari sinkronisasi," kata Alina. "Data dari satu lokasi muncul di lokasi lain sebelum sistem seharusnya menerima data tersebut."
 
-"Saya penasaran."
+Istilah teknis tidak ada yang memuaskan: Raka tahu cukup untuk mendapatinya mengganggu, tidak cukup untuk menenangkannya. Alina menutup kotak sedikit, menyorot medali di dalamnya. Di tepinya ada goresan kecil, hampir seperti cap: R.P.
 
-"Saya tahu."
+Raka menunduk, melihat medali di saku. Goresan yang sama, setengah tersembunyi di bawah jelaga. Ada rasa hangat aneh ketika mata mereka bertemu benda yang serupa itu — bukan karena kemewahan, tapi karena asalnya: sesuatu yang seharusnya tidak ada di meja-dia-arsip.
 
-Maya berkata, "Tunjukkan."
+"Kenapa ada dua?" Raka bertanya.
 
-Alina mengambil sebuah kotak berwarna hitam dari rak.
-
-Ia membawanya ke meja.
-
-Kotak tersebut lebih tua daripada sebagian besar benda di ruangan itu. Permukaannya penuh goresan kecil, dan pada salah satu sisi terdapat tulisan tangan yang hampir pudar.
-
-**P-19.**
-
-Raka melihat benda itu.
-
-"Ini apa?"
-
-Alina membuka kotak.
-
-Di dalamnya terdapat beberapa lembar foto, catatan lapangan, dan sebuah benda logam lain.
-
-Bentuknya sama dengan benda yang dibawa Raka.
-
-Namun benda di dalam kotak lebih tua dan permukaannya penuh noda.
-
-Raka tidak menyentuhnya.
-
-"Berapa banyak benda seperti itu?"
-
-Alina menjawab, "Dua yang kami ketahui."
-
-"Dua?"
-
-"Yang ini dan yang kamu bawa."
-
-Raka mengerutkan dahi.
-
-"Berarti saya bukan satu-satunya."
-
-"Secara fisik, tidak."
-
-Maya mengambil salah satu foto.
-
-"Ini dari percobaan 19."
-
-Raka melihat tanggalnya.
-
-1988.
-
-Di foto tersebut terdapat sebuah ruangan dengan beberapa perangkat yang bentuknya sudah tidak digunakan lagi.
-
-Di tengah ruangan terdapat dua benda logam yang diletakkan berhadapan.
-
-Raka menatapnya.
-
-"Percobaan apa?"
-
-Alina menjawab, "Mencoba memindahkan informasi."
-
-"Informasi?"
-
-"Bukan benda."
-
-Raka menunggu penjelasan lebih lanjut.
-
-Alina melanjutkan, "Mereka menemukan bahwa ketika kondisi tertentu tercapai, dua sistem yang dipisahkan secara fisik dapat menunjukkan pola yang sangat mirip dalam waktu yang hampir bersamaan."
-
-Raka mengerutkan dahi.
-
-"Kayak sinkronisasi?"
-
-"Lebih dari itu."
-
-"Seberapa lebih?"
-
-Alina memandangnya.
-
-"Data dari satu lokasi muncul di lokasi lain sebelum sistem seharusnya menerima data tersebut."
-
-Raka terdiam.
-
-Maya berkata pelan, "Itu sebabnya mereka mulai tertarik pada waktu."
-
-Raka kembali melihat foto.
-
-"Berarti bukan perjalanan waktu?"
-
-Alina menggeleng.
-
-"Kami tidak pernah membuktikan perjalanan waktu."
-
-"Bagus."
-
-"Kenapa?"
-
-"Karena kalau sudah perjalanan waktu, saya enggak tahu harus mulai memperbaiki dari mana."
-
-Maya tertawa kecil.
-
-Alina tidak.
-
-Ia menunjuk salah satu catatan.
-
-"Yang mereka coba pahami bukan perjalanan manusia ke masa lalu. Mereka mencoba memahami apakah informasi dapat muncul di lokasi yang berbeda tanpa melalui jalur yang bisa mereka ukur."
-
-Raka membaca catatan tersebut.
-
-"Dan gagal."
-
-"Beberapa kali."
-
-"Percobaan 19?"
-
-"Yang terakhir."
-
-Raka menunjuk foto dua benda logam.
-
-"Kenapa ada dua?"
-
-Alina diam.
-
-Maya menatapnya.
-
-Alina akhirnya berkata, "Karena mereka menemukan bahwa fenomena itu lebih mudah muncul ketika ada dua titik referensi."
+Alina menghela napas. "Karena fenomena itu lebih mudah muncul ketika ada dua titik referensi."
 
 "Referensi apa?"
 
-"Manusia."
+"Manusia," kata Alina. "Manusia yang berdiri di sana. Dan benda itu—penanda. Untuk memastikan dua sistem mengenali referensi yang sama."
 
-Raka menatapnya.
+Raka mencondongkan kepala. "Jadi orang yang membawa benda ini—"
 
-"Manusia?"
+"Jangan menyimpulkan," Alina memotong, tajam bukan karena kasar tapi karena terbiasa menutup pola sebelum orang lain membuat cerita. Raka mengangguk, setengah menertawakan dirinya sendiri karena selalu mau sampai ke kesimpulan.
 
-"Iya."
+Di salah satu foto Raka melihat sosok laki-laki berdiri dekat perangkat, dan di belakangnya seorang perempuan muda. Wajah perempuan itu membuat Raka berhenti. Ia hampir melongo.
 
-"Jadi orangnya berdiri di situ?"
+"Itu kamu?" Maya bertanya, pelan.
 
-"Kurang lebih."
+Alina menatap foto itu lama, tangannya seakan menimbang umur yang sudah lewat. "Itu bukan foto saya," katanya akhirnya.
 
-"Dan benda ini?"
+Raka tak percaya. "Jangan bercanda."
 
-Alina menunjuk medali.
-
-"Penanda."
-
-"Untuk apa?"
-
-"Untuk memastikan dua sistem mengenali referensi yang sama."
-
-Raka menyandarkan tubuh.
-
-"Berarti orang yang membawa benda ini..."
-
-Alina memotong.
-
-"Jangan menyimpulkan."
-
-Raka mengangguk.
-
-"Benar."
-
-Ia kembali melihat foto.
-
-Di salah satu sudut gambar terdapat seorang laki-laki.
-
-Wajahnya adalah wajah yang sama dengan yang ada di arsip sebelumnya.
-
-Raka memperbesar foto.
-
-Laki-laki itu berdiri di samping salah satu perangkat.
-
-Di belakangnya terdapat seorang perempuan muda.
-
-Raka menatap perempuan itu.
-
-Ia mengenalnya.
-
-Alina.
-
-Raka langsung menoleh.
-
-Alina berdiri beberapa meter darinya.
-
-Wajah perempuan itu berubah.
-
-"Kamu kenal dia?"
-
-Alina tidak menjawab.
-
-Raka kembali melihat foto.
-
-"Ini kamu."
-
-Maya ikut melihat.
-
-Ia terdiam.
-
-Raka menatap Alina.
-
-"Berapa umur kamu di foto ini?"
-
-Alina tidak menjawab.
-
-"Alina."
-
-"Sudah lama."
-
-"Seberapa lama?"
-
-Alina mengambil foto tersebut dari tangannya.
-
-"Terlalu lama."
-
-Raka menatapnya.
-
-"Kamu kelihatan sama."
-
-Alina akhirnya berkata, "Itu bukan foto saya."
-
-Raka mengerutkan dahi.
-
-"Jangan bercanda."
-
-"Saya tidak bercanda."
+"Saya tidak bercanda," Alina berulang.
 
 "Jadi siapa?"
 
-Alina mengembalikan foto ke meja.
-
-"Adik saya."
-
-Raka menatap foto.
-
-"Kalian kembar?"
-
-"Enggak."
-
-Maya bertanya, "Siapa dia?"
-
-Alina tidak menjawab.
-
-Ia memasukkan foto kembali ke kotak.
-
-"Belum waktunya."
-
-Raka menghela napas.
-
-"Saya mulai benci kalimat itu."
+Alina memasukkan foto kembali ke kotak dengan gerakan yang menutup lebih dari sekadar kertas. "Adik saya." Ia tidak menambahkan lagi. "Belum waktunya," tambahnya—frase yang semakin membuat Raka muak sekaligus penasaran.
 
 ***
 
-Setelah keluar dari ruang arsip, Raka berjalan bersama Maya menuju bangunan utama.
+Setelah arsip, mereka berjalan kembali ke bangunan utama. Raka terus memutar potongan-potongan informasi di kepala seperti koin di saku. Maya mengangkat bahu ketika Raka menuduh, "Dia bohong?"
 
-"Dia bohong?"
+"Belum tentu," jawab Maya, standard-issue scientist shrug. Ketidakpastian di fasilitas itu adalah mata uang yang dipakai setiap hari.
 
-Maya menggeleng.
+Siang, ponsel Raka bergetar—ibu. Ia jawab sambil berjalan ke halaman.
 
-"Belum tentu."
-
-"Kalau begitu dia menyembunyikan sesuatu."
-
-"Itu juga belum tentu."
-
-Raka berhenti.
-
-"Maya."
-
-"Iya?"
-
-"Kalau semua orang di sini ngomong 'belum tentu', kapan saya boleh tahu yang tentu?"
-
-Maya tertawa.
-
-"Kalau datanya sudah cukup."
-
-"Berapa lama?"
-
-"Entah."
-
-Raka menatapnya.
-
-"Jangan."
-
-Maya tertawa lagi.
-
-Mereka melanjutkan perjalanan.
-
-Beberapa meter kemudian Raka bertanya, "Maya."
-
-"Hm?"
-
-"Kalau benda itu memang penanda, kenapa bisa sampai ada di rumah saya?"
-
-Maya tidak langsung menjawab.
-
-"Itu pertanyaan yang bagus."
-
-"Terima kasih."
-
-"Dan saya tidak punya jawabannya."
-
-Raka menghela napas.
-
-"Sudah kuduga."
-
-***
-
-Siang itu Raka menerima telepon dari ibunya.
-
-Ia menjawab sambil berjalan menuju halaman.
-
-"Bu?"
-
-"Kamu kapan pulang?"
-
-"Belum tahu."
-
-"Kerjaannya lama?"
-
-"Sepertinya."
-
-Ibunya diam sebentar.
-
-"Kamu bawa barang ayahmu?"
-
-Raka berhenti berjalan.
+"Kamu bawa barang ayahmu?" tanya ibu, suara di telepon menebalkan kalimat biasa sehingga Raka mendadak merasa kecil.
 
 "Barang ayah?"
 
-"Iya."
+"Iya. Jangan bawa benda itu ke mana-mana."
 
-"Kenapa?"
+Bahkan nada ibu yang biasa santai itu membawa perintah yang tidak bisa dinegosiasikan. Raka berdehem, ingin bertanya kenapa ibu tahu, tapi sinyal terputus. Layar ponsel menunjukkan: Tidak ada sinyal. Ia mencoba menelepon lagi; tidak tersambung.
 
-"Enggak apa-apa."
+Maya berdiri beberapa meter, melihat Raka seperti seorang pengacara yang mendapati kliennya menerima panggilan dari masa lalu. "Sedikit," katanya ketika Raka bertanya apakah ia mendengar.
 
-Raka melihat benda logam di saku jaketnya.
+"Jangan bilang siapa-siapa," Raka memohon. Maya mengangguk, tapi wajahnya berubah, serius sekarang. "Nama ayahmu ada di arsip," katanya pelan.
 
-"Kenapa tiba-tiba tanya?"
+Sore itu Maya menarik sebuah dokumen. Nama ayah Raka tercatat sebagai kontak eksternal pada arsip 1988 — bukan peneliti, bukan subjek, hanya kontak. Tanggalnya: tiga hari setelah percobaan terakhir dihentikan. Informasi itu membuat Raka merasa seperti dirajut ke dalam jaring yang lebih lama dari dirinya sendiri.
 
-"Karena tadi saya cari sesuatu."
+Hendra yang lewat berhenti di ambang pintu ketika Raka mengancam lemparan laptop. Ia berdiri di sana, mata sedikit waspada. Ketika Raka sebut nama ayahnya, Hendra menelan dan berkata pelan, "Saya pernah melihat nama itu," lalu mengelak. Raka menyipit; jawaban Hendra terlalu cepat, lalu terlalu samar. "Belum tahu," Hendra menambahkan, seperti mantra.
 
-"Apa?"
-
-"Enggak penting."
-
-Raka tidak langsung menjawab.
-
-Ia merasa ada sesuatu yang tidak biasa dalam suara ibunya.
-
-"Bu."
-
-"Hm?"
-
-"Barang ayah yang medali itu masih ada?"
-
-Di seberang terdengar keheningan.
-
-Lama.
-
-"Kenapa kamu tanya itu?"
-
-Raka menelan ludah.
-
-"Enggak apa-apa."
-
-"Raka."
-
-"Iya?"
-
-"Jangan bawa benda itu ke mana-mana."
-
-Raka membeku.
-
-"Kok Ibu tahu?"
-
-Ibunya tidak menjawab.
-
-"Bu?"
-
-Telepon terputus.
-
-Raka melihat layar.
-
-Tidak ada sinyal.
-
-Ia mencoba menelepon kembali.
-
-Tidak tersambung.
-
-"Bagus."
-
-Ia memasukkan ponsel ke saku.
-
-Kemudian menyadari bahwa Maya berdiri beberapa meter darinya.
-
-"Kamu dengar?"
-
-Maya mengangguk.
-
-"Sedikit."
-
-Raka menghela napas.
-
-"Jangan bilang siapa-siapa."
-
-Maya mengangguk.
-
-Namun wajahnya berubah.
-
-"Apa?"
-
-"Nama ayahmu."
-
-Raka terdiam.
-
-"Apa dengan nama ayah saya?"
-
-Maya tidak menjawab.
-
-Raka menunggu.
-
-Akhirnya Maya berkata, "Nama itu ada di arsip."
+Raka menertawakan kekesalannya sendiri. Di fasilitas ini, 'belum tahu' adalah jawaban yang paling mungkin dan paling menakutkan.
 
 ***
 
-Sore hari, Maya menunjukkan satu dokumen yang baru saja ditemukan.
+Malam, Raka mendudukkan dirinya di ruang tunggu dekat jendela. Di kertas, ia mulai menyusun hubungan: kotak, garis, tahun, nama, benda. Setelah beberapa menit kertas penuh, ia menulis satu kata terakhir, besar: SAYA. Itu bukan ego, pikirnya; itu pengakuan ketakutan kecil bahwa ia mungkin sedang berdiri di persimpangan antara cerita orang lain dan miliknya sendiri.
 
-Nama ayah Raka tercatat sebagai salah satu kontak eksternal dalam arsip tahun 1988.
+Maya lewat dan mencondongkan kepala. "Kenapa 'saya'?" tanyanya.
 
-Bukan peneliti.
+"Karena saya belum tahu apakah saya orang yang sama dengan yang mereka cari," Raka berkata jujur.
 
-Bukan teknisi.
+Maya menatap benda logam di meja, lalu berkata, "Mungkin kamu adalah orang yang membawanya."
 
-Bukan subjek.
+"Bedanya apa?" Raka balik bertanya.
 
-Hanya kontak.
+"Subjek diamati," Maya menjelaskan singkat. "Pembawa membawa sesuatu dari satu tempat ke tempat lain. Bisa informasi. Bisa hal lain."
 
-Namun tanggal pada dokumen tersebut membuat Raka terdiam.
+Raka menatap medali di saku, goresan R.P. itu seperti tanda yang ingin membuatnya tak bisa tidur.
 
-Dokumen itu dibuat tiga hari setelah percobaan terakhir dihentikan.
+Jam menunjukkan 23:17. Raka menunggu, setengah karena ingin menguji apakah angka itu akan melakukan sesuatu, setengah karena alasan yang tidak bisa ia katakan. Lampu ruang tunggu berkedip sekali, lalu dua kali. Raka melihat benda di atas meja — tidak menyala. Ia berdiri.
 
-"Kenapa ayah saya ada di sini?"
+Di kejauhan, dekat bangunan timur, seseorang muncul: siluet yang dikenalnya. Alina, casing tabletnya berkilau biru sedikit saat ia berjalan. Ia menuju pintu bangunan timur. Jam: 23:17.
 
-Maya menggeleng.
-
-"Belum tahu."
-
-Raka menutup mata.
-
-"Kalau saya dengar kalimat itu sekali lagi, saya akan lempar laptop."
-
-Maya tertawa kecil.
-
-"Jangan. Itu milik fasilitas."
-
-"Berarti saya lempar Hendra."
-
-Maya tertawa lebih keras.
-
-Hendra yang kebetulan masuk ruangan berhenti di pintu.
-
-"Apa?"
-
-Raka menunjuk Maya.
-
-"Dia bilang saya boleh."
-
-"Saya enggak bilang begitu."
-
-Hendra menatap mereka bergantian.
-
-"Apa yang terjadi?"
-
-Raka menghela napas.
-
-"Nama ayah saya ada di arsip."
-
-Hendra langsung diam.
-
-Raka memperhatikan reaksinya.
-
-"Kamu tahu?"
-
-Hendra menggeleng.
-
-Namun terlalu cepat.
-
-Raka langsung menyipitkan mata.
-
-"Hendra."
-
-"Enggak."
-
-"Kamu tahu."
-
-"Enggak."
-
-"Jawabanmu terlalu cepat."
-
-Hendra diam.
-
-Raka berdiri.
-
-"Kalau kamu tahu sesuatu, bilang."
-
-Hendra melihat Maya.
-
-Maya tidak mengatakan apa-apa.
-
-Akhirnya Hendra berkata, "Saya pernah melihat nama itu."
-
-Raka menatapnya.
-
-"Kapan?"
-
-"Di dokumen lama perusahaan."
-
-"Kenapa tidak bilang?"
-
-"Karena saya tidak tahu itu ayahmu."
-
-"Terus kenapa kamu diam sekarang?"
-
-Hendra menarik napas.
-
-"Karena setelah melihat nama kamu muncul di sini, saya mulai berpikir mungkin ada hubungan."
-
-Raka mengangguk pelan.
-
-"Hubungan apa?"
-
-Hendra tidak menjawab.
-
-"Belum tahu?"
-
-Hendra menatapnya.
-
-"Iya."
-
-Raka tertawa pendek.
-
-"Bagus."
-
-Ia mengambil tasnya.
-
-"Kalau begitu kita semua masih konsisten."
+Pesan Alina terngiang di kepala Raka: Jangan tanya orang di sini. Raka memasukkan benda ke saku, menimbang lagi. Keingintahuannya selalu lebih kuat dari perintah samar, terutama yang tidak disertai alasan. Ia keluar.
 
 ***
 
-Malamnya, Raka tidak kembali ke kamar.
+Di ruang kontrol, layar melacak gerak. Kamera menangkap Raka meninggalkan ruang tunggu. Operator yang berjaga mengamati; nada suaranya datar ketika dia lapor, "Dia bergerak."
 
-Ia duduk di ruang tunggu dekat jendela, mencoba menyusun semua informasi yang sudah ia dapat.
-
-Ayahnya pernah tercatat sebagai kontak fasilitas.
-
-Benda yang sama dengan milik keluarga Raka pernah digunakan dalam percobaan.
-
-Nama Raka Pradana muncul dalam arsip 1988.
-
-Alina ada dalam foto lama.
-
-Sistem menyebut Raka sebagai subjek.
-
-Dan seseorang pernah mengirim pesan agar benda itu tidak dibawa ke bangunan timur.
-
-Tidak ada satu pun informasi yang berdiri sendiri.
-
-Semuanya seperti potongan dari gambar yang belum selesai.
-
-Raka mengeluarkan benda logam dari saku.
-
-Ia menaruhnya di meja.
-
-Kemudian mengambil kertas dan mulai menggambar.
-
-Kotak.
-
-Garis.
-
-Tahun.
-
-Nama.
-
-Hubungan.
-
-Setelah sepuluh menit, kertas itu penuh.
-
-Raka menatap hasilnya.
-
-"Enggak membantu."
-
-Ia meremas kertas.
-
-Kemudian membuka kembali.
-
-Ia merapikannya.
-
-"Sayang."
-
-Maya yang baru keluar dari koridor melihatnya.
-
-"Kamu sedang apa?"
-
-"Membuat teori."
-
-"Teorinya?"
-
-"Belum jadi."
-
-Maya melihat kertas.
-
-"Ini apa?"
-
-"Kalau saya tahu, berarti sudah jadi."
-
-Maya tertawa.
-
-Raka menunjuk salah satu garis.
-
-"Ini ayah saya."
-
-Kemudian garis lain.
-
-"Ini Raka Pradana tahun 1988."
-
-Lalu benda logam.
-
-"Ini benda."
-
-Maya mengangguk.
-
-"Dan ini..."
-
-Raka berhenti.
-
-Ia tidak tahu harus menulis apa.
-
-Ia menatap garis terakhir.
-
-Kemudian menulis satu kata:
-
-**SAYA.**
-
-Maya melihatnya.
-
-"Kenapa kamu menulis 'saya'?"
-
-Raka menatap kertas.
-
-"Karena saya belum tahu apakah saya orang yang sama dengan yang mereka cari."
-
-Maya tidak menjawab.
-
-Raka menatap benda logam tersebut.
-
-"Dan kalau bukan?"
-
-Maya berkata pelan, "Mungkin kamu adalah orang yang membawanya."
-
-Raka mengangkat kepala.
-
-"Apa bedanya?"
-
-Maya tidak langsung menjawab.
-
-"Subjek diamati."
-
-"Pembawa?"
-
-Maya melihat benda logam itu.
-
-"Pembawa membawa sesuatu dari satu tempat ke tempat lain."
-
-Raka menatapnya.
-
-"Informasi?"
-
-Maya mengangguk.
-
-"Atau sesuatu yang lebih dari informasi."
-
-***
-
-Pada pukul 23:17, Raka masih berada di ruang tunggu.
-
-Ia tidak sengaja melihat jam.
-
-Angka itu muncul.
-
-23:17.
-
-Ia menunggu.
-
-Tidak terjadi apa-apa.
-
-Kemudian lampu di ruangan berkedip.
-
-Sekali.
-
-Dua kali.
-
-Raka menatap benda logam di meja.
-
-Tidak menyala.
-
-"Jangan."
-
-Ia berdiri.
-
-Dari balik kaca jendela, halaman fasilitas terlihat kosong.
-
-Namun di kejauhan, di dekat bangunan timur, seseorang berdiri.
-
-Raka mengenali siluetnya.
-
-Alina.
-
-Ia berjalan menuju pintu bangunan timur.
-
-Raka melihat jam.
-
-23:17.
-
-Ia mengambil benda logam.
-
-Kemudian berhenti.
-
-Pesan Alina terngiang di kepalanya.
-
-Jangan tanya orang di sini.
-
-Ia memasukkan benda itu ke saku.
-
-Lalu berjalan keluar.
-
-***
-
-Di ruang kontrol, sebuah kamera menangkap Raka meninggalkan ruang tunggu.
-
-Operator melihat layar.
-
-"Dia bergerak."
-
-Suara dari interkom bertanya, "Ke mana?"
+Sebuah interkom menjawab, "Ke mana?"
 
 "Bangunan timur."
 
-Hening.
+Hening. Lalu suara itu—entah manusia, entah sistem—mengatakan, "Biarkan."
 
-Kemudian suara itu berkata, "Biarkan."
+Operator terkejut. "Kenapa?"
 
-Operator terkejut.
+"Sudah waktunya," jawab singkat. Tidak ada nama, hanya keputusan yang keluar seperti perintah protokol.
 
-"Kenapa?"
+Di depan bangunan timur Raka berhenti. Lampu indikator pada pintu berkedip, kemudian hijau. Ia tidak menempelkan kartu. Pintu terbuka sendiri. Tidak ada suara manusia yang memberi izin; di layar ruang kontrol, ada aktivitas yang samar: flag sistem, entri log yang menandai 'PEMBAWA DETECTED' — tapi asal pemicu itu belum jelas.
 
-"Sudah waktunya."
+Dari dalam bangunan terdengar bisikan halus, sesuatu yang bergema di koridor dan terdengar seperti panggilan: "Raka."
 
-"Untuk apa?"
+Ia melangkah masuk. Di belakangnya, pintu menutup rapat.
 
-Tidak ada jawaban.
+Di ruang kontrol, layar menjadi hitam. Lalu satu pesan muncul, huruf-huruf besar, dingin seperti stempel yang lama tidur:
 
-Di layar, Raka berhenti di depan bangunan timur.
+PEMBAWA TELAH MASUK.
 
-Pintu belum terbuka.
+Dan sistem lama, yang tidak selesai sejak 1988, mulai menjalankan urutan yang pernah dihentikan: MEMULAI PROTOKOL 19. Dalam catatan lama, Protokol 19 bukan mesin penghancur atau pintu ke mana pun; ia adalah rangkaian penguncian, pencatatan temporal, dan pemisahan jalur komunikasi ketika dua titik referensi bertemu dengan pembawa. Tidak seorang pun di ruang kontrol tahu apakah rangkaian itu masih aman setelah tiga puluh delapan tahun, tetapi sistem mengenali syaratnya lebih cepat daripada manusia.
 
-Ia belum menempelkan kartu.
+Raka bergerak menjauh dari pintu, menuju ke lorong yang sepi dan bau logam tipis yang membuat kulitnya merinding. Di kepala semuanya berputar—foto, nama ayahnya, goresan R.P., pesan ibu yang putus sambung, kata-kata Alina. Di balik semua itu ada sesuatu yang lebih besar dari prosedur, lebih rapat dari kebiasaan manusia. Sesuatu merespons ketika dua titik referensi dan penanda bertemu.
 
-Namun lampu indikator berubah hijau.
+Ia tidak tahu apa yang akan terjadi, hanya tahu bahwa pada malam itu, pada angka yang persisnya sudah menjadi pola, ia telah memilih untuk ikut bergerak. Lampu di koridor berkedip sekali. Raka melangkah lebih jauh, dan di depannya, bayangan yang sama dari foto lama tampak menunggu—atau mungkin hanya terikat ke sebuah siklus yang lebih tua dari namanya.
 
-Pintu terbuka sendiri.
+Di ruang kontrol, operator menggulung napasnya, mengganti panel, dan mencatat entri log baru. Suara itu di speaker tidak memberi perintah lagi; hanya protokol yang berjalan, seolah mulai membaca sebuah naskah yang tertulis sebagian dan menebak sisanya.
 
-Raka berdiri di depannya.
-
-Ia tidak bergerak.
-
-Dari dalam bangunan, terdengar suara yang sangat pelan.
-
-Seperti seseorang memanggil namanya.
-
-"Raka."
-
-Raka menoleh.
-
-Koridor kosong.
-
-Ia melangkah masuk.
-
-Pintu tertutup di belakangnya.
-
-Di ruang kontrol, seluruh layar berubah menjadi hitam.
-
-Kemudian satu tulisan muncul.
-
-**PEMBAWA TELAH MASUK.**
-
-Dan untuk pertama kalinya sejak 1988, sistem lama menjalankan perintah yang tidak pernah selesai:
-
-**MEMULAI PROTOKOL 19.**
+Untuk Raka, langkahnya terasa seperti iseng yang terlalu serius. Di luar, fasilitas melanjutkan pernapasannya yang dingin. Di dalam, sesuatu yang lama bangun kembali.

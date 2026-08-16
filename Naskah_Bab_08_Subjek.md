@@ -1,82 +1,28 @@
 # Bab 8 — Subjek
 
-Pagi itu Raka bangun dengan perasaan bahwa ia telah tidur terlalu lama.
+Raka bangun dengan napas yang anehnya masih tertahan; kakinya mencari lantai seolah harus mengingatkan otot-ototnya bagaimana berjalan. Ponsel di sampingnya menyala saat disentuh—06:31.
 
-Ia melihat jam di ponsel.
+"Masih normal," gumamnya, lebih untuk menenangkan diri daripada memastikan sesuatu.
 
-06:31.
+Di meja, benda logam tadi malam ada di tempatnya. Tidak menyala. Tidak bergerak. Tidak berusaha memalingkan muka.
 
-"Masih normal."
-
-Ia duduk di tepi tempat tidur, mengusap wajah, lalu menoleh ke meja.
-
-Benda logam yang semalam ia letakkan di sana masih berada di tempatnya.
-
-Tidak menyala.
-
-Tidak bergerak.
-
-Tidak mengeluarkan suara.
-
-Raka mengambilnya.
-
-Dingin.
-
-Ia menunggu beberapa detik.
-
-Tidak terjadi apa-apa.
+Raka mengambilnya. Dingin. Beberapa detik ia menunggu, lalu mengangkat bahu.
 
 "Bagus."
 
-Ia memasukkannya ke dalam saku jaket.
+Saku jaket, lalu diambil lagi; diletakkan, lalu diambil; akal kecilnya berdebat dengan kebiasaan teknisi lapangan yang selalu takut kehilangan alat. Akhirnya ia memasukkan benda itu ke saku.
 
-Kemudian berhenti.
+Ia hampir menutup pintu kamar ketika sadar bahwa kamera koridor, yang biasanya menatap lurus ke lorong, sekarang menghadap ke arahnya. Sudutnya tidak pasif; ia seperti menemukan orang yang menatapnya menatap kamera.
 
-Ia mengeluarkannya lagi.
-
-"Enggak."
-
-Ia meletakkannya kembali di meja.
-
-Dua detik kemudian ia mengambilnya lagi.
-
-"Kalau saya tinggal, nanti hilang."
-
-Ia memasukkannya ke saku.
-
-Setelah itu ia berdiri dan keluar kamar.
-
-Ia tidak menyadari bahwa kamera koridor yang biasanya mengarah lurus ke pintu sedang menghadap ke arahnya.
+Ia melangkah keluar.
 
 ***
 
-Hendra sudah menunggu di ruang kerja.
+Hendra sudah menunggu di ruang kerja dengan ekspresi yang bukan sedang bercanda. Raka tahu itu tanda — bukan tanda bahaya besar, hanya peringatan dari kolega yang lebih tua: ini bukan hari untuk membuat cerita lucu.
 
-Wajahnya tidak seperti biasanya.
+"Kenapa?" tanya Raka, setengah berharap Hendra jawabannya adalah "Kopi habis."
 
-Raka langsung tahu ada sesuatu yang salah.
-
-"Kenapa?"
-
-"Kamu tidur nyenyak?"
-
-Raka mengangguk.
-
-"Lumayan."
-
-"Enggak dengar apa-apa?"
-
-"Enggak."
-
-Hendra menatap saku jaket Raka.
-
-Raka mengikuti arah pandangannya.
-
-"Oh."
-
-Ia mengeluarkan benda logam itu.
-
-Hendra langsung berdiri.
+Hendra tidak bercanda. Matanya menatap saku jaket Raka, kemudian benda di tangan Raka ketika ia mengeluarkannya.
 
 "Kamu bawa?"
 
@@ -84,675 +30,147 @@ Hendra langsung berdiri.
 
 "Kenapa?"
 
-"Karena kalau ditinggal takut hilang."
+"Kalau ditinggal takut hilang," kata Raka. Jawabannya selalu dibuat santai agar tidak kena teguran berat.
 
-Hendra memandangnya beberapa detik.
+Hendra menghela napas pendek. "Taruh di meja."
 
-"Taruh di meja."
-
-Raka menurut.
-
-Begitu benda itu menyentuh permukaan meja, lampu kecil di tengahnya menyala.
-
-Satu kali.
-
-Hendra mundur setengah langkah.
-
-Raka menatap benda itu.
+Raka menurut. Begitu benda menyentuh permukaan, lampu kecil di tengahnya menyala—sekali, lembut, seperti senter kecil yang dilahirkan untuk pagi. Raka, karena kebiasaan, mengeluarkan komentar.
 
 "Dia suka pagi."
 
-Hendra tidak tertawa.
+Hendra tidak tertawa. Wajahnya tegang hampir seperti saat harus mengisi laporan insiden.
 
-Raka menoleh.
+"Aku serius, jangan bawa ke mana-mana," kata Hendra. "Kalau ditaruh, jangan dipegang sembarangan."
 
-"Harusnya saya enggak bercanda, ya?"
+Raka tersenyum tipis. "Kalau saya panik, siapa yang nanti memperbaiki barang?"
 
-"Enggak."
+Hendra menjawab dengan mengambil kotak kecil dari laci. "Masukkan ke sini."
 
-"Baik."
+Raka memasukkannya. Ketika tutup hampir menutup, lampu kecil itu menyala lagi, lebih keras dari tadi, seperti menandai keberatan. Raka menatap Hendra. "Dia enggak suka gelap," katanya, bukan benar-benar lucu.
 
-Benda itu kembali padam.
-
-Hendra mengambil tablet.
-
-"Kita ke Maya."
-
-"Kenapa?"
-
-"Dia sudah menunggu."
-
-"Kalau dia sudah menunggu berarti saya tidak punya pilihan."
-
-"Betul."
-
-Raka mengambil benda itu.
-
-Hendra langsung berkata, "Jangan."
-
-Raka berhenti.
-
-"Kalau saya bawa?"
-
-"Jangan."
-
-"Kalau ditinggal?"
-
-"Juga jangan."
-
-Raka menghela napas.
-
-"Jadi?"
-
-Hendra mengambil kotak kecil dari lemari.
-
-"Masukkan ke sini."
-
-Raka memasukkan benda itu ke dalam kotak.
-
-Ketika tutup kotak hampir tertutup, lampu kecil di benda tersebut kembali menyala.
-
-Hendra melihatnya.
-
-Raka menatapnya.
-
-"Dia enggak suka gelap."
-
-Hendra memijat pelipis.
-
-"Kenapa kamu selalu begitu?"
-
-"Begitu bagaimana?"
-
-"Kalau situasi serius, kamu malah bercanda."
-
-Raka mengangkat bahu.
-
-"Kalau saya ikut panik, siapa yang nanti memperbaiki barang?"
-
-Hendra tidak menjawab.
-
-Mereka membawa kotak itu menuju ruang analisis.
+"Jangan bercanda soal ini," balas Hendra, setengah marah, setengah khawatir. Mereka mengangkat kotak itu dan berjalan ke ruang analisis. Di koridor kamera sekali lagi menggeser sedikit sudutnya—tidak cukup dramatis untuk jadi film, cukup untuk membuat Raka merasa dia sedang diikuti oleh pengawasan yang munasabah.
 
 ***
 
-Maya sudah menunggu bersama dua orang lain yang tidak pernah Raka lihat sebelumnya.
+Ruang analisis semacam markas kecil yang rapi: layar besar, kabel bergulung seperti ular jinak, dan kursi yang sudah terlalu sering diduduki ilmuwan yang tidak tidur cukup. Maya sudah ada di sana, bersama dua orang yang Raka belum kenal dengan baik.
 
-Salah satunya seorang laki-laki berusia sekitar empat puluh tahun dengan wajah yang sangat tenang. Yang satunya perempuan muda yang membawa tablet.
+Yang satu memperkenalkan dirinya sambil setengah tersenyum, "Dr. Arief Wibowo." Wajahnya tenang, suaranya seperti orang yang menghabiskan tanggal merah dengan grafik. Yang satunya perempuan muda yang membawa tablet ber-casing biru tipis—sekilas Raka tahu warna itu, karena ia pernah melihat tablet casing biru itu di koridor beberapa malam sebelumnya. Ada pola: warna itu muncul di tempat-tempat yang tidak seharusnya.
 
-Raka duduk.
+Maya membuka kotak. Lampu benda menyala saat tutup terangkat—sekali, duapuluh kali; itu bukan pola acak, tapi juga bukan hal yang bisa dijelaskan dengan cepat.
 
-Maya menunjuk kotak.
+"Masih aktif," kata perempuan dengan tablet biru.
 
-"Objeknya?"
+"Kenapa aktif?" tanya Raka, setengah menyingkap humornya.
 
-Raka mengangguk.
+Maya dan Arief tidak tertawa. Mereka duduk, menarik ke layar dokumen digital, dan Arief mulai menjelaskan asal usul masalah dengan cara yang berusaha menjauhkan kata-kata mistik dari ruangan.
 
-Maya membukanya.
+"Fasilitas ini awalnya dibangun untuk observasi geofisika," katanya. "Akhir 1970-an. Eksperimen dan pengukuran pada medan. Tapi ada serangkaian kejadian—pola waktu kecil, sinkronisasi yang hilang di beberapa sensor—yang membuat proyek ini melebar sampai ke hal yang sekarang kita kerjakan."
 
-Lampu kecil pada benda tersebut langsung menyala.
+"Jadi bukan hantu," kata Raka, dan karena itu semua yang lain tertawa sedikit, kecuali Arief.
 
-Perempuan muda di sebelah Maya menarik napas.
+Arief menunjuk grafik yang bergulung di layar. "Kami lihat interaksi antara medan elektromagnetik lokal, sinkronisasi waktu alat, dan kondisi struktur geologi setempat. Hipotesis sementara: grounding, interferensi, resonansi lokal. Atau—dan ini kata-kata berbahaya untuk ilmuwan—sesuatu yang belum kita klasifikasikan."
 
-"Masih aktif."
+Raka menyukai penutup itu. Ia suka kabel. Ia percaya kabel lebih jujur daripada kata-kata besar.
 
-Raka menoleh.
+Maya membuka satu folder lama. "Arsip 1988," katanya. "Ada catatan dan beberapa rekaman. Ada peringatan juga."
 
-"Memangnya biasanya tidak?"
+Raka membaca baris itu di layar bersama mereka:
 
-Maya tidak menjawab.
+"Jangan ulangi percobaan ini."
 
-Raka menatap Hendra.
+Kalimat itu berdiri sendiri, datar dan tegas. Raka menelan. "Kenapa dihentikan?"
 
-Hendra juga tidak menjawab.
+"Karena kami tidak yakin apa yang diukur," jawab Arief. "Beberapa alat merekam waktu yang berbeda. Beberapa frame rekaman hilang. Perubahan yang tidak konsisten. Rekaman analog memiliki satu snapshot—satu frame—yang tidak cocok. Mereka memutuskan menghentikan."
 
-"Baik," kata Raka. "Saya mulai merasa percakapan ini tidak adil."
+Lampu benda berkedip. Layar lain menampilkan angka besar—23:17—seolah-olah ada jam lain yang berdentang dari masa lalu.
 
-Laki-laki yang duduk di sebelah Maya akhirnya bicara.
+Raka melihat ponsel Maya—09:12—dan mencoba menempelkan dua angka itu di kepala. 09:12 sekarang, 23:17 muncul di layar. Arief mengklik, menampilkan tiga garis yang tiba-tiba bergerak bersamaan—pola itu identik dengan apa yang kelihatan pada dokumen 1988.
 
-"Namanya Arief."
+Maya cepat, sebenarnya terlalu cepat: "Matikan."
 
-Ia menunjuk dirinya sendiri.
+Perempuan dengan tablet biru sudah menjentik beberapa perintah, tapi layar tak segera patuh. Arief mengangkat tangan, menahan Maya. "Jangan matikan."
 
-"Dr. Arief Wibowo."
+"Kenapa?" Maya balik bertanya.
 
-Raka mengangguk.
+"Biarkan," kata Arief singkat. "Kita tidak boleh menghapus rekaman ini—kita perlu data."
 
-"Raka."
+Raka menatap mereka seperti menonton drama teknikal. Benda di meja bergetar, sangat halus, seperti denyut nadi kecil. Ia merasakan dorongan absurd untuk menepuk meja dan berkata, "Saya tidak sentuh kok," padahal ia memang berdiri hanya untuk lebih dekat melihat.
 
-"Saya tahu."
+"Jangan sentuh," kata Maya sebelum ia sempat membuka mulutnya.
 
-Raka tersenyum.
+Benda berhenti. Semua orang menahan napas selama beberapa detik sampai grafik mereda dan layar kembali lurus. Tidak ada ledakan, tidak ada lampu warna-warni; hanya file yang ditulis dan disimpan, indikator yang berkedip di konsol, dan catatan elektronik yang kini lebih tebal.
 
-"Semua orang di sini tahu nama saya."
+Arief menutup laptopnya pelan. "Kami akan menyimpan semua itu. Tidak ada kerusakan fisik. Tapi kami butuh laporan tertulis. Raka, duduk di luar sebentar."
 
-Arief tidak tersenyum.
+Raka keluar. Di koridor ia dan Hendra bertukar kata-kata yang sebenarnya cara orang mengalihkan kecemasan.
 
-"Karena kamu penting."
+"Atasan saya tahu tentang tempat ini?" tanya Raka, setengah kepo.
 
-Raka diam.
+Hendra mengangkat bahu. "Dia tahu kita punya kontrak. Lebih dari itu saya tidak tahu."
 
-Maya melirik Arief.
+Raka memandang Hendra seperti menimbang apakah ia harus bilang pada ibunya kalau tiba-tiba menghilang. "Kalau saya hilang, bilang ke ibu saya saya masih punya utang atap," katanya, setengah bercanda.
 
-"Jangan dulu."
+Hendra tertawa, meskipun rapatnya ketegangan masih jelas. "Kamu tidak akan hilang," katanya. "Kamu terlalu berisik."
 
-Arief mengangguk.
-
-Raka memperhatikan mereka.
-
-"Ada yang mau menjelaskan?"
-
-Maya menarik napas.
-
-"Kami menemukan sesuatu di arsip lama."
-
-"Yang tahun 1988?"
-
-"Iya."
-
-"Raka Pradana?"
-
-"Iya."
-
-"Subjek?"
-
-Maya mengangguk.
-
-Raka bersandar.
-
-"Berarti itu saya?"
-
-"Belum tentu."
-
-"Syukurlah."
-
-Arief menatapnya.
-
-"Kenapa kamu bilang begitu?"
-
-"Karena kalau itu saya, berarti saya sudah sangat tua."
-
-Arief tampak bingung.
-
-Hendra menutup wajah dengan tangan.
-
-Maya tertawa kecil.
-
-"Dia memang seperti itu."
-
-Arief tidak ikut tertawa.
-
-"Subjek dalam dokumen itu bukan berarti orang."
-
-Raka berhenti.
-
-"Apa?"
-
-"Subjek bisa berarti objek pengamatan."
-
-Raka memandang benda di meja.
-
-"Jadi kalian belum tahu yang mana."
-
-"Belum."
-
-"Bagus."
-
-Ia mengangguk.
-
-"Berarti saya masih punya kemungkinan hidup normal."
-
-Maya berkata, "Raka."
-
-"Iya?"
-
-"Belum tentu."
-
-Raka menatapnya.
-
-"Jangan rusak harapan saya."
+Raka tersenyum kecut. "Masuk akal."
 
 ***
 
-Arief membuka sebuah dokumen digital.
+Siang, mereka memberi Raka izin keluar sebentar. Ia berjalan ke halaman belakang yang untuk pertama kali sejak ia datang terasa kurang seperti adegan pendingin ruangan lab—matahari menyusup, hangat, mengeluarkan bau rumput basah.
 
-"Fasilitas ini awalnya tidak dibangun untuk penelitian seperti sekarang."
+Raka duduk di bangku, membuka kotak, dan memegang benda itu di kelopak tangan. Tidak menyala. Ia membaliknya, mencari goresan yang seperti panggilan. Di bagian belakang, tiga huruf kecil—R.P.
 
-Raka memperhatikan.
-
-"Awalnya?"
-
-"Bangunan pertama berdiri pada akhir 1970-an. Penelitian awal berfokus pada aktivitas geofisika dan perubahan medan elektromagnetik lokal. Setelah beberapa kejadian yang tidak dapat dijelaskan secara memadai, proyek diperluas."
-
-"Jadi fenomenanya sudah ada sejak dulu?"
-
-"Yang kami tahu, iya."
-
-"Fenomena apa?"
-
-Arief tidak langsung menjawab.
-
-"Belum ada nama yang tepat."
-
-Raka tertawa kecil.
-
-"Ini tempat penelitian atau tempat orang kehabisan nama?"
-
-Maya menahan senyum.
-
-Arief tetap serius.
-
-"Yang kami amati adalah perubahan pola pada beberapa sistem pengukuran ketika kondisi tertentu terpenuhi."
-
-"Seperti kemarin?"
-
-"Lebih luas."
-
-"Seberapa luas?"
-
-Arief menunjuk beberapa grafik.
-
-"Medan elektromagnetik, sinkronisasi waktu, variasi kecil pada sensor geofisika, dan beberapa anomali pada perangkat yang seharusnya tidak saling berkaitan."
-
-Raka mengangguk perlahan.
-
-"Jadi bukan hantu."
-
-Maya langsung menjawab, "Bukan."
-
-"Bagus."
-
-Arief bertanya, "Kenapa kamu langsung menyimpulkan itu?"
-
-"Karena saya lebih suka masalah yang punya kabel."
-
-Maya tertawa.
-
-Arief akhirnya tersenyum tipis.
-
-"Masalahnya memang bukan sesuatu yang mistis."
-
-Raka mengangguk.
-
-"Itu lebih saya suka."
-
-Arief membuka dokumen lain.
-
-"Kami punya beberapa hipotesis."
-
-"Misalnya?"
-
-"Interaksi medan elektromagnetik dengan struktur geologi tertentu. Gangguan sinkronisasi sistem pengukuran. Efek resonansi pada lingkungan lokal. Bahkan kemungkinan adanya fenomena fisika yang belum kami pahami."
-
-Raka menatapnya.
-
-"Yang terakhir itu terdengar seperti kalimat paling berbahaya."
-
-"Kenapa?"
-
-"Karena kalau orang bilang 'belum kami pahami', biasanya ada orang yang akan mencoba memahaminya."
-
-Maya menoleh kepada Arief.
-
-"Dia ada benarnya."
-
-Arief mengangguk.
-
-"Itulah yang terjadi."
-
-***
-
-Raka kemudian diberi penjelasan tentang proyek lama.
-
-Pada tahun 1988, para peneliti menemukan pola yang tidak biasa. Beberapa perangkat mencatat perubahan waktu yang sangat kecil. Tidak lebih dari sepersekian detik pada awalnya. Namun ketika data dari berbagai sensor dibandingkan, perubahan tersebut tampak seperti bagian dari satu pola yang sama.
-
-Mereka mencoba mengulang pengukuran.
-
-Kemudian membuat eksperimen.
-
-Kemudian mengulang eksperimen.
-
-Dan pada satu titik, sesuatu terjadi.
-
-Bukan ledakan.
-
-Bukan cahaya.
-
-Bukan sesuatu yang pantas dimasukkan ke film.
-
-Hanya perubahan.
-
-Sebuah ruangan yang selama beberapa detik memiliki data yang tidak sama dengan lingkungan di sekitarnya.
-
-Beberapa alat mencatat waktu berbeda.
-
-Satu kamera kehilangan beberapa frame.
-
-Satu sensor merekam pola yang belum pernah muncul sebelumnya.
-
-Dan setelah itu, seorang peneliti menulis:
-
-**Jangan ulangi percobaan ini.**
-
-Raka membaca kalimat itu.
-
-"Kenapa dihentikan?"
-
-Arief menjawab, "Karena kami tidak tahu apa yang sebenarnya kami ukur."
-
-"Terus sekarang?"
-
-"Kami masih mencoba."
-
-Raka menghela napas.
-
-"Jadi empat puluh tahun kemudian kalian masih mencoba?"
-
-"Secara tidak langsung."
-
-"Hebat."
-
-Maya tersenyum.
-
-"Kenapa?"
-
-"Kalau saya memperbaiki printer selama empat puluh tahun, saya pasti sudah ganti profesi."
-
-Maya tertawa.
-
-Arief bahkan tertawa kecil.
-
-Untuk beberapa detik, ruangan itu terasa normal.
-
-Kemudian lampu pada benda logam di meja menyala.
-
-Semua orang berhenti.
-
-Satu kali.
-
-Dua kali.
-
-Tiga kali.
-
-Layar di belakang mereka berubah.
-
-Sebuah grafik muncul.
-
-Raka berdiri.
-
-"Apa itu?"
-
-Arief melihat layar.
-
-"Waktu."
-
-"Berapa?"
-
-"23:17."
-
-Raka mengerutkan dahi.
-
-"Padahal sekarang jam berapa?"
-
-Maya melihat ponselnya.
-
-09:12.
-
-Raka menatap layar.
-
-"Berarti alat kalian salah."
-
-Arief tidak menjawab.
-
-Grafik bergerak.
-
-Satu garis muncul.
-
-Kemudian garis kedua.
-
-Kemudian garis ketiga.
-
-Ketiganya membentuk pola yang sama dengan data tahun 1988.
-
-Maya berdiri.
-
-"Matikan."
-
-Perempuan muda di sebelahnya mencoba menekan beberapa perintah.
-
-Tidak ada respons.
-
-Arief berkata, "Jangan matikan."
-
-Maya menoleh.
-
-"Kenapa?"
-
-"Biarkan."
-
-Raka melihat mereka.
-
-"Kalian sedang melakukan apa?"
-
-Tidak ada yang menjawab.
-
-Benda di meja bergetar.
-
-Sangat kecil.
-
-Raka mendekat.
-
-"Jangan sentuh."
-
-Maya berkata.
-
-Raka berhenti.
-
-Ia melihat benda tersebut.
-
-"Enggak."
-
-Benda itu tiba-tiba berhenti.
-
-Semua orang menatapnya.
-
-Raka mengangkat kedua tangan.
-
-"Saya enggak menyentuh."
-
-***
-
-Beberapa menit kemudian sistem kembali normal.
-
-Tidak ada kerusakan.
-
-Tidak ada alarm.
-
-Data anomali tersimpan.
-
-Arief meminta Raka keluar dari ruangan.
-
-Raka mengikuti.
-
-Di koridor, ia bertanya kepada Hendra.
-
-"Jujur."
-
-Hendra menatapnya.
-
-"Kenapa?"
-
-"Atasan saya tahu tentang tempat ini?"
-
-Hendra diam beberapa detik.
-
-"Dia tahu kita punya kontrak."
-
-"Dia tahu penelitiannya?"
-
-"Saya tidak tahu."
-
-"Kalau dia tahu?"
-
-Hendra tidak menjawab.
-
-Raka berhenti berjalan.
-
-"Hendra."
-
-"Iya?"
-
-"Kalau saya tiba-tiba hilang, bilang ke ibu saya saya masih punya utang atap."
-
-Hendra tertawa.
-
-"Kamu tidak akan hilang."
-
-"Bagaimana kamu tahu?"
-
-"Karena kamu terlalu berisik."
-
-Raka tersenyum.
-
-"Masuk akal."
-
-***
-
-Siang itu Raka mendapat izin keluar sebentar dari fasilitas.
-
-Ia berjalan ke halaman belakang.
-
-Udara terasa hangat.
-
-Untuk pertama kalinya sejak datang, matahari benar-benar muncul tanpa tertutup awan.
-
-Raka duduk di sebuah bangku kayu.
-
-Ia mengeluarkan benda logam dari kotaknya.
-
-Tidak menyala.
-
-Ia membaliknya.
-
-Di bagian belakang terdapat goresan kecil yang sebelumnya tidak ia lihat.
-
-Tiga huruf.
-
-**R.P.**
-
-Raka menyentuhnya.
-
-Tidak terjadi apa-apa.
-
-Ia mengambil foto.
-
-Kali ini hasilnya normal.
-
-Ia hampir tersenyum.
-
-Kemudian sebuah suara datang dari belakang.
+Ia memfoto goresan itu. Kamera ponsel tidak bersikap tidak sopan; foto keluar normal. Raka hampir tersenyum. Kemudian sebuah suara dari belakang memotong kesepeleannya.
 
 "Kalau kamu mau tahu apa itu, jangan tanya orang di sini."
 
-Raka menoleh.
+Raka menoleh. Perempuan yang sering muncul melintas di lorong-lorong fasilitas berada beberapa meter darinya—tinggi rata-rata, mantel tipis, dan tablet ber-casing biru di lengan yang terlihat sama seperti yang dipakai perempuan tadi di ruang analisis. Di beberapa malam ketika lorong gelap, warna itu seperti tanda yang bisa dikenali tanpa sadar.
 
-Perempuan yang pernah ia lihat beberapa kali berdiri beberapa meter darinya.
+"Siapa kamu?" tanya Raka.
 
-"Siapa kamu?"
-
-Perempuan itu tidak menjawab.
-
-Ia menunjuk benda di tangan Raka.
-
-"Itu bukan milik mereka."
+Perempuan itu menunjuk benda di tangannya. "Itu bukan milik mereka."
 
 "Terus milik siapa?"
 
 "Milik orang yang membawanya keluar."
 
-"Siapa?"
+Raka menelan. "Siapa?"
 
-Perempuan itu menatap Raka.
+Perempuan itu menatapnya seperti menimbang apakah memberinya jawaban lengkap. "Kamu."
 
-"Kamu."
+Raka terdiam saat kata itu lapang di udara.
 
-Raka terdiam.
+Sebelum ia sempat bertanya lebih jauh, perempuan itu mundur sedikit. "Nama saya Alina," katanya, lalu berjalan menjauh, bayangannya berlipat ke samping bangunan sampai hilang.
 
-Perempuan itu berbalik.
+Raka menatap punggungnya, lalu ke benda di tangannya. Ia meletakkan kotak di pangkuan, menatap goresan R.P. lagi, dan mendengar dirinya mengulangi kata Alina, yang terasa seperti nama orang yang tahu sesuatu tentang masa lalu yang hanya membuatnya terasa lebih kecil.
 
-"Hei."
-
-Ia berhenti.
-
-"Nama kamu siapa?"
-
-Perempuan itu menoleh sedikit.
-
-"Alina."
-
-Kemudian ia pergi.
-
-Raka melihat benda di tangannya.
-
-Ia menatap punggung Alina sampai perempuan itu menghilang di balik bangunan.
-
-"Semakin bagus."
-
-Ia menghela napas.
-
-"Semakin bagus."
+"Semakin bagus," katanya pada diri sendiri, antara halus dan sarkas.
 
 ***
 
-Malam itu, di sebuah ruang arsip yang jauh dari kamar Raka, Alina membuka sebuah kotak tua.
+Malam itu, jauh dari kursi kayu yang dipakai Raka, Alina membuka sebuah kotak tua di ruang arsip—ruang yang lebih dingin, beraroma kertas tua dan plastik pita kaset. Dia bekerja cepat; kesannya sudah lama mengulang gerakan ini sampai tangannya tidak bergetar.
 
-Di dalamnya terdapat beberapa foto, dokumen, dan sebuah rekaman suara dalam media penyimpanan yang sudah sangat lama.
+Di dalam, foto-foto tua, dokumen, dan sebuah media penyimpanan yang menua. Salah satu foto adalah barisan orang pada tahun 1988; di belakang, tertulis nama—Raka Pradana—teks tangan yang tidak rapi tapi tegas. Alina membalik foto itu. Di bagian lain ada tulisan tangan yang lebih singkat tetapi seperti batu prasasti:
 
-Ia mengambil foto tahun 1988.
+R.P. bukan subjek.
+Ia adalah pembawa.
 
-Laki-laki bernama Raka Pradana berdiri di barisan belakang.
+Alina menutup mata sebentar, lalu menarik napas panjang. Di bawah foto, dokumen yang lebih rapih mencantumkan daftar percobaan:
 
-Di sampingnya berdiri seorang perempuan muda.
+Percobaan 17 — gagal.
+Percobaan 18 — dihentikan.
+Percobaan 19 — tidak pernah dimulai.
 
-Alina membalik foto.
+Di halaman terakhir sebuah kalimat pendek ditulis seakan itu perintah terakhir dari orang-orang yang takut akan konsekuensi, yang ingin menutup semua pintu:
 
-Di belakangnya terdapat tulisan tangan:
+Jika pembawa kembali, jangan biarkan mereka mengetahui bahwa kita mengenalinya.
 
-**R.P. bukan subjek.**
+Alina menempelkan telapak tangan ke keningnya, merasakan beratnya kata-kata itu seperti kunci gembok yang menunggu kombinasi. Ia menutup map, tetapi sebelum ia sempat meninggalkan meja kerja, layar arsip di sudut ruang menyala sendiri—sebuah angka yang sudah terlalu akrab pada malam itu: 23:17.
 
-Di bawah kalimat itu ada tulisan lain.
+Dan di bawah angka, sebagai satu baris perintah sistem yang dingin dan tanpa nada, muncul tulisan itu—pekerjaan mesin, bukan perasaan manusia:
 
-**Ia adalah pembawa.**
+SUBJEK: RAKA PRADANA / STATUS: AKTIF
 
-Alina menutup mata.
+Wajah Alina berubah. Untuk pertama kali sejak lama, dia tampak benar-benar takut. Ia menatap layar seolah sedang menunggu sesuatu yang akan mengisi ruang antara lampu dan bayangan.
 
-Kemudian ia membuka dokumen paling bawah.
-
-Di sana tercatat:
-
-**Percobaan 17 — gagal.**
-
-**Percobaan 18 — dihentikan.**
-
-**Percobaan 19 — tidak pernah dimulai.**
-
-Di halaman terakhir hanya ada satu kalimat:
-
-**Jika pembawa kembali, jangan biarkan mereka mengetahui bahwa kita mengenalinya.**
-
-Alina menutup map.
-
-Di luar ruangan, sebuah layar menyala sendiri.
-
-23:17.
-
-Kemudian sebuah tulisan muncul.
-
-**SUBJEK: RAKA PRADANA**
-
-**STATUS: AKTIF**
-
-Alina menatap layar.
-
-Untuk pertama kalinya sejak bertahun-tahun, wajahnya terlihat benar-benar takut.
-
+Di luar, malam menutup fasilitas seperti selimut yang menelan langkah-langkah kecil. Di dalam, beberapa file baru disimpan, sebuah kotak terkunci lagi, dan sebuah nama yang seharusnya normal menjadi sesuatu yang berputar dalam mesin yang tidak mereka sepenuhnya pahami.

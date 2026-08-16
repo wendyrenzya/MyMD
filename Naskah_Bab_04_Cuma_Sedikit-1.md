@@ -1,764 +1,134 @@
 # Bab 4 — Cuma Sedikit
 
-Pada pagi berikutnya, Raka sudah mulai hafal suara-suara yang ada di fasilitas itu.
+Pagi berikutnya Raka sudah hafal irama fasilitas itu: dentingan kartu akses, dengung pendingin yang tak pernah mati, langkah-langkah yang bergema di koridor, dan bunyi pendek dari perangkat yang sesekali menegur keheningan. Di kota ia terbiasa dengan klakson; di sini mesin-lah yang jadi teman sehari-hari. Entah menenangkan, entah membuat kepala terus waspada.
 
-Suara pintu otomatis yang terbuka ketika seseorang menempelkan kartu akses, dengung pendingin yang tidak pernah benar-benar berhenti, langkah kaki yang bergema di koridor, dan bunyi pendek dari perangkat-perangkat elektronik yang sesekali menyela semuanya. Di kota, ia terbiasa dengan suara kendaraan dan orang-orang yang berbicara dari balik dinding. Di tempat ini, suara mesin justru lebih sering menjadi teman daripada manusia.
+Setelah sarapan Hendra memberi tablet berisi log OM-7E. Gangguan komunikasi tercatat lagi semalam, tapi pencatat tambahan yang dipasang Raka berhasil merekam beberapa detik sebelum koneksi terputus.
 
-Ia tidak tahu apakah itu membuat tempat tersebut tenang atau malah sebaliknya.
+"Ini," Hendra menyerahkan tablet. "Ada beberapa detik sebelum putus."
 
-Setelah sarapan, Raka menerima laporan dari Hendra mengenai OM-7E. Gangguan komunikasi kembali tercatat pada malam sebelumnya, tetapi kali ini pencatat tambahan yang dipasang Raka berhasil merekam beberapa detik sebelum koneksi terputus.
+Raka menatap grafik sambil berdiri dekat meja makan. Garis-garis hitam dan biru, sedikit lonjakan, jeda, lalu sunyi.
 
-"Ini," kata Hendra sambil menyerahkan tablet.
+"Jam sama?" tanya Raka.
 
-Raka membaca datanya sambil berdiri di dekat meja makan.
+"Enggak," jawab Hendra singkat.
 
-"Jam yang sama?"
+"Berarti bukan jam," kata Raka, lalu menyadari betapa nyaring kalimat itu terdengar. Ia menekan bibirnya. Hendra mengernyit, tapi tidak bertanya lagi.
 
-"Enggak."
+Di layar ada perubahan kecil pada parameter yang semestinya tak saling terkait: tegangan stabil, suhu rata—tidak ada catatan gangguan jaringan. Hanya beberapa sensor lingkungan yang bergerak, seolah-olah merespon sesuatu yang tak jelas.
 
-"Berarti bukan jam."
+"Yang berubah cuma ini?" Hendra menunjuk dua garis.
 
-Hendra mengernyit.
+"Ini dan ini," Raka mengiyakan. Mereka berdiri berdampingan, meneliti angka-angka sebagai orang yang terbiasa mencari pola.
 
-Raka segera sadar bahwa kalimat itu terdengar aneh.
+"Kenapa sensor lingkungan ikut berubah?" Raka bertanya pada dirinya sendiri lebih banyak daripada pada Hendra.
 
-"Maksud saya, bukan karena jamnya."
+"Itu yang kami tanyakan," jawab Hendra. "Kepada siapa lagi?"
 
-Hendra tidak bertanya lebih jauh.
+Raka menghela napas. "Jangan tanya saya. Saya cuma orang yang memperbaiki kabel."
 
-Raka memperbesar grafik. Ada perubahan kecil pada beberapa parameter yang tidak seharusnya berkaitan langsung dengan komunikasi perangkat. Tegangan tetap stabil. Suhu ruangan tidak berubah berarti. Tidak ada gangguan jaringan yang tercatat.
+Hendra tersenyum tipis. "Makanya kamu dipanggil."
 
-"Yang berubah cuma ini?"
+Obrolan itu menuntunnya, seperti biasa, ke soal kontrak vendor yang selalu jadi jawaban paling aman. Peneliti meneliti, operator mengoperasikan, teknisi luar melakukan pemasangan dan pemeliharaan yang rutin. Raka, yang bukan bawahan tetap fasilitas ini, kebetulan dipanggil karena pengalaman dengan perangkat serupa.
 
-Hendra menunjuk dua garis.
+"Jadi bukan karena kamu orang pilihan," kata Hendra.
 
-"Ini dan ini."
+Raka tertawa pendek. "Jujur sekali."
 
-Raka menatapnya cukup lama.
+Setelah pembicaraan singkat itu mereka masuk ke bangunan timur. Raka membuka laptop, menarik salinan data dari pencatat tambahan, dan menyamakan segmen-segmen itu dengan catatan sistem utama. Ia suka memeriksa sendiri—itu cara paling cepat mengerti masalah.
 
-"Kenapa sensor lingkungan ikut berubah?"
+Hendra berdiri di belakang, sepatu berdetak ringan di lantai.
 
-"Itu yang kami tanyakan."
+"Ketemu?" tanya Hendra.
 
-"Kepada saya?"
+"Belum," Raka jawab, lalu memperbesar satu bagian grafik. Ada lonjakan kecil, jeda, dan lalu putus.
 
-"Kepada siapa lagi?"
+"Ini aneh," katanya akhirnya. "Perangkat komunikasi putus setelah sensor ini berubah."
 
-Raka menghela napas.
+"Berarti sensornya penyebab?" Hendra coba.
 
-"Jangan tanya saya. Saya cuma orang yang memperbaiki kabel."
+"Belum tentu," Raka menolak cepat. "Kalau saya bilang iya sekarang, nanti saya harus cari-cari alasan kenapa."
 
-Hendra tersenyum tipis.
+Ia berdiri, memeriksa rak perangkat. Kabel komunikasi masuk dari kanan, melalui saluran pelindung, lalu bercabang. Salah satu jalur sangat dekat dengan rangka logam. Posisi itu mengganggu matanya.
 
-"Makanya kamu dipanggil."
+"Ini mau saya ubah," kata Raka.
 
-Raka tidak langsung berdiri. Ia masih memandangi grafik di tablet, lalu teringat sesuatu yang sejak pertama datang sebenarnya sudah mengganggu pikirannya.
+"Kenapa?" Hendra melotot, bukan marah—lebih waspada.
 
-"Hen."
+"Posisinya. Terlalu dekat."
 
-"Ya?"
+"Hendak berpengaruh?"
 
-"Kalau tempat ini isinya orang-orang penelitian, kenapa urusan beginian enggak dikerjakan sendiri?"
+"Harusnya enggak," jawab Raka sebelum menyentuh apapun.
 
-Hendra mengangkat alis.
+Hendra menatapnya, menunggu alasan lain.
 
-"Beginian?"
+Raka mengangkat bahu. "Karena saya penasaran."
 
-Raka menunjuk perangkat di layar. "Kabel, modul, sensor, jaringan. Saya lihat orang-orang di sini kelihatannya pintar semua. Masa buat ganti modul saja harus panggil teknisi dari luar kota?"
+Hendra menghela napas panjang. "Jangan macam-macam."
 
-Hendra tertawa kecil. "Kamu baru sadar?"
+Raka menegaskan bahwa ia tidak akan "macam-macam": ia matikan jalur yang akan disentuh, memastikan tidak ada proses penting berjalan, lalu melepas pengikat lama. Beberapa sentimeter saja—cukup jauh dari rangka logam—lalu ia kencangkan pengikat baru. Semua prosedur teknis dijalani rapi. Ia menyalakan kembali jalur.
 
-"Ya baru kepikiran."
+Awalnya tak ada yang berubah. Data masuk normal. Raka duduk dan menunggu. Lima menit berlalu, lalu sepuluh. Ia mulai tidak sabar.
 
-Hendra meletakkan tabletnya di meja. "Karena pintar bukan berarti mereka harus mengerjakan semuanya sendiri. Orang-orang di sini punya bidang masing-masing. Peneliti mengurus penelitian, operator mengurus sistem, teknisi internal menangani hal-hal yang memang masuk tanggung jawab mereka. Untuk pekerjaan pemeliharaan umum, instalasi, penggantian komponen, dan perangkat dari vendor tertentu, mereka lebih suka memakai perusahaan luar."
+Ketika ia mengambil botol minum dan berjalan kembali, monitor menunjukkan gerakan—sebuah garis bergeser tipis ke atas, lalu turun.
 
-"Lebih murah?"
+Raka berhenti, meletakkan botol. "Sebentar," katanya.
 
-"Kadang."
+Ia mendekat, menunjuk. Hendra ikut mendekat.
 
-"Lebih cepat?"
+Grafik yang stabil bergerak lagi. Raka, setengah iseng setengah penasaran, menyentuh kabel dengan ujung jari. Garis bergerak; ia lepaskan; garis kembali. Sekali, dua kali. Setiap sentuhan memicu perubahan—kadang lebih besar, kadang hampir tak terlihat.
 
-"Juga kadang."
+"Barusan kamu ngapain?" Hendra bertanya.
 
-"Terus alasan sebenarnya?"
+"Nyentuh," jawab Raka polos. "Enggak tahu kenapa berubah."
 
-Hendra berpikir sebentar sebelum menjawab. "Hubungan kerja."
+Mereka mulai eksperimen kasar: Raka menyentuh, menjauh, berdiri di sebelah perangkat, mundur dua langkah. Hasilnya inkonsisten. Ada kalanya ia mendekat dan tak terjadi apa-apa; ada kalanya ia berdiam di tempat yang sama dan angka berubah. Polanya—kalau boleh disebut pola—tampak menolak aturan sederhana.
 
-Raka menunggu.
+Raka mengambil multimeter, mengukur jalur listrik, grounding, suhu. Semuanya normal. Tidak ada sambungan longgar, tidak ada tegangan abnormal.
 
-"Perusahaan kita sudah lama jadi vendor mereka. Kontraknya sudah berjalan jauh sebelum kamu dikirim ke sini. Fasilitas ini memang tidak banyak diekspos di luar karena bukan tempat yang menerima pengunjung umum, dan urusan dengan vendor dilakukan lewat jalur administrasi biasa. Nama fasilitasnya bahkan jarang muncul di materi perusahaan. Bukan karena kita dilarang menyebutnya, tetapi memang tidak ada alasan untuk mempromosikan pekerjaan yang sifatnya tertutup seperti ini."
+"Enggak ada yang salah," ia laporkan. "Tapi perubahan itu ada ketika saya menyentuh atau mengubah posisi. Tidak konsisten."
 
-Raka mengangguk perlahan.
+Hendra mengamatinya. "Jangan-jangan konektornya," ia usul.
 
-"Terus kenapa saya?"
+"Sudah kucoba semua," kata Raka. Ia tertawa kecil untuk menengahi ketegangan. Hendra meloncat ke ejekan ringan—"Bagus, berarti mirip kamu"—yang membuat Raka balik tersenyum. Humor kecil di tengah kebingungan.
 
-"Teknisi yang biasanya menangani akun ini sedang penuh dengan pekerjaan lain. Atasanmu memilih kamu karena perangkat yang harus dikerjakan kali ini termasuk sistem monitoring yang sudah pernah kamu tangani di lokasi lain."
+Raka menulis satu catatan kecil di buku hariannya—bukan bagian dari laporan resmi, hanya untuk otaknya sendiri: Posisi terhadap OM-7E mungkin berkaitan dengan perubahan pembacaan. Ia garisbawahi kata mungkin, lalu menulis: Perlu pengujian ulang.
 
-"Jadi bukan karena saya orang pilihan?"
+Sore dilalui dengan pengujian berulang yang lebih sistematis. Raka minta Hendra tidak menyentuh perangkat; ia berdiri diam selama satu menit, dua langkah ke kiri, dua langkah kembali, mengangkat tangan, duduk, berdiri. Kadang grafik bergeser, kadang diam. Polanya semakin membuatnya ragu pada intuisi sendiri: perangkat tampak menjawab gerak tubuhnya, tapi hanya kadang-kadang, dan bukan selalu pada posisi yang sama.
 
-Hendra menatapnya.
+Ia mencoba satu langkah lagi: mengubah sedikit posisi kabel yang baru dipindahkan—beberapa sentimeter, bukan banyak. Saat kabel itu bergeser, beberapa indikator pada perangkat berkedip hampir serentak. Raka berhenti, mendongak ke Hendra.
 
-"Bukan."
+"Apa itu?" tanya Hendra.
 
-Raka tertawa kecil. "Jujur sekali."
+"Enggak tahu," Raka jawab. Indikator kembali normal. Namun pada layar satu garis tampak tertinggal sepersekian detik dari yang lain—bukan naik atau turun, melainkan delay.
 
-"Kamu mau saya bohong?"
+Raka memperbesar tampilan sampai pikselnya pecah. Dua grafik tampak hampir identik; salah satunya datang sedikit terlambat. Ia memutarnya mundur beberapa kali untuk memastikan karena matanya bisa saja menipu setelah lelah. Pencatat tambahan itu memiliki resolusi lebih tinggi daripada log awal OM-7E; angka yang sebelumnya hanya terbaca sebagai kira-kira satu detik kini bisa diukur lebih tepat.
 
-"Enggak."
+Angka itu tetap: 0,8 detik.
 
-Hendra melanjutkan, "Mereka tidak perlu membentuk tim baru hanya untuk menangani pekerjaan yang muncul sesekali, sementara kita sudah punya orang, alat, dan pengalaman dengan perangkat yang mereka gunakan."
+Raka mengulang pengukuran. 0,8 detik. Stabil. Berkali-kali hasilnya sama.
 
-"Jadi mereka sewa kemampuan, bukan orangnya."
+"Stabil," katanya pada Hendra.
 
-"Kurang lebih."
+"Pentinya apa?" tanya Hendra.
 
-"Dan karena kita sudah dipercaya?"
+"Enggak tahu." Raka menatap datanya seperti orang yang menatap noda pada kertas—ingin tahu apakah itu kebetulan atau tanda dari sesuatu yang lebih rumit. Kata yang sering memulai masalah di sini—kata yang sudah membuat banyak orang waspada—muncul lagi di kepalanya: Harusnya. Harusnya tidak ada delay. Harusnya sinyal identik. Harusnya.
 
-"Iya."
+Raka menahan diri. Ia menulis laporan sementara yang ketat: OM-7E mencatat gangguan komunikasi yang belum dapat direproduksi secara konsisten; perubahan kecil pada jalur kabel; rekomendasi: pemantauan lanjutan dan pemeriksaan vendor. Ia sengaja tidak menuliskan perasaan anehnya tentang perangkat yang "seolah merespons posisinya". Laporan teknis bukan tempat untuk hipotesis yang belum bisa diuji — pengalaman mengajarkannya agar tidak membuat alarm sebelum cukup bukti.
 
-Raka melihat kembali ke arah bangunan timur yang terlihat dari jendela.
+Mereka pulang dari ruangan dengan janji sederhana, "Besok kita lihat lagi." Hendra mengangguk: jika malam ini kambuh, setidaknya mereka punya data.
 
-"Masuk akal."
+Di balik pintu, OM-7E kembali bekerja seperti biasa. Tiada alarm, tiada indikator merah, seolah tidak ada yang baru saja terjadi. Namun suatu sistem pencatatan yang tidak terlihat oleh Raka—log paralel yang merekam sensor lain dan menyimpan segmen panjang untuk analisis—mulai membentuk pola berbeda dari gangguan sebelumnya. Kali ini durasinya bukan beberapa detik, melainkan 16,8 detik: periode saat beberapa sistem mencatat pembacaan hampir identik, lalu semuanya kembali normal. Tidak ada yang menontonnya pada waktu itu.
 
-Hendra mengambil tabletnya.
-
-"Justru itu. Jangan mengira karena tempat ini rahasia atau penelitiannya canggih, semua pekerjaan di dalamnya harus dikerjakan orang yang pakai jas laboratorium."
-
-Raka tersenyum. "Saya juga enggak pakai jas."
-
-"Makanya."
-
-Raka melihat kembali ke arah bangunan timur yang terlihat dari jendela.
-
-"Masuk akal."
-
-Hendra mengambil tabletnya.
-
-"Justru itu. Jangan mengira karena tempat ini rahasia atau penelitiannya canggih, semua pekerjaan di dalamnya harus dikerjakan orang yang pakai jas laboratorium."
-
-Raka tersenyum. "Saya juga enggak pakai jas."
-
-"Makanya."
-
-Mereka kembali ke bangunan timur.
-
-Kali ini Raka tidak langsung menyentuh perangkat. Ia membuka laptop, mengambil salinan data dari pencatat tambahan, lalu membandingkannya dengan catatan sistem utama. Ia bekerja dalam diam selama beberapa menit.
-
-Hendra berdiri di belakangnya.
-
-"Ketemu?"
-
-"Belum."
-
-Raka memperbesar bagian tertentu dari grafik.
-
-Ada lonjakan kecil.
-
-Kemudian jeda.
-
-Lalu koneksi terputus.
-
-"Ini aneh."
-
-"Kenapa?"
-
-"Perangkat komunikasi putus setelah sensor ini berubah."
-
-"Berarti sensornya penyebab?"
-
-"Belum tentu."
-
-Raka menatap Hendra.
-
-"Kalau saya bilang iya sekarang, nanti saya harus cari-cari alasan kenapa."
-
-Hendra mengangguk.
-
-"Jadi?"
-
-"Jadi saya belum tahu."
-
-Raka berdiri dan mendekati rak perangkat.
-
-Ia memeriksa jalur kabel sekali lagi. Kabel komunikasi masuk dari sisi kanan, melewati saluran pelindung, lalu bercabang menuju panel di belakang. Salah satu jalurnya berjalan sangat dekat dengan rangka logam.
-
-Raka menunjuknya.
-
-"Ini saya mau ubah."
-
-Hendra langsung bertanya, "Kenapa?"
-
-"Posisinya."
-
-"Posisinya kenapa?"
-
-"Terlalu dekat."
-
-"Berpengaruh?"
-
-"Harusnya enggak."
-
-Hendra menatapnya.
-
-"Kalau harusnya enggak, kenapa diubah?"
-
-Raka tersenyum.
-
-"Nah, itu pertanyaan bagus."
-
-Ia mengambil beberapa pengikat kabel dari tas.
-
-"Karena saya penasaran."
-
-Hendra menghela napas.
-
-"Jangan macam-macam."
-
-"Saya enggak macam-macam."
-
-Raka berjongkok di depan rak.
-
-Ia bekerja hati-hati. Tidak ada yang ia lakukan di luar kebiasaan seorang teknisi. Ia mematikan jalur yang hendak disentuh, memastikan perangkat tidak sedang melakukan proses penting, kemudian melepaskan pengikat lama. Kabel tersebut dipindahkan beberapa sentimeter menjauh dari rangka logam dan ditahan pada posisi baru.
-
-Selesai.
-
-Ia menyalakan kembali jalur.
-
-Tidak terjadi apa-apa.
-
-Raka memeriksa laptop.
-
-Data kembali masuk.
-
-"Normal."
-
-Hendra melihat layar.
-
-"Berarti selesai?"
-
-"Belum."
-
-"Kenapa?"
-
-"Harus dipantau."
-
-Raka duduk dan menunggu.
-
-Satu menit.
-
-Dua menit.
-
-Lima menit.
-
-Tidak ada gangguan.
-
-Ia mulai bosan.
-
-"Kalau lima belas menit aman, saya mau makan."
-
-Hendra melihat jam.
-
-"Baru lima menit."
-
-"Saya tahu."
-
-"Jangan dipaksa."
-
-"Saya enggak maksa."
-
-Raka berdiri.
-
-Ia berjalan ke sisi ruangan untuk mengambil botol minum.
-
-Ketika ia kembali, sebuah garis pada monitor bergerak sedikit.
-
-Raka berhenti.
-
-Ia meletakkan botol.
-
-"Sebentar."
-
-Hendra mendekat.
-
-"Apa?"
-
-Raka menunjuk layar.
-
-Grafik yang sebelumnya stabil bergerak perlahan ke atas, kemudian turun kembali. Perubahannya sangat kecil.
-
-"Ini."
-
-Hendra melihat.
-
-"Sensor?"
-
-"Iya."
-
-"Kenapa?"
-
-Raka tidak menjawab.
-
-Ia melihat perangkat.
-
-Kemudian kabel yang baru saja dipindahkan.
-
-Kemudian kembali ke layar.
-
-Ia menyentuh kabel itu dengan satu jari.
-
-Grafik bergerak.
-
-Raka menarik tangan.
-
-Grafik kembali.
-
-Hendra memperhatikan.
-
-"Barusan kamu ngapain?"
-
-"Nyentuh."
-
-"Kenapa berubah?"
-
-"Enggak tahu."
-
-Raka mencoba lagi.
-
-Sentuh.
-
-Garis bergerak.
-
-Lepas.
-
-Garis kembali.
-
-Ia mengerutkan dahi.
-
-"Jangan-jangan konektornya."
-
-Ia memeriksa sambungan.
-
-Tidak ada masalah.
-
-Ia mencoba menekan bagian casing.
-
-Tidak berubah.
-
-Ia menyentuh kabel lagi.
-
-Grafik bergerak.
-
-Kali ini sedikit lebih besar.
-
-Raka menarik tangan.
-
-Hendra menatapnya.
-
-"Jangan bilang itu normal."
-
-"Enggak normal."
-
-Raka tidak terdengar panik. Justru ia menjadi semakin fokus. Ia mengambil multimeter dan mengukur jalur listrik.
-
-Normal.
-
-Ia memeriksa grounding.
-
-Normal.
-
-Ia memeriksa suhu.
-
-Normal.
-
-"Enggak ada yang salah."
-
-"Terus kenapa berubah?"
-
-Raka memandang kabel tersebut.
-
-"Karena saya sentuh."
-
-Hendra diam.
-
-Raka ikut diam.
-
-Kemudian ia tertawa kecil.
-
-"Jangan lihat saya begitu."
-
-"Saya enggak lihat apa-apa."
-
-"Kelihatan."
-
-Raka menarik kursi.
-
-Ia duduk lebih dekat ke monitor dan mengamati grafik.
-
-"Jangan sentuh lagi."
-
-Hendra berkata pelan.
-
-Raka mengangguk.
-
-"Oke."
-
-Untuk beberapa saat mereka hanya berdiri di sana.
-
-Tidak ada perubahan.
-
-Kemudian Raka bergerak sedikit ke samping.
-
-Grafik bergeser.
-
-Raka berhenti.
-
-Grafik kembali.
-
-Ia bergeser lagi.
-
-Perubahannya sangat kecil.
-
-Namun kali ini Raka melihatnya.
-
-Bukan kabel.
-
-Bukan konektor.
-
-Bukan casing.
-
-Posisinya.
-
-Ia berdiri di sebelah perangkat.
-
-Grafik berubah.
-
-Ia mundur.
-
-Grafik kembali.
-
-Hendra memandangnya.
-
-"Jadi?"
-
-Raka menggeleng.
-
-"Belum tahu."
-
-"Raka."
-
-"Saya serius."
-
-Ia berjalan mengitari ruangan.
-
-Grafik bergerak mengikuti perubahan kecil pada posisi tubuhnya, tetapi tidak selalu. Ada saat ketika ia mendekat dan tidak terjadi apa-apa. Ada saat ketika ia berdiri di tempat yang sama dan angka berubah.
-
-Raka mulai mencoba memahami polanya.
-
-Ia menggeser kursi.
-
-Mengubah posisi laptop.
-
-Mematikan lampu meja.
-
-Menyalakan kembali.
-
-Tidak ada hubungan yang jelas.
-
-"Berarti bukan saya."
-
-Hendra menatapnya.
-
-"Kenapa?"
-
-"Kalau saya penyebabnya, harusnya setiap saya bergerak berubah."
-
-"Belum tentu."
-
-Raka berhenti.
-
-"Benar juga."
-
-Hendra menghela napas.
-
-Raka tersenyum.
-
-"Makanya jangan cepat menyimpulkan."
-
-Ia mengambil buku catatan.
-
-Untuk pertama kalinya sejak bekerja di fasilitas itu, ia menulis sesuatu yang bukan bagian dari laporan perusahaan.
-
-**Posisi terhadap OM-7E mungkin berkaitan dengan perubahan pembacaan.**
-
-Ia menggarisbawahi kata "mungkin".
-
-Kemudian ia menambahkan:
-
-**Perlu pengujian ulang.**
-
-Tidak ada kata lain.
-
-***
-
-Pengujian ulang dilakukan setelah makan siang.
-
-Raka meminta Hendra tidak menyentuh perangkat selama ia melakukan beberapa pemeriksaan sederhana. Ia berdiri pada posisi yang sama selama satu menit, kemudian berpindah dua langkah ke kiri. Tidak ada perubahan.
-
-Ia kembali ke posisi awal.
-
-Tidak ada perubahan.
-
-Ia mengangkat tangan.
-
-Tidak ada perubahan.
-
-Ia duduk.
-
-Tidak ada perubahan.
-
-Ia berdiri.
-
-Sedikit perubahan.
-
-Ia mengulanginya.
-
-Tidak terjadi apa-apa.
-
-Raka mulai kesal.
-
-"Bagus."
-
-Hendra bertanya, "Apa?"
-
-"Dia cuma berubah kalau saya enggak mengharapkannya."
-
-"Berarti mirip kamu."
-
-Raka menoleh.
-
-Hendra tersenyum tipis.
-
-Raka tertawa.
-
-"Ini pertama kalinya kamu bercanda."
-
-"Enggak."
-
-"Barusan bercanda."
-
-"Enggak."
-
-"Ya sudah."
-
-Raka kembali ke perangkat.
-
-Ia mencoba satu hal terakhir.
-
-Ia mengubah posisi kabel yang tadi dipindahkan.
-
-Bukan banyak.
-
-Hanya beberapa sentimeter.
-
-Ia ingin melihat apakah perubahan kecil pada posisi kabel menghilangkan gejala.
-
-Saat kabel bergerak, beberapa indikator pada perangkat menyala hampir bersamaan.
-
-Raka langsung berhenti.
-
-Hendra mendekat.
-
-"Apa itu?"
-
-"Enggak tahu."
-
-Indikator kembali normal.
-
-Raka melihat monitor.
-
-Semua grafik tampak stabil.
-
-Kemudian satu garis bergerak.
-
-Bukan naik atau turun.
-
-Garis itu seperti tertinggal sepersekian detik dari garis lain.
-
-Raka mengira matanya salah.
-
-Ia memperbesar tampilan.
-
-Dua grafik terlihat hampir sama.
-
-Hanya saja salah satunya terlambat.
-
-"Ini..."
-
-Hendra mendekat.
-
-"Apa?"
-
-Raka tidak langsung menjawab.
-
-Ia memutar ulang data.
-
-Sekali.
-
-Dua kali.
-
-Tiga kali.
-
-Pola yang sama muncul.
-
-Salah satu sinyal datang sedikit terlambat.
-
-"Berapa?"
-
-Hendra melihat layar.
-
-"Berapa apanya?"
-
-"Selisihnya."
-
-Hendra tidak tahu.
-
-Raka mengukur.
-
-Angkanya muncul.
-
-**0,8 detik.**
-
-Raka mengerutkan dahi.
-
-Ia mengulang pengukuran.
-
-**0,8 detik.**
-
-Kemudian:
-
-**0,8 detik.**
-
-"Stabil."
-
-Hendra bertanya, "Itu penting?"
-
-Raka menatapnya.
-
-"Enggak tahu."
-
-Ia kembali melihat data.
-
-"Harusnya enggak."
-
-Kalimat itu membuat Hendra diam.
-
-Karena selama tiga hari terakhir, hampir semua hal yang kemudian menjadi masalah selalu diawali oleh kata yang sama.
-
-Harusnya.
-
-***
-
-Menjelang sore, Raka menyelesaikan laporan sementara.
-
-Ia menulis bahwa OM-7E mengalami gangguan komunikasi yang belum dapat direproduksi secara konsisten. Ia mencatat perubahan kecil pada jalur kabel dan menyarankan pemantauan lebih lanjut.
-
-Ia tidak menulis tentang perasaan bahwa perangkat itu seperti merespons posisinya.
-
-Bukan karena ia ingin menyembunyikannya.
-
-Ia hanya belum punya bukti yang cukup.
-
-Raka sudah cukup lama bekerja untuk tahu bahwa laporan teknis bukan tempat untuk menulis dugaan yang belum bisa diuji. Apalagi perusahaan tempatnya bekerja sudah bertahun-tahun menangani pemeliharaan perangkat di fasilitas ini. Kalau ia menulis sesuatu yang terdengar seperti dugaan aneh tanpa dasar, laporan itu bukan hanya akan dibaca oleh atasannya, tetapi juga oleh orang-orang yang sudah mengenal sistem fasilitas tersebut jauh lebih lama darinya. Ia tidak ingin menjadi teknisi yang membuat masalah sederhana terdengar seperti cerita aneh.
-Ia mengirim laporan kepada atasannya.
-
-Kemudian menutup laptop.
-
-"Besok kita lihat lagi."
-
-Hendra mengangguk.
-
-"Kalau malam ini kambuh?"
-
-"Berarti kita punya data."
-
-Mereka meninggalkan ruangan.
-
-Raka menutup pintu.
-
-Di balik pintu, OM-7E kembali bekerja seperti biasa.
-
-Tidak ada alarm.
-
-Tidak ada indikator merah.
-
-Tidak ada tanda bahwa sesuatu baru saja terjadi.
-
-Namun di salah satu sistem pencatatan yang tidak terlihat oleh Raka, data dari beberapa sensor mulai membentuk pola yang tidak sama dengan pola gangguan sebelumnya.
-
-Kali ini durasinya lebih panjang.
-
-Enam belas koma delapan detik.
-
-Selama waktu itu, beberapa sistem menerima pembacaan yang hampir identik.
-
-Kemudian semuanya kembali normal.
-
-Tidak ada seorang pun yang melihatnya pada saat kejadian.
-
-Belum.
-
-***
-
-Malamnya Raka kembali ke kamar dengan pikiran yang lebih penuh daripada ketika ia datang.
-
-Ia duduk di tepi tempat tidur sambil membuka pesan dari Dito.
+Malam, di kamar, Raka membuka pesan dari Dito.
 
 > Betah?
+Raka mengetik: > Lumayan.
 
-Raka mengetik:
+Pesan sambungnya datang: > Udah ketemu hantu?
 
-> Lumayan.
+Raka hampir membalas dengan candaan tentang kabel yang sensitif terhadap keberadaannya, lalu menahan diri. Kedengarannya konyol, dan Dito pasti akan membalas dengan meme. Ia menutup laptop, mengintip lagi salinan data tadi: 0,8 detik. Angka itu kukuh. Ia matikan layar. "Besok," bisiknya.
 
-Pesan berikutnya muncul.
-
-> Udah ketemu hantu?
-
-Raka berpikir sebentar.
-
-> Belum.
-
-Ia hampir menambahkan sesuatu, tetapi menghapusnya.
-
-Ia tidak ingin bercerita tentang perangkat yang berubah ketika ia berdiri di dekatnya.
-
-Kedengarannya konyol.
-
-Apalagi kalau ditulis dalam pesan.
-
-Dito pasti akan membalas dengan lelucon.
-
-Raka meletakkan ponsel.
-
-Ia membuka laptop sekali lagi dan melihat salinan data yang tadi ia simpan.
-
-0,8 detik.
-
-Ia tidak tahu apa artinya.
-
-Ia hanya tahu bahwa angka itu tidak muncul begitu saja.
-
-Raka mematikan layar.
-
-"Besok."
-
-Ia tidak menyadari bahwa pada saat yang hampir bersamaan, di ruang kontrol lain, seseorang akhirnya melihat data yang tertinggal selama enam belas koma delapan detik itu.
-
-Dan orang tersebut tidak melihat angka 0,8 detik.
-
-Ia melihat sesuatu yang jauh lebih mengganggu.
-
-Sebuah bentuk.
-
-Bentuk yang pernah muncul dalam arsip lama.
+Ia tidak tahu bahwa, hampir bersamaan, di ruang kontrol lain seseorang akhirnya memutar segmen yang tertinggal selama 16,8 detik itu. Orang itu melihat bukan angka 0,8 detik—melainkan sebuah bentuk. Sesuatu yang mengganggu karena bentuk itu muncul di arsip lama.
 
 Tiga puluh delapan tahun yang lalu.
