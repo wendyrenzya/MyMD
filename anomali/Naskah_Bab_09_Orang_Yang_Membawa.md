@@ -1,379 +1,389 @@
 # Bab 9 — Orang yang Membawa
 
-Raka mulai bisa membedakan dua jenis orang di fasilitas itu.
+Raka mulai mengenali dua jenis kerusakan di fasilitas itu.
 
-Jenis pertama menemukan anomali, mencatatnya, mengurutkan kemungkinan penyebab, membuat tabel, lalu menulis laporan yang cukup panjang untuk membuat printer ikut lelah.
+Jenis pertama adalah kerusakan biasa: kertas tersangkut, kabel longgar, konektor kotor, dan perangkat yang berhenti bekerja karena seseorang menekan tombol yang salah.
 
-Jenis kedua adalah orang seperti Raka—setidaknya menurut Dito. Orang yang melihat benda rusak, memeriksa apakah masih bisa diperbaiki, lalu baru membaca manual setelah memastikan tidak ada bagian yang akan meledak.
+Jenis kedua adalah kerusakan yang membuat tiga orang membuka arsip lama, dua orang menghubungi atasan, dan satu orang menyarankan agar semua orang tidak menyentuh apa pun.
 
-Raka tidak setuju dengan definisi itu.
+Mesin fotokopi di gedung utama termasuk jenis pertama.
 
-Ia memang penasaran. Ia juga bisa membuat komentar yang tidak diperlukan. Namun sejak benda logam berpindah dari loker bukti ke kamar tanpa melewati pintu atau kamera, ia tidak lagi menganggap rasa ingin tahu sebagai izin untuk menyentuh apa pun.
+Halaman kedua sebuah dokumen berhenti di dalam mesin. Raka memasang tanda **SEDANG DIPERIKSA**, mematikan daya, lalu membuka panel belakang. Ia menemukan selembar kertas terlipat di dekat rol pemindah.
 
-Pagi itu yang menolak bekerja adalah mesin fotokopi.
-
-Halaman kedua sebuah dokumen berhenti di dalam mesin. Raka mematikan perangkat, mencabut daya, dan memasang kertas kecil pada panelnya:
-
-**SEDANG DIPERIKSA. JANGAN GUNAKAN.**
-
-Maya masuk ketika ia sedang membuka penutup belakang.
+Maya datang ketika Raka sedang memeriksa apakah ada serpihan kertas yang tertinggal.
 
 "Kenapa?" tanyanya.
 
-"Dia menahan informasi."
+"Dia menolak menyampaikan halaman kedua."
 
-Maya menunggu penjelasan yang lebih teknis.
+Maya melihat layar mesin. "Paper jam."
 
-Raka menunjuk layar mesin. "Paper jam."
+"Itu istilah yang sangat tidak menghargai konflik internalnya."
 
-Maya tersenyum. Raka menarik kertas yang terlipat, memeriksa apakah ada serpihan yang tertinggal, menutup panel, lalu menyalakan mesin setelah memastikan jalurnya bersih.
+Maya menunggu sampai Raka selesai membersihkan jalur kertas. Ia menutup panel, menyalakan daya, mencetak satu halaman uji, lalu menandai mesin sebagai normal.
 
-Mesin kembali bekerja.
+"Saya mau bicara soal arsip," kata Maya.
 
-"Kadang masalah memang sesederhana itu," kata Maya.
+Raka mengambil buku kerjanya. "Ada nomor dokumen?"
 
-"Jangan bilang begitu di dekat ruang analisis. Nanti benda itu tersinggung."
+"Ada. P-19."
 
-Maya tidak tertawa lama. Wajahnya segera kembali serius.
+Raka berhenti memasukkan obeng ke tas.
 
-"Saya mau bicara soal Alina."
+"Itu nama kotak yang dibuka Alina kemarin?"
 
-Raka menekan tombol fotokopi dan menunggu satu halaman keluar sempurna sebelum mencabut kertasnya.
+"Bukan nama kotaknya. Kode proyek yang tertulis di inventaris lama. Saya ingin mencocokkan inventaris itu dengan objek P-07 di ruang analisis."
 
-"Yang kemarin?"
+"Dan Alina punya akses?"
 
-"Bagian arsip."
+"Dia yang memulihkan sebagian besar arsip digitalnya."
 
-Raka mematikan mesin, mencatat bahwa hasil uji berhasil, lalu mengambil buku kerjanya.
+"Baik. Kita masuk sesuai daftar akses, atau saya menunggu di luar."
 
-"Kalau jawabannya cuma ‘belum tahu’, saya tetap ikut. Tapi saya mau tahu nomor dokumennya."
+Maya mengangguk. "Saya sudah mengajukan akses. Hendra tahu."
 
-Maya menatapnya. "Kali ini saya tahu sedikit."
+Mereka berjalan ke bangunan arsip lama. Sebelum masuk, Maya menunjukkan daftar pengunjung pada panel pintu. Nama Maya, Raka, dan Alina tercatat. Raka membacanya, menandatangani, lalu mencatat waktu masuk pada buku kerja.
 
-"Sedikit yang punya nomor dokumen?"
+Ruang arsip lebih dingin daripada koridor utama. Rak-rak tinggi memenuhi dinding. Kotak-kotak diberi label tahun, nomor proyek, dan status penyimpanan. Di sudut ruangan terdapat alat pemindai dokumen, dua monitor, dan sebuah tablet dengan casing biru yang diletakkan di atas meja.
 
-"Punya."
+Alina berdiri di dekat rak P.
 
-"Bagus."
+Ia tidak terlihat seperti seseorang yang menunggu kesempatan untuk mengucapkan kalimat rahasia. Ia terlihat lelah. Di sampingnya ada tiga map hasil pemulihan, sebuah daftar inventaris, dan sarung tangan tipis yang sudah dipakai.
 
-Maya membawa Raka ke bangunan arsip lama. Sebelum masuk, ia mencatat akses mereka pada panel dan meminta Raka menandatangani daftar pengunjung. Raka memeriksa bahwa hanya Maya, dirinya, dan Alina yang terdaftar di ruangan tersebut.
+"P-19 ada di sini," katanya kepada Maya. "Saya sudah meminta izin membuka kotaknya. Ini formulirnya."
 
-Ruang arsip lebih dingin daripada koridor utama. Rak-rak tinggi berisi kotak berlabel tahun dan kode proyek. Lampu remang menyorot debu seperti panggung kecil untuk benda-benda yang sudah lama berhenti dijelaskan.
+Maya membaca formulir, mencocokkan nomor segel, lalu mengangguk.
 
-Alina berdiri di depan salah satu rak. Tablet casing biru berada di lengannya.
+Raka melihat kotak hitam di atas meja. Permukaannya terkelupas dan labelnya hampir pudar.
 
-"Kamu datang," katanya.
+**P-19 — PEMULIHAN ARSIP — 1988**
 
-"Dengan izin dan daftar akses," jawab Raka.
+Alina memotret kotak itu sebelum membuka segelnya. Ia mengangkat tutup dengan hati-hati.
 
-Alina melihat formulir di tangan Maya. "Masih percaya prosedur?"
+Di dalamnya terdapat foto-foto, catatan lapangan, pita rekaman, dan sebuah benda logam berbentuk lingkaran. Bentuknya sama dengan P-07 yang berada di ruang analisis, tetapi permukaannya lebih tua dan ternoda di satu sisi.
 
-"Saya percaya prosedur membantu membedakan keputusan dari dorongan sesaat."
+Raka berdiri di belakang garis pemeriksaan.
 
-Maya memberi isyarat kepada Alina.
+"Boleh saya melihat dari sini?"
 
-Alina mengambil kotak hitam dari rak. Pada sisinya tertulis kode yang hampir pudar:
+"Boleh," kata Alina. "Jangan memegang. Permukaan benda ini belum pernah diuji dengan metode yang sama, dan kami tidak ingin menambah kontaminasi."
 
-**P-19**
+"Saya tidak keberatan. Benda yang ingin disentuh biasanya mulai membuat masalah setelah disentuh."
 
-Ia meletakkan kotak itu di atas meja pemeriksaan. Maya memotret posisi, segel, dan label sebelum tutupnya dibuka. Raka berdiri di belakang garis yang ditandai pada lantai.
+Alina meliriknya. "Itu kesimpulan dari pengalaman?"
 
-Di dalam kotak terdapat foto-foto, catatan lapangan, media penyimpanan, dan sebuah benda logam.
+"Dari beberapa pengalaman."
 
-Bentuknya sama dengan objek P-07 yang sekarang berada di ruang analisis. Ukuran, titik tengah, dan goresan kecil di tepinya tampak identik. Permukaan benda lama lebih kusam dan memiliki noda hitam di dekat sisi lingkaran.
+Maya membuka daftar inventaris.
 
-Raka tidak meraih benda itu.
+"Di catatan ini tertulis dua benda logam dalam rangkaian Percobaan 18," katanya. "Satu tercatat berada di ruang eksperimen. Satu lagi tercatat sebagai penanda pembanding. Tidak ada nomor seri."
 
-"Berapa banyak benda seperti itu?" tanyanya.
+Alina menunjuk baris yang pudar. "Yang bisa kami pastikan hanya dua benda yang tercatat. Arsip 1988 kehilangan beberapa halaman, jadi saya tidak berani mengatakan jumlahnya hanya dua."
 
-Alina menjawab singkat. "Dua benda yang kami ketahui."
+Raka menulis kalimat itu.
 
-Raka menulis kalimat tersebut, termasuk bagian **yang kami ketahui**.
+"P-07 adalah salah satunya?"
 
-"Artinya jumlah sebenarnya bisa lebih banyak?"
+"Kemungkinan besar. Bentuk dan ukurannya cocok, tetapi pemeriksaan materialnya belum selesai," jawab Maya.
 
-"Artinya kami hanya bisa bertanggung jawab atas yang sudah ditemukan."
+"Jadi kita punya dua benda yang tercatat, bukan dua benda yang pasti masih ada."
 
-Maya mengambil foto dari dalam kotak dengan penjepit dokumen, bukan dengan tangan kosong. Di sudut foto tercetak angka 1988. Dua keping logam terlihat diletakkan saling berhadapan di depan perangkat lama. Beberapa orang berdiri di belakangnya, seolah menjadi saksi atau bagian dari instruksi.
+"Betul," kata Alina. "Itu perbedaan penting."
 
-"Mereka mencoba memindahkan informasi," kata Alina. "Bukan benda."
+Alina mengambil foto dari map pelindung. Di sudutnya tercetak **1988**. Foto itu memperlihatkan ruangan lama dengan dua benda logam di atas dudukan. Di belakangnya berdiri beberapa orang.
 
-"Informasi seperti data sensor?" tanya Raka.
+"Mereka mencoba memindahkan informasi," kata Alina. "Bukan memindahkan benda."
 
-"Data, pola, urutan waktu. Sesuatu yang seharusnya hanya berada di satu sistem muncul di sistem lain sebelum jalur komunikasinya dapat menjelaskan kedatangan data itu."
+Raka melihat catatan di samping foto. "Apa maksudnya informasi?"
 
-Maya menyambung, "Kami tidak pernah membuktikan perjalanan waktu. Istilah yang lebih aman adalah perpindahan atau kemunculan informasi antarsistem yang belum dapat dijelaskan."
+Alina tidak langsung menjawab. Ia membalik satu halaman, memperlihatkan diagram dua sistem pencatat yang dihubungkan oleh jalur komunikasi.
 
-"Bagus," kata Raka. "Kalau ini perjalanan waktu, saya tidak tahu formulir klaim perjalanannya diisi ke siapa."
+"Saya tidak tahu apa yang mereka maksud secara lengkap. Ini bahasa mereka, bukan hasil eksperimen yang bisa saya ulangi. Tapi catatan ini menyebut dua sistem menerima pola yang sama pada waktu yang tidak sesuai dengan jalur komunikasinya."
 
-Alina tidak tertawa, tetapi Maya tersenyum kecil.
+"Jadi mirip masalah sinkronisasi?"
 
-Raka kembali melihat foto.
+"Sebagian. Maya lebih paham bagian instrumennya. Saya hanya bisa menjelaskan apa yang ditulis di arsip."
 
-"Jadi ini lebih dari sinkronisasi?"
+Maya menambahkan, "Pada data modern, kami melihat offset 0,8 detik. Itu belum membuktikan pemindahan informasi. Kami baru tahu dua kanal tidak membaca kejadian secara bersamaan."
 
-"Sinkronisasi menyiratkan dua sistem menyepakati waktu yang sama," jawab Alina. "Yang terjadi di sini kadang lebih aneh. Dua sistem menunjukkan pola yang sangat mirip, tetapi urutan kemunculannya tidak sesuai dengan jalur yang bisa kita ukur."
+Raka mengangguk. Ia menyukai pembagian itu: Alina memiliki arsip, Maya memiliki data instrumen, dan tidak ada yang berpura-pura memegang jawaban utuh.
 
-Raka menulisnya sebagai hipotesis, bukan fakta.
-
-Alina membuka halaman lain. Pada tepi benda logam tua terlihat goresan kecil:
+Di tepi benda logam dalam foto terdapat goresan kecil.
 
 **R.P.**
 
-Raka merasakan medali milik keluarganya berada di dalam kantong bukti kecil yang disimpan di loker pribadinya. Ia tidak membawanya ke ruang arsip. Sebelum datang, ia sudah menyerahkan foto dan keterangan tentang medali itu kepada Maya melalui jalur resmi.
+Raka mengenali bentuknya dari medali tua yang disimpan ibunya. Ia tidak membawa medali itu ke fasilitas. Sebelum datang, ia sudah mengirim foto dan keterangannya kepada Maya melalui jalur resmi.
 
-"Kenapa ada dua?" tanyanya.
+"Saya menemukan tanda yang sama pada medali keluarga," kata Raka. "Apakah arsip ini menyebut R.P.?"
 
-"Fenomena itu lebih mudah muncul ketika ada dua titik referensi."
+Alina membuka indeks nama.
 
-"Referensi apa?"
+"Ada beberapa catatan dengan inisial itu. Tidak semuanya merujuk pada orang yang sama. Satu catatan memakai R.P. sebagai tanda pada benda. Catatan lain menyebut R.P. sebagai kontak lapangan."
 
-Alina memandangnya. "Manusia. Manusia yang berdiri di sana. Dan penanda. Benda itu membantu dua sistem mengenali referensi yang sama."
+"Bukan nama lengkap?"
 
-Raka mengangguk perlahan.
+"Tidak di halaman yang masih ada."
 
-"Jadi orang yang membawa benda ini—"
+"Apakah kamu tahu siapa orangnya?"
 
-"Jangan menyimpulkan," potong Alina.
+"Tidak. Saya punya dugaan, tapi belum punya bukti yang cukup untuk menyebutnya sebagai identitas."
 
-"Saya belum menyimpulkan. Saya baru menyusun kalimat."
+Jawaban itu tidak terdengar seperti penahanan informasi. Alina benar-benar sedang membedakan antara yang tertulis dan yang ia simpulkan.
 
-"Kalimatmu biasanya berlari lebih cepat daripada datamu."
+Raka melihat foto lain. Seorang perempuan muda berdiri di belakang kelompok peneliti. Wajahnya tidak cukup jelas, tetapi jaketnya memiliki tanda departemen yang sama dengan tanda pada kartu akses Alina.
 
-Raka menulis catatan kecil: **periksa kecenderungan menyimpulkan terlalu dini**.
+Raka menoleh kepadanya.
 
-Maya membuka foto lain. Seorang laki-laki berdiri dekat perangkat. Di belakangnya ada seorang perempuan muda.
+"Orang itu kakakmu?"
 
-Raka berhenti menulis.
+Alina tidak menghindari foto tersebut. Ia mengambil map lain dan membuka satu lembar daftar personel.
 
-Wajah perempuan itu mirip Alina.
+"Saya belum bisa memastikan. Kakak saya bekerja sebagai asisten teknisi pada 1988. Namanya ada di beberapa daftar yang dipulihkan, tetapi foto ini tidak memiliki keterangan nama. Yang saya tahu, ia terakhir tercatat tiga hari setelah Percobaan 18 dihentikan. Setelah itu tidak ada catatan kepulangan, pemindahan, atau kematian."
 
-Maya menatap Alina. "Itu kamu?"
+"Tiga hari setelah percobaan dihentikan," ulang Raka.
 
-Alina melihat foto tersebut cukup lama.
+"Ya. Itu sebabnya saya mencari arsip ini. Bukan karena saya tahu apa yang terjadi. Karena saya tidak tahu."
 
-"Itu bukan foto saya."
+Raka tidak menambahkan lelucon. Alina tidak sedang memainkan peran misterius; ia sedang menyampaikan masalah keluarga yang tidak pernah memiliki dokumen penutup.
 
-"Adikmu?" tanya Raka.
+Maya menunjuk foto. "Apakah kakakmu membawa tanda R.P.?"
 
-Alina memasukkan foto kembali ke map pelindung. "Adik saya."
+"Saya tidak tahu. Di rumah, ia punya liontin kecil dengan bentuk yang mirip, tetapi keluarga kami tidak pernah menyebut inisial itu. Saya tidak bisa memastikan benda dalam foto berhubungan dengan liontin tersebut."
 
-"Namanya?"
+"Kamu melihat Raka dan langsung berpikir ada hubungan?" tanya Raka.
 
-"Belum waktunya."
+Alina menjawab setelah beberapa detik. "Saya melihat tiga kemiripan: nama keluarga pada arsip, tanda pada benda, dan respons sistem terhadap keberadaanmu. Itu cukup untuk membuat saya berhati-hati. Belum cukup untuk membuat kesimpulan."
 
-Raka menarik napas. Ia tidak mengejar jawaban itu dengan pertanyaan berikutnya. Bukan karena rasa ingin tahunya hilang, tetapi karena Alina sudah menunjukkan bahwa ia tidak akan menjawab tanpa alasan yang dapat dipertanggungjawabkan.
+"Itu lebih masuk akal."
 
-Mereka meninggalkan ruang arsip setelah seluruh dokumen dikembalikan dan kotak P-19 dikunci. Raka menandatangani daftar keluar.
+"Saya juga lebih suka hal yang masuk akal. Sayangnya arsip ini tidak banyak membantu."
 
-Di koridor, Maya berkata, "Kamu terlihat ingin mengatakan sesuatu."
+Alina menunjukkan bagian dokumen yang sobek. Nomor kontak eksternal pada halaman berikutnya hanya menyisakan sebagian digit.
 
-"Saya sedang mencoba memberi kesempatan pada data untuk menyusul."
+"Saya mencoba memulihkan angka yang hilang," katanya. "Hasilnya belum dapat dibaca."
 
-"Bagus."
+Maya memotret halaman tersebut dan menyimpan salinan pada drive fasilitas.
 
-Siang hari, ponsel Raka bergetar. Ibunya menelepon.
+"Kita cocokkan dengan daftar kontrak lama," kata Maya. "Kalau nomornya masih tercatat di administrasi, kita bisa mengetahui siapa kontak eksternalnya."
 
-Raka berjalan ke halaman agar percakapan tidak terdengar staf lain.
+Raka melihat nama berkas pada layar Alina:
 
-"Kamu bawa barang ayahmu?" tanya ibunya tanpa pembuka.
+**P18_CONTACT_EXT_03**
 
-Raka berhenti.
+Ia mencatat nomor dokumen tersebut.
 
-"Barang ayah?"
+Mereka mengembalikan foto dan catatan ke map pelindung. Alina menutup kotak P-19, memasang segel baru, dan menandatangani formulir penyimpanan. Raka ikut menandatangani sebagai saksi akses, bukan sebagai pemegang benda.
 
-"Jangan bawa benda itu ke mana-mana."
+Saat mereka keluar dari arsip, Raka menghubungi ibunya. Ia berjalan ke halaman agar tidak mengganggu pekerjaan orang lain.
 
-"Bu, benda yang mana?"
+Ibunya menjawab pada dering kedua.
 
-Sinyal berderak. Raka berpindah beberapa langkah, tetapi suara ibunya semakin jauh.
+"Kamu masih di tempat kerja?"
 
-"Jangan—"
+"Masih. Bu, medali yang dulu Ibu simpan itu milik siapa?"
+
+Ada jeda.
+
+"Kenapa tanya sekarang?"
+
+"Saya melihat tanda yang mirip pada foto lama. Saya tidak membawa medali itu. Saya hanya perlu tahu sejarahnya."
+
+"Itu punya ayahmu. Dulu dia bilang benda itu bagian dari pekerjaan lama."
+
+"Pekerjaan di mana?"
+
+"Ibu tidak tahu persis. Dia tidak suka membicarakannya. Setelah pekerjaan itu selesai, dia menyimpannya di kotak."
+
+"Ada tulisan R.P.?"
+
+"Ada goresan kecil. Ibu kira itu inisialnya."
+
+Sinyal mulai berderak.
+
+"Bu, apakah Ayah pernah menyebut fasilitas di—"
 
 Panggilan terputus.
 
-Raka mencoba menghubungi kembali. Tidak ada sinyal.
+Raka mencoba menelepon lagi. Tidak tersambung. Ia tidak menganggap putusnya sinyal sebagai pesan dari masa lalu. Ia mencatat isi percakapan selama masih mengingatnya, lalu mengirim pesan kepada ibunya agar mereka membicarakannya lagi ketika ia pulang.
 
-Maya berdiri beberapa meter darinya. Ia tidak mendengarkan dengan sengaja, tetapi ekspresinya menunjukkan bahwa ia menangkap sebagian percakapan.
+Maya menunggunya di dekat pintu.
 
-"Ibu saya tahu soal medali," kata Raka.
+"Saya dengar sebagian," katanya. "Kamu ingin tahu apakah ibumu tahu soal arsip."
 
-"Kamu sudah memberi tahu ibumu?"
+"Saya ingin tahu apakah Ayah pernah bekerja dengan fasilitas ini."
 
-"Belum. Itu yang membuatnya tidak nyaman."
+Maya membuka tablet dan menunjukkan berkas yang sudah ia temukan sebelum mereka pergi ke arsip.
 
-Maya menatapnya dengan serius. "Nama ayahmu ada di arsip."
+**P18_CONTACT_EXT_03**
 
-Raka tidak langsung menjawab.
+Di bawah nomor yang sebagian hilang, terdapat daftar kontak administrasi lama. Salah satu nama tercatat sebagai kontak eksternal untuk pekerjaan pemeliharaan dan kalibrasi tiga hari setelah Percobaan 18 dihentikan.
 
-"Sebagai apa?"
+Nama ayah Raka ada di sana.
 
-"Kontak eksternal pada berkas 1988. Bukan peneliti dan bukan subjek. Hanya kontak. Tanggalnya tiga hari setelah percobaan terakhir dihentikan."
+Raka membaca baris itu tanpa menyentuh layar.
 
-Maya menunjukkan dokumen digital dari jarak yang cukup agar Raka bisa membaca, tetapi tidak menyentuh tablet.
+"Kenapa baru sekarang kamu menunjukkan ini?"
 
-**Kontak eksternal: [nama ayah Raka]**
+"Karena sebelum kamu menyebut medali, data ini masih merupakan kecocokan nama tanpa konteks. Saya tidak ingin menghubungkan dua hal hanya karena keduanya membuat cerita terasa rapi."
 
-**Tanggal: tiga hari setelah penghentian Percobaan 18**
+Raka menghargai jawaban itu, meskipun hasilnya tidak menyenangkan.
 
-**Keterangan: tidak lengkap.**
-
-Raka merasa dirinya sedang ditarik ke dalam jaringan yang lebih tua daripada ingatannya.
-
-Hendra lewat di depan pintu ruang kerja dan berhenti ketika mendengar nama ayah Raka.
+Hendra lewat dan melihat dokumen di layar Maya. Ia berhenti.
 
 "Saya pernah melihat nama itu," katanya.
 
 Raka menoleh. "Di mana?"
 
-Hendra terdiam terlalu lama.
+"Daftar vendor lama. Saya tidak tahu apakah itu ayahmu. Nama lengkapnya sama, tapi saya belum memeriksa nomor identitas atau tanda tangan."
 
-"Belum tahu," tambahnya.
+"Bisa diperiksa?"
 
-Raka hampir tertawa, tetapi tidak jadi. Di fasilitas ini, **belum tahu** memang jawaban paling umum dan paling menakutkan.
+"Saya minta arsip administrasi. Kalau aksesnya masih ada, kita cocokkan."
 
-"Kalau nanti ingat, catat sebelum lupa," kata Raka.
+"Terima kasih."
 
-Hendra mengangguk. "Akan saya lakukan."
+Hendra mengangguk. Ia tidak menambahkan kalimat samar dan tidak menghindari pertanyaan.
 
-Malamnya, Raka duduk di ruang tunggu dekat jendela. Ia membuat peta hubungan pada kertas: kotak P-19, dua benda logam, arsip 1988, nama ayah, medali, Alina, OM-7E, 23:17, offset 0,8 detik, dan durasi 16,8 detik.
+Malamnya, Raka duduk di ruang tunggu dan membuat peta sederhana di atas kertas. Ia menulis:
 
-Ia menulis satu kata besar di tengah halaman:
+**P-07 — objek dalam analisis.**
 
-**SAYA**
+**P-19 — arsip Percobaan 18.**
 
-Maya lewat dan berhenti.
+**R.P. — tanda pada benda dan foto.**
 
-"Kenapa ‘saya’?"
+**P18_CONTACT_EXT_03 — kontak eksternal.**
 
-"Karena saya belum tahu apakah saya hanya orang yang melihat pola, atau orang yang dibutuhkan pola itu."
+**Ayah — nama cocok, hubungan belum terbukti.**
 
-Maya melihat kertas tersebut.
+Ia menarik garis antara P-19 dan nomor kontak. Kemudian ia menulis pertanyaan:
 
-"Subjek diamati," katanya. "Pembawa membawa sesuatu dari satu titik ke titik lain. Bisa informasi. Bisa referensi. Bisa hubungan yang tidak terlihat."
+**Apa yang dilakukan kontak eksternal tiga hari setelah percobaan dihentikan?**
 
-"Jadi pembawa tidak harus membawa benda secara fisik?"
+Maya datang membawa tablet.
 
-"Tidak selalu."
+"Alina menemukan sesuatu," katanya.
 
-Raka mengangguk. Penjelasan itu lebih masuk akal daripada menyelipkan objek anomali ke saku, dan ia menghargai itu.
+"Bukti baru atau dugaan baru?"
 
-Pukul 23:17, lampu ruang tunggu berkedip sekali, lalu dua kali.
+"Bukti teknis. Terminal lama di bangunan timur mengirim sinyal ketika ia membuka salinan arsip P-19."
 
-Di ruang analisis, sensor memberi notifikasi. Wadah P-07 masih tersegel. Kamera menunjukkan tidak ada orang menyentuhnya.
+Raka melihat waktu pada notifikasi: 22:56.
 
-Pada layar lain, pintu bangunan timur berubah status.
+"Apa isi sinyalnya?"
 
-**AKSES OTOMATIS TERSEDIA.**
+"Belum ada isi yang terbaca. Hanya nomor kanal dan waktu."
 
-Alina berdiri di ujung koridor, tablet birunya memantulkan cahaya.
+"Kenapa kita perlu ke sana?"
 
-Raka bangkit, tetapi tidak langsung mengikutinya. Ia mengambil ponsel dan menghubungi Hendra.
+"Karena kanal itu terhubung ke pencatat lama, bukan ke sistem utama. Kalau kita menunggu, data mungkin tertimpa. Hendra sedang meminta akses resmi untuk pemeriksaan singkat."
 
-"Pak, akses bangunan timur berubah otomatis pada 23:17. Alina ada di depan pintu. Saya tidak akan masuk tanpa pendamping dan otorisasi."
+Beberapa menit kemudian, Hendra datang membawa formulir tugas.
 
-Hendra menjawab setelah beberapa detik.
+"Pemeriksaan komunikasi bangunan timur," katanya. "Kita masuk bertiga dengan Alina dan petugas keamanan. Tidak ada pemindahan objek. P-07 tetap di ruang analisis."
 
-"Tunggu di tempat. Saya datang."
+Raka membaca formulir, memeriksa jalur akses, lalu menandatangani.
 
-Alina menoleh dari kejauhan. "Kalau kamu ingin jawaban, waktunya sekarang."
+"Tujuan tugasnya mengambil salinan sinyal dan memeriksa terminal, bukan membuka ruang eksperimen?"
 
-"Kalau jawaban itu mengharuskan saya melanggar prosedur, berarti belum waktunya."
+"Benar."
 
-Alina memandangnya tanpa ekspresi.
+"Kalau sistem membuka pintu sendiri?"
 
-"Kamu berbeda dari yang tertulis di arsip."
+"Kita berhenti dan lapor."
 
-"Saya harap begitu. Arsipnya tidak punya catatan perawatan yang bagus."
+"Baik."
 
-Hendra tiba bersama petugas keamanan. Ia membuka log akses, memeriksa perubahan status, dan menghubungi ruang kontrol.
+Alina sudah menunggu di koridor dengan tablet biru. Ia membawa daftar file, bukan kotak atau benda logam.
 
-"Apakah pembukaan pintu ini diotorisasi manusia?" tanyanya melalui radio.
+"Saya tidak tahu apa yang akan kita temukan," katanya kepada Raka. "Saya hanya tahu sinyalnya berasal dari terminal yang menyimpan log Percobaan 18. Saya ingin mengambil salinan sebelum sistem menulis ulang bagian lama."
 
-Operator menjawab, "Tidak ada otorisasi manual. Sistem menampilkan flag **PEMBAWA TERDETEKSI**."
+"Itu alasan yang cukup," jawab Raka.
 
-Hendra menatap Raka.
+Mereka berjalan ke bangunan timur bersama petugas keamanan. Tidak ada yang mengikuti siapa pun diam-diam. Akses dicatat. Waktu masuk dicatat. Pintu dibuka menggunakan otorisasi fasilitas.
 
-"Kita tidak masuk tanpa prosedur."
+Di dalam, terminal lama berada di ruang servis yang terdaftar pada peta. Alina memotret panel, memeriksa nomor terminal, lalu menghubungkan perangkat pembaca melalui port yang disetujui. Maya menyiapkan dua pencatat waktu. Raka berdiri di sisi panel dan mengawasi jalur komunikasi.
 
-Sebelum mereka dapat mengambil keputusan, pintu bangunan timur terbuka sendiri.
+Terminal menyala.
 
-Dari dalam terdengar suara rendah melalui interkom.
+Log lama muncul sedikit demi sedikit.
 
-"Raka."
+**TAHUN 1988 — REFERENSI A: AKTIF**
 
-Petugas keamanan mengangkat tangan, meminta semua orang tetap di tempat.
+**TAHUN 1988 — REFERENSI B: DATA TIDAK LENGKAP**
 
-Hendra memeriksa panel. Tidak ada alarm kebakaran, tekanan udara stabil, dan tidak ada indikasi kerusakan fisik. Namun sistem akses terus menghitung mundur.
+Alina memperbesar baris berikutnya.
 
-**PENUTUP OTOMATIS: 00:30**
+**KONTAK EKSTERNAL: P18_CONTACT_EXT_03**
 
-"Kalau pintu menutup, kita kehilangan akses dan mungkin data," kata Maya yang baru tiba di belakang mereka.
+Raka menahan napas.
 
-Raka memandang Hendra. "Apa pilihan paling aman?"
+Nomor itu sama dengan nomor pada dokumen administrasi yang memuat nama ayahnya.
 
-Hendra memeriksa panel sekali lagi. "Masuk bersama. Tidak ada yang memisahkan diri. Tetap di jalur yang terlihat kamera. Kalau ada perubahan, kita keluar."
+Tidak ada nama pada terminal. Tidak ada pernyataan bahwa ayah Raka adalah Referensi B. Hanya nomor kontak yang sama dan sebuah kolom yang sebagian besar rusak.
 
-Raka mengangguk. "Saya setuju. Tolong catat keputusan dan waktunya."
+Maya menyalin log mentah.
 
-Petugas keamanan mencatat akses. Hendra menandatangani sebagai pendamping. Maya membawa tablet pemantau. Alina masuk lebih dulu, tetapi berhenti setelah beberapa langkah dan menunggu mereka.
+"Kita punya kecocokan nomor," katanya. "Belum punya identitas referensi."
 
-Raka melangkah melewati ambang pintu bersama Hendra dan Maya.
+"Saya tahu," jawab Raka. "Saya tidak akan menyebutnya lebih dari itu."
 
-Ia tidak membawa objek P-07. Wadah itu tetap berada di ruang analisis, dipantau kamera dan sensor. Namun ketika Raka masuk, salah satu sistem di dalam bangunan timur mengeluarkan bunyi pendek.
+Pada saat yang sama, pencatat di ruang analisis menerima data dari P-07.
 
-**PEMBAWA TERDETEKSI.**
+Maya melihat layar tablet. "P-07 baru saja mencatat perubahan."
 
-Lampu koridor menyala satu per satu.
+Raka memeriksa waktu pada dua pencatat.
 
-Di ruang kontrol, operator melihat dua titik referensi aktif: satu pada objek yang tersegel di ruang analisis, satu pada sosok Raka di bangunan timur.
+Data dari P-07 muncul **0,8 detik lebih dulu** daripada respons terminal bangunan timur.
 
-Ia melaporkan, "Pembawa sudah masuk."
+Alina menatap kedua layar. "Kalau terminal menerima data dari P-07, urutannya seharusnya terbalik."
 
-Suara dari interkom menjawab, "Biarkan."
+"Atau kedua sistem membaca sumber ketiga," kata Maya.
 
-Operator terdiam. "Kenapa?"
+"Sumber yang tidak memiliki alamat," tambah Raka.
 
-"Sudah waktunya."
+Mereka tidak menyebutnya pembawa. Tidak ada yang menyebut Raka subjek. Istilah-istilah itu tetap berada di arsip, belum menjadi kesimpulan.
 
-Raka berjalan di antara Hendra dan Maya. Dinding koridor berbau logam tipis. Di ujung lorong, bayangan yang sama dari foto lama tampak pada permukaan kaca.
+Terminal menampilkan satu baris tambahan:
 
-Raka berhenti.
+**REFERENSI B: NAMA TIDAK TERSEDIA**
 
-"Saya melihat sesuatu di depan," katanya.
+Lalu baris itu berubah menjadi:
 
-Hendra mengangkat senter, tetapi bayangan itu menghilang sebelum cahaya mencapai kaca.
+**REFERENSI B: KONTAK EKSTERNAL TERHUBUNG**
 
-Maya memeriksa monitor. "Jangan dekati kaca. Kita dokumentasikan dari sini."
+Raka meminta Alina tidak menekan tombol apa pun.
 
-Raka memotret dari posisi yang ditentukan, lalu menyimpan file asli.
+"Salin dulu semua yang terlihat."
 
-Di layar kecil bangunan timur, huruf-huruf lama muncul:
+"Sudah berjalan," jawab Alina.
 
-**PEMBAWA TELAH MASUK.**
+Lampu koridor berkedip sekali.
 
-Kemudian baris berikutnya:
+Di layar terminal, waktu lokal menunjukkan 23:17. Pencatat P-07 menunjukkan 23:16:59, sedangkan terminal baru menulis 23:17:00.
 
-**MEMULAI PROTOKOL 19.**
+Tiga angka itu tidak cocok.
 
-Protokol 19 bukan mesin penghancur dan bukan pintu menuju tempat lain. Dari catatan yang sempat terlihat di layar, ia adalah rangkaian penguncian, pencatatan temporal, dan pemisahan jalur komunikasi ketika dua titik referensi bertemu dengan pembawa.
+Petugas keamanan melaporkan melalui radio bahwa pintu keluar masih terbuka dan tidak ada alarm. Hendra meminta semua orang tetap di tempat sampai salinan selesai.
 
-Tidak seorang pun tahu apakah sistem itu masih aman setelah tiga puluh delapan tahun.
+Raka memeriksa kabel, panel, dan indikator. Tidak ada perangkat yang disentuh di luar prosedur. Ia menunggu pencatat menyelesaikan penulisan.
 
-Namun sistem mengenali syaratnya lebih cepat daripada manusia.
+Salinan berhasil.
 
-Di ruang analisis, lampu objek P-07 menyala melalui wadah tersegel.
+Alina mencabut pembaca data dan memasang kembali penutup port. Maya memastikan file mentah tersimpan di dua perangkat.
 
-Di bangunan timur, Raka berdiri sebagai titik kedua.
+"Kita keluar," kata Hendra.
 
-Di antara keduanya, semua jam berhenti selama 0,8 detik.
+Mereka meninggalkan ruang servis bersama-sama.
 
-Raka tidak tahu apa yang akan terjadi. Ia hanya tahu bahwa kali ini ia tidak berjalan sendirian, tidak membawa benda itu di saku, dan tidak bertindak tanpa mencatat keputusan.
+Saat Raka melewati ambang pintu bangunan timur, speaker tua di koridor mengeluarkan bunyi pendek. Bukan suara manusia. Bukan alarm. Hanya nada yang sama dengan yang muncul pada log OM-7E.
 
-Namun tetap saja, ia sudah masuk.
+Pintu menutup di belakang mereka.
 
-Lampu di koridor berkedip sekali.
+Di ruang kontrol, satu baris baru muncul dari sistem lama:
 
-Dari balik pintu yang lebih jauh, suara seseorang memanggil namanya.
+**P-19: PENCATATAN LANJUTAN DIMULAI.**
 
-Dan sistem lama yang tidak selesai sejak 1988 mulai menjalankan urutan yang pernah dihentikan.
+Tidak ada kata pembawa. Tidak ada perintah untuk membiarkan atau mengejar siapa pun.
+
+Hanya sebuah proses lama yang kembali menulis setelah tiga puluh delapan tahun, dan satu nomor kontak yang menghubungkan masa lalu Raka dengan sesuatu yang belum dapat mereka namai.
